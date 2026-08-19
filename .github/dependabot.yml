@@ -1,0 +1,35 @@
+version: 2
+
+updates:
+  # ---- Python runtime dependencies -------------------------------------------------
+  - package-ecosystem: "pip"
+    directory: "/scripts"
+    schedule:
+      interval: "quarterly"
+      time: "06:00"
+      timezone: "Etc/UTC"
+    open-pull-requests-limit: 5
+    labels: ["dependencies", "python"]
+    commit-message:
+      prefix: "chore(deps)"
+      prefix-development: "chore(deps-dev)"
+    groups:
+      python-minor-and-patch:
+        patterns: ["*"]
+        update-types: ["minor", "patch"]
+
+  # ---- GitHub Actions used by the scheduled workflow -------------------------------
+  # Actions are pinned to commit SHAs; Dependabot keeps the pins current.
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "semiannually"
+      time: "06:00"
+      timezone: "Etc/UTC"
+    open-pull-requests-limit: 5
+    labels: ["dependencies", "github-actions"]
+    commit-message:
+      prefix: "chore(actions)"
+    groups:
+      actions-all:
+        patterns: ["*"]

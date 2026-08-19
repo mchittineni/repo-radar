@@ -1,0 +1,77 @@
+name: ✨ Feature request
+description: Suggest new data, a new dashboard section, or a new option.
+title: "feat: <short description>"
+labels: ["enhancement", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas that make the dashboard more useful — or more fun to read — are very welcome.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is missing today
+      description: Describe the gap rather than the solution. What can't you see or do?
+      placeholder: >
+        I can't tell at a glance which repositories have failing CI, because the status is only
+        visible inside each collapsed section.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What you would like instead
+      description: If it changes the generated README, sketch the Markdown or describe the layout.
+      placeholder: |
+        A "needs attention" section listing repositories whose latest workflow run failed.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where it belongs
+      options:
+        - Dashboard section or layout (update_status.py generators)
+        - New data from the GitHub API
+        - Repository discovery / filtering (sync_repos.py)
+        - CLI flags or run.sh wrapper
+        - GitHub Actions workflow
+        - Docs
+        - Something else
+    validations:
+      required: true
+
+  - type: dropdown
+    id: renders
+    attributes:
+      label: Does it rely on anything GitHub must render?
+      description: Mermaid diagrams, shields.io badges, and `<details>` blocks all render; scripts do not.
+      options:
+        - Plain Markdown only
+        - Mermaid diagram
+        - Shields.io badge
+        - Collapsible <details> block
+        - Not sure
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you considered
+      description: Existing flags, other tools, or workarounds you already tried.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues for the same idea
+          required: true
+        - label: I read INSTALLATION.md and confirmed an existing flag does not already cover this
+          required: true
+        - label: I would be willing to open a pull request for it
+          required: false
