@@ -1,0 +1,71 @@
+# Repo Radar — project metadata and tool configuration.
+#
+# This repository is a scheduled job, not a distributable package: the entry points are the
+# scripts under scripts/. There is deliberately no [build-system] table, so install the
+# runtime dependencies with:
+#
+#   pip install -r scripts/requirements.txt
+
+[project]
+name = "repo-radar"
+version = "2.0.0"
+description = "Live GitHub repository status dashboard, generated straight into README.md."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Manideep Chittineni", email = "mchittineni@users.noreply.github.com" }]
+keywords = ["github", "dashboard", "readme", "automation", "github-actions"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Environment :: Console",
+  "Intended Audience :: Developers",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Software Development :: Version Control :: Git",
+  "Topic :: Utilities",
+]
+dependencies = ["requests>=2.34.2"]
+
+[project.optional-dependencies]
+dev = ["pre-commit>=4.0.0", "ruff>=0.9.0"]
+
+[project.urls]
+Homepage = "https://github.com/mchittineni/repo-radar"
+Issues = "https://github.com/mchittineni/repo-radar/issues"
+Installation = "https://github.com/mchittineni/repo-radar/blob/main/INSTALLATION.md"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+src = ["scripts"]
+extend-exclude = ["data"]
+
+[tool.ruff.lint]
+select = [
+  "E",   # pycodestyle errors
+  "F",   # pyflakes
+  "W",   # pycodestyle warnings
+  "I",   # import sorting
+  "UP",  # pyupgrade
+  "B",   # flake8-bugbear
+  "C4",  # comprehensions
+  "SIM", # simplifications
+  "RUF", # ruff-specific
+]
+ignore = [
+  "E501",    # long lines are caught by the formatter, not the linter
+  "RUF001",  # the dashboard intentionally uses typographic characters
+  "RUF002",
+  "RUF003",
+]
+
+[tool.ruff.lint.per-file-ignores]
+# The scripts log with f-strings and catch broad exceptions on purpose so a single
+# failing repository never aborts a whole run.
+"scripts/*.py" = ["B904", "BLE001"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
