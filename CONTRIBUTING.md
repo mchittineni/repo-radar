@@ -62,6 +62,38 @@ pre-commit install
    resulting `README.md` so reviewers can see the rendered effect.
 5. **Do not commit secrets.** Tokens belong in `.env` (git-ignored) or repository secrets.
 
+## What CI checks
+
+Every pull request against `main` runs [`.github/workflows/pr-check.yml`](.github/workflows/pr-check.yml):
+
+| Job | What it does |
+|---|---|
+| 🧹 **Lint** | `ruff check`, byte-compiles `scripts/`, and shellchecks `scripts/run.sh` |
+| ✅ **Validate** | parses every workflow, issue form, JSON data file and `pyproject.toml`, then checks `data/repos.json` has no duplicates, every curated blurb points at a tracked repository, and `README.md` still has its generated-section markers |
+| 🛰️ **Smoke** | runs the discovery in `--dry-run` mode and generates a dashboard into a scratch file, asserting one detail block per tracked repository and no leaked `None` values or unrendered placeholders |
+
+The smoke job uses the built-in `GITHUB_TOKEN`, so it works on pull requests from
+forks without any secret. It never writes to the repository copies of `README.md` or
+`data/`.
+
+Reproduce all three locally:
+
+```bash
+pip install ruff
+ruff check .
+python -m compileall -q scripts
+shellcheck --severity=warning scripts/run.sh
+python .github/scripts/validate_repo.py
+
+export GH_TOKEN=$(gh auth token)
+python scripts/update_status.py --sort stars --readme /tmp/README.generated.md
+python .github/scripts/assert_dashboard.py /tmp/README.generated.md
+```
+
+A missing curated blurb is only a notice, not a failure — `sync_repos.py` can discover
+a repository at any time and the generator falls back to its GitHub description. An
+*orphan* blurb naming a repository that is no longer tracked does fail the build.
+
 ## Style
 
 - **Python**: standard library first, `requests` for HTTP, type hints on function signatures, and a
