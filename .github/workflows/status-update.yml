@@ -1,0 +1,82 @@
+name: Update Repository Status
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  GH_USERNAME: ${{ vars.GH_USERNAME || 'mchittineni' }}
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  PYTHON_VERSION: "3.13"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: ⬇️ Checkout Repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: "pip"
+
+      - name: 📦 Install Python Dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: 🔍 Check GitHub API Rate Limit
+        run: |
+          echo "Checking GitHub API rate limit status..."
+          curl -s -H "Authorization: Bearer ${{ secrets.GH_TOKEN }}" https://api.github.com/rate_limit | jq .
+
+      - name: 🔄 Sync Tracked Repository List
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          echo "Discovering repositories owned by $GH_USERNAME..."
+          python scripts/sync_repos.py --verbose
+
+      - name: 🧹 Clean README before update
+        run: |
+          echo "Cleaning README.md to remove any duplicate sections..."
+          python scripts/cleanup_readme.py --verbose --backup
+
+      - name: 🛠️ Run Python Update Script
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LOG_LEVEL: "INFO"
+        run: |
+          echo "Running repository status update script for $GH_USERNAME..."
+          python scripts/update_status.py --sort stars --verbose
+
+      - name: 📊 Generate Status Summary
+        run: |
+          echo "### Repository Status Update Results" >> $GITHUB_STEP_SUMMARY
+          echo "- Tracked account: [@$GH_USERNAME](https://github.com/$GH_USERNAME)" >> $GITHUB_STEP_SUMMARY
+          echo "- Updated at: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "- Updated repositories: $(grep -c '<!-- repo:' README.md || echo 0)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "See the [README.md](https://github.com/${{ github.repository }}/blob/${{ github.ref_name }}/README.md) for details." >> $GITHUB_STEP_SUMMARY
+
+      - name: 🔁 Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Check if there are any changes to commit
+          if git diff --name-only | grep -q .; then
+            echo "Changes detected, committing..."
+            git add README.md data/repos.json data/repo-metadata.json
+            git commit -m "fix(git-tracker): auto-updated project status with latest changes [skip ci]"
+            git push
+          else
+            echo "No changes detected, skipping commit"
+          fi

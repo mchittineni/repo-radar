@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔐 Report a security vulnerability
+    url: https://github.com/mchittineni/repo-radar/security/advisories/new
+    about: Please report security issues privately — never in a public issue.
+  - name: 📦 Installation and setup help
+    url: https://github.com/mchittineni/repo-radar/blob/main/INSTALLATION.md
+    about: Token setup, first run, GitHub Actions configuration, and troubleshooting.
+  - name: 💬 Ask a question
+    url: https://github.com/mchittineni/repo-radar/discussions
+    about: General questions and ideas that are not yet a bug report.

@@ -1,0 +1,178 @@
+{
+  "ultimate-devops-guide": {
+    "displayName": "Ultimate DevOps Guide",
+    "description": "500+ DevOps, SRE, security, cloud, and platform engineering interview questions across 40 topics, each with a short answer, detail, worked example, and interview tips.",
+    "techStack": [
+      "Python",
+      "DevOps",
+      "SRE",
+      "Kubernetes",
+      "Interview Prep"
+    ],
+    "status": "Flagship"
+  },
+  "ultimate-ai-engineering-guide": {
+    "displayName": "Ultimate AI Engineering Guide",
+    "description": "100+ AI, GenAI, LLM, agentic-AI, and LLMOps interview questions across 10 topics, each with a short answer, detail, worked example, and interview tips.",
+    "techStack": [
+      "Python",
+      "LLM",
+      "Agentic AI",
+      "LLMOps",
+      "Interview Prep"
+    ],
+    "status": "Flagship"
+  },
+  "mchittineni": {
+    "displayName": "Profile README",
+    "description": "GitHub profile README — an animated landing page for the account, refreshed by its own scheduled workflows.",
+    "techStack": [
+      "Markdown",
+      "GitHub Actions",
+      "Shields"
+    ],
+    "status": "Profile"
+  },
+  "india-village-finder": {
+    "displayName": "India Village Finder",
+    "description": "Interactive maps and search across Indian villages, joining LGD administrative hierarchies with live market prices, farm schemes, and soil profiles.",
+    "techStack": [
+      "JavaScript",
+      "GIS",
+      "Open Data",
+      "Maps"
+    ],
+    "status": "Active build"
+  },
+  "iacsecbench": {
+    "displayName": "IaC Security Benchmark",
+    "description": "An open framework and empirical benchmark for evaluating Infrastructure-as-Code security gates.",
+    "techStack": [
+      "Python",
+      "IaC",
+      "Security",
+      "Benchmark"
+    ],
+    "status": "Research"
+  },
+  "mchittineni-portfolio": {
+    "displayName": "Portfolio Site",
+    "description": "Personal portfolio site built with Vue.",
+    "techStack": [
+      "Vue",
+      "Nuxt",
+      "Frontend"
+    ],
+    "status": "Stable"
+  },
+  "ai-job-serve": {
+    "displayName": "AI Job Agent",
+    "description": "Autonomous job-application agent: scrapes boards, scores each listing with Gemini, then drafts a tailored resume and cover letter grounded in an Obsidian vault.",
+    "techStack": [
+      "Python",
+      "Gemini",
+      "SQLite",
+      "Automation"
+    ],
+    "status": "Experiment"
+  },
+  "sports-monitor": {
+    "displayName": "Sports Monitor",
+    "description": "Cloud-native web app that visualises live sports activity worldwide in real time through an interactive map interface.",
+    "techStack": [
+      "HTML",
+      "Cloud",
+      "Real-time",
+      "Maps"
+    ],
+    "status": "Showcase"
+  },
+  "eks-terraform": {
+    "displayName": "EKS on Terraform",
+    "description": "Infrastructure-as-Code for a high-availability AWS architecture, provisioning cloud resources with Terraform.",
+    "techStack": [
+      "HCL",
+      "Terraform",
+      "AWS",
+      "EKS"
+    ],
+    "status": "Reference"
+  },
+  "Terraform-Scripts": {
+    "displayName": "Terraform Scripts",
+    "description": "Assorted Terraform scripts used for validating Infrastructure-as-Code changes.",
+    "techStack": [
+      "HCL",
+      "Terraform",
+      "IaC"
+    ],
+    "status": "Reference"
+  },
+  "repo-radar": {
+    "displayName": "Repo Radar",
+    "description": "This tracker: discovers every repository the account owns and renders stars, CI status, commits, activity and language mix straight into README.md on a schedule.",
+    "techStack": [
+      "Python",
+      "GitHub Actions",
+      "GitHub API",
+      "Markdown"
+    ],
+    "status": "Active build"
+  },
+  "cloud-platform-skills": {
+    "displayName": "Cloud & Platform Skills",
+    "description": "40+ eval-gated agent skills for cloud, platform, SRE, security, and FinOps work — portable across Claude Code, Antigravity/Gemini, Codex, Cursor, and Copilot.",
+    "techStack": [
+      "Python",
+      "Agent Skills",
+      "FinOps",
+      "SecOps",
+      "SRE"
+    ],
+    "status": "Active build"
+  },
+  "mutual-fund-analysis-tracker": {
+    "displayName": "Indian Mutual Fund Tracker",
+    "description": "Daily AMFI NAV pipeline with SQLite provenance and a Postgres mirror, computing returns, risk, and risk-adjusted metrics, published to a Streamlit dashboard and Pages report.",
+    "techStack": [
+      "Python",
+      "SQLite",
+      "Postgres",
+      "Streamlit",
+      "GitHub Actions"
+    ],
+    "status": "Active build"
+  },
+  "ultimate-platform-engineering-guide": {
+    "displayName": "Ultimate Platform Engineering Guide",
+    "description": "136 platform engineering interview questions across 20 topics, plus a derived knowledge graph of the concepts they share.",
+    "techStack": [
+      "Python",
+      "Backstage",
+      "Crossplane",
+      "GitOps",
+      "Knowledge Graph"
+    ],
+    "status": "Flagship"
+  },
+  "blast-radius-check": {
+    "displayName": "Blast Radius Check",
+    "description": "GitHub Action that analyses a pull request against a cross-repo dependency graph and comments which downstream repositories it affects.",
+    "techStack": [
+      "TypeScript",
+      "GitHub Actions",
+      "Impact Analysis"
+    ],
+    "status": "Active build"
+  },
+  "blast-radius-indexer": {
+    "displayName": "Blast Radius Indexer",
+    "description": "Scans an organisation's repositories and builds a cross-repo dependency graph for npm, Docker, and Terraform artifacts.",
+    "techStack": [
+      "TypeScript",
+      "GitHub Actions",
+      "Dependency Graph"
+    ],
+    "status": "Active build"
+  }
+}

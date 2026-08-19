@@ -1,0 +1,99 @@
+name: 🐛 Bug report
+description: The tracker crashed, produced wrong data, or generated a broken dashboard.
+title: "fix: <short description>"
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. Please do **not** paste tokens, secrets, or private URLs —
+        for security issues use the
+        [private advisory form](https://github.com/mchittineni/repo-radar/security/advisories/new)
+        instead.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What went wrong, and what did you expect instead?
+      placeholder: |
+        `python scripts/update_status.py` finished, but three repositories are missing from the
+        Every repository table.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Which part is affected
+      options:
+        - sync_repos.py (discovering repositories)
+        - update_status.py (fetching stats / writing README)
+        - cleanup_readme.py (de-duplicating sections)
+        - run.sh (wrapper script)
+        - GitHub Actions workflow
+        - Generated dashboard rendering on GitHub
+        - Docs
+        - Not sure
+    validations:
+      required: true
+
+  - type: dropdown
+    id: how-run
+    attributes:
+      label: How were you running it
+      options:
+        - Locally
+        - GitHub Actions (scheduled)
+        - GitHub Actions (manual dispatch)
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      value: |
+        1. `export GH_TOKEN=...`
+        2. `python scripts/sync_repos.py`
+        3. `python scripts/update_status.py --sort stars --verbose`
+        4. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: >
+        From the terminal, the Actions run, or `data/repo_status.log`. Redact tokens
+        and anything private.
+      render: text
+
+  - type: input
+    id: python-version
+    attributes:
+      label: Python version
+      placeholder: "3.13.1 (python3 --version)"
+    validations:
+      required: true
+
+  - type: input
+    id: os
+    attributes:
+      label: Operating system
+      placeholder: "macOS 15.2 / Ubuntu 24.04 / ubuntu-latest runner"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I re-ran `python scripts/sync_repos.py` to rule out a stale `data/repos.json`
+          required: true
+        - label: I checked the log for `rate limit` messages
+          required: true
+        - label: My report contains no tokens or secrets
+          required: true

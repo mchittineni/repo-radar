@@ -1,0 +1,97 @@
+name: PR Check
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# A new push to the same pull request supersedes the previous run.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  PYTHON_VERSION: "3.13"
+
+jobs:
+  lint:
+    name: 🧹 Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout Repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: 📦 Install linters
+        run: pip install ruff
+
+      - name: 🐍 Ruff
+        run: ruff check --output-format=github .
+
+      - name: 🧩 Byte-compile the tracker scripts
+        run: python -m compileall -q scripts
+
+      - name: 🐚 Shellcheck the wrapper
+        run: shellcheck --severity=warning scripts/run.sh
+
+  validate:
+    name: ✅ Validate config and data
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout Repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: 📦 Install parsers
+        run: pip install pyyaml
+
+      - name: 🔍 Parse every config file and check the tracked data
+        run: python .github/scripts/validate_repo.py
+
+  smoke:
+    name: 🛰️ Dashboard smoke test
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout Repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: "pip"
+
+      - name: 📦 Install Python Dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: 🔎 Discover repositories (dry run, writes nothing)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ vars.GH_USERNAME || 'mchittineni' }}
+        run: python scripts/sync_repos.py --dry-run --verbose
+
+      - name: 🛠️ Generate a dashboard into a scratch file
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ vars.GH_USERNAME || 'mchittineni' }}
+          README_FILE: ${{ runner.temp }}/README.generated.md
+          METADATA_FILE: ${{ runner.temp }}/repo-metadata.json
+        run: python scripts/update_status.py --sort stars --readme "$README_FILE"
+
+      - name: 🧪 Assert the generated dashboard is well formed
+        env:
+          GENERATED: ${{ runner.temp }}/README.generated.md
+        run: python .github/scripts/assert_dashboard.py "$GENERATED"
