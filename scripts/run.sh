@@ -10,10 +10,15 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 cd "$REPO_ROOT"
 
-# Load environment variables if .env file exists
+# Load environment variables if .env file exists.
+# Sourcing with allexport handles quoted values and comments correctly, which the
+# older `export $(... | xargs)` form mangles.
 if [ -f .env ]; then
   echo "Loading environment variables from .env file"
-  export $(grep -v '^#' .env | xargs)
+  set -a
+  # shellcheck source=/dev/null
+  . ./.env
+  set +a
 fi
 
 # Display help if requested
