@@ -6,8 +6,8 @@
 
 Every repository, star, commit, and CI result — refreshed automatically by GitHub Actions. 🤖
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--19%2015%3A32%20UTC-blue?style=flat-square)
-![Repositories](https://img.shields.io/badge/Repositories-15-6f42c1?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--19%2015%3A41%20UTC-blue?style=flat-square)
+![Repositories](https://img.shields.io/badge/Repositories-16-6f42c1?style=flat-square)
 ![Stars](https://img.shields.io/badge/Stars-56-f1c40f?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-2ea44f?style=flat-square)
 
@@ -24,7 +24,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | 📦 Repos | ⭐ Stars | 🍴 Forks | 🐛 Open issues | 🧠 Languages | ✅ CI green | 🔥 Active now |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| **15** | **56** | **14** | **7** | **15** | **12/15** | **4** |
+| **16** | **56** | **14** | **7** | **15** | **12/16** | **5** |
 
 ## 🏆 Star leaderboard
 
@@ -38,12 +38,12 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 ## ⏱️ Freshly pushed
 
+- 🔥 **[repo-radar](https://github.com/mchittineni/repo-radar)** · just now · [chore: initial commit](https://github.com/mchittineni/repo-radar/commit/f2e112bf886b7643176675f13a7104881cb3b5f0)
 - 🔥 **[cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills)** · just now · [fix(workflows): updated workflow names to be more descrip...](https://github.com/mchittineni/cloud-platform-skills/commit/b58a22ec811ffc686c082b8f19bc929fc1a09850)
 - 🔥 **[mchittineni](https://github.com/mchittineni/mchittineni)** · 3 hours ago · [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/f7ea0a5f0d324770b0366c6001bb6fadd2097a67)
 - 🔥 **[ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide)** · 21 hours ago · [Merge pull request #5 from mchittineni/feat/expanded-ques...](https://github.com/mchittineni/ultimate-ai-engineering-guide/commit/b8079c91ad5c0f778d23b6b89cd294312a65c282)
 - 🔥 **[india-village-finder](https://github.com/mchittineni/india-village-finder)** · yesterday · [Merge pull request #82 from mchittineni/data/auto-refresh](https://github.com/mchittineni/india-village-finder/commit/cb1346adf9add975f814c9dc3cdfc01d9677ca1a)
 - ✨ **[mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker)** · 5 days ago · [refactor: stage syncs in temp tables, and document the mi...](https://github.com/mchittineni/mutual-fund-analysis-tracker/commit/b3007b9f9434883e8ae0e9a5a1c7936f59544956)
-- ✨ **[ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide)** · 5 days ago · [chore(docs): regenerate knowledge graph to match the temp...](https://github.com/mchittineni/ultimate-devops-guide/commit/b7f4d2a0a92516886e55cbe40d7670d007dfdc97)
 
 ## 🧬 Language mix
 
@@ -228,11 +228,12 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | 8 | ✨ [sports-monitor](https://github.com/mchittineni/sports-monitor) | 1 | 0 | 0 | ✅ pass | 1 week ago |
 | 9 | ✨ [eks-terraform](https://github.com/mchittineni/eks-terraform) | 1 | 0 | 0 | · none | 1 week ago |
 | 10 | ✨ [Terraform-Scripts](https://github.com/mchittineni/Terraform-Scripts) | 1 | 0 | 0 | · none | 1 week ago |
-| 11 | 🔥 [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 0 | 0 | 0 | ✅ pass | just now |
-| 12 | ✨ [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 0 | 0 | 0 | ✅ pass | 5 days ago |
-| 13 | ✨ [ultimate-platform-engineering-guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) | 0 | 0 | 0 | ✅ pass | 6 days ago |
-| 14 | ✨ [blast-radius-check](https://github.com/mchittineni/blast-radius-check) | 0 | 0 | 0 | ✅ pass | 1 week ago |
-| 15 | ✨ [blast-radius-indexer](https://github.com/mchittineni/blast-radius-indexer) | 0 | 0 | 0 | ✅ pass | 1 week ago |
+| 11 | 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 0 | 0 | 0 | · none | just now |
+| 12 | 🔥 [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 0 | 0 | 0 | ✅ pass | just now |
+| 13 | ✨ [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 0 | 0 | 0 | ✅ pass | 5 days ago |
+| 14 | ✨ [ultimate-platform-engineering-guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) | 0 | 0 | 0 | ✅ pass | 6 days ago |
+| 15 | ✨ [blast-radius-check](https://github.com/mchittineni/blast-radius-check) | 0 | 0 | 0 | ✅ pass | 1 week ago |
+| 16 | ✨ [blast-radius-indexer](https://github.com/mchittineni/blast-radius-indexer) | 0 | 0 | 0 | ✅ pass | 1 week ago |
 
 <sub>Click any repository below to expand commit info, languages, and topics.</sub>
 
@@ -563,6 +564,38 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Tech stack** | `HCL` · `Terraform` · `IaC` |
 
 <a href="https://github.com/mchittineni/Terraform-Scripts">Open repository →</a>
+
+</details>
+
+<!-- repo:repo-radar -->
+<details>
+<summary>
+  🔥
+  <strong><a href="https://github.com/mchittineni/repo-radar">repo-radar</a></strong>
+  &nbsp;<sub><code>repo-radar</code></sub>
+  &nbsp;·&nbsp; ⭐ 0
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI · none
+  <br><sub>🛰️ Repo Radar: a self-updating GitHub dashboard. Discovers every repository you own, then renders stars, CI status, commits, activity and…</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/mchittineni/repo-radar?style=flat-square)
+![Forks](https://img.shields.io/github/forks/mchittineni/repo-radar?style=flat-square)
+![Issues](https://img.shields.io/github/issues/mchittineni/repo-radar?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/mchittineni/repo-radar?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [chore: initial commit](https://github.com/mchittineni/repo-radar/commit/f2e112bf886b7643176675f13a7104881cb3b5f0) |
+| **Commit date** | `2026-08-19` |
+| **Author** | `mchittineni` |
+| **Repo updated** | `2026-08-19` (just now) |
+| **License** | `MIT License` |
+| **Languages** | _None detected_ |
+| **Topics** | `automation` · `dashboard` · `developer-tools` · `devops-tools` · `github-actions` · `github-api` |
+
+<a href="https://github.com/mchittineni/repo-radar">Open repository →</a>
 
 </details>
 

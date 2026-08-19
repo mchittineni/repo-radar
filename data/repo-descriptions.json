@@ -108,6 +108,17 @@
     ],
     "status": "Reference"
   },
+  "repo-radar": {
+    "displayName": "Repo Radar",
+    "description": "This tracker: discovers every repository the account owns and renders stars, CI status, commits, activity and language mix straight into README.md on a schedule.",
+    "techStack": [
+      "Python",
+      "GitHub Actions",
+      "GitHub API",
+      "Markdown"
+    ],
+    "status": "Active build"
+  },
   "cloud-platform-skills": {
     "displayName": "Cloud & Platform Skills",
     "description": "40+ eval-gated agent skills for cloud, platform, SRE, security, and FinOps work — portable across Claude Code, Antigravity/Gemini, Codex, Cursor, and Copilot.",
