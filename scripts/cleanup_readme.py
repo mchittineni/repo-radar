@@ -6,12 +6,11 @@ This script cleans up the README.md file by removing duplicate repository sectio
 and ensuring the markers are properly placed.
 """
 
-import re
-import logging
 import argparse
+import logging
+import re
 import sys
 from pathlib import Path
-from typing import List, Dict, Set, Tuple
 
 # README lives at the repository root, one level above scripts/
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -46,7 +45,7 @@ def parse_args() -> argparse.Namespace:
     )
     return parser.parse_args()
 
-def extract_repo_sections(content: str) -> Tuple[List[Dict[str, str]], List[str]]:
+def extract_repo_sections(content: str) -> tuple[list[dict[str, str]], list[str]]:
     """
     Extract repository sections from README content.
 
@@ -81,7 +80,7 @@ def extract_repo_sections(content: str) -> Tuple[List[Dict[str, str]], List[str]
 
     return repo_info, raw_sections
 
-def deduplicate_sections(sections: List[Dict[str, str]]) -> List[Dict[str, str]]:
+def deduplicate_sections(sections: list[dict[str, str]]) -> list[dict[str, str]]:
     """Remove duplicate repository sections while preserving order"""
     unique_sections = []
     seen_repos = set()
@@ -94,7 +93,7 @@ def deduplicate_sections(sections: List[Dict[str, str]]) -> List[Dict[str, str]]
 
     return unique_sections
 
-def rebuild_readme(original_content: str, unique_sections: List[Dict[str, str]]) -> str:
+def rebuild_readme(original_content: str, unique_sections: list[dict[str, str]]) -> str:
     """Rebuild README content with unique repository sections"""
     # Find start and end markers
     start_marker = "<!-- START_REPO_STATUS -->"
@@ -156,7 +155,7 @@ def main() -> int:
 
     # Read README content
     logger.info(f"Reading README file: {readme_path}")
-    with open(readme_path, "r", encoding="utf-8") as f:
+    with open(readme_path, encoding="utf-8") as f:
         content = f.read()
 
     # Create backup if requested
@@ -168,7 +167,7 @@ def main() -> int:
 
     # Extract repository sections
     logger.info("Extracting repository sections")
-    repo_sections, raw_sections = extract_repo_sections(content)
+    repo_sections, _raw_sections = extract_repo_sections(content)
 
     logger.info(f"Found {len(repo_sections)} repository sections")
     logger.debug(f"Repository names: {[section['name'] for section in repo_sections]}")

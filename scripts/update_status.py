@@ -13,18 +13,19 @@ Features:
 - Provides configurable options through environment variables
 """
 
-from datetime import datetime, timezone
-import requests
-import os
+import argparse
 import json
 import logging
-import time
-import argparse
-import sys
+import os
 import re
+import sys
+import time
 import unicodedata
-from typing import Dict, List, Optional, Any, Union
+from datetime import UTC, datetime
 from pathlib import Path
+from typing import Any
+
+import requests
 
 # Paths: code lives in scripts/, generated state lives in data/
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -93,7 +94,7 @@ def parse_arguments() -> argparse.Namespace:
     )
     return parser.parse_args()
 
-def load_repos(config_file: str) -> List[str]:
+def load_repos(config_file: str) -> list[str]:
     """
     Load repository names from the configuration file.
 
@@ -113,7 +114,7 @@ def load_repos(config_file: str) -> List[str]:
             logger.error(f"Configuration file not found: {config_file}")
             raise FileNotFoundError(f"Configuration file not found: {config_file}")
 
-        with open(config_path, "r", encoding="utf-8") as file:
+        with open(config_path, encoding="utf-8") as file:
             data = json.load(file)
 
         if "repositories" not in data:
@@ -177,7 +178,7 @@ def check_rate_limit(force: bool = False) -> bool:
         logger.warning(f"Could not check rate limit: {e}")
         return True  # Assume it's OK if we can't check
 
-def fetch_repo_status(repo: str, retries: int = MAX_RETRIES) -> Optional[Dict[str, Any]]:
+def fetch_repo_status(repo: str, retries: int = MAX_RETRIES) -> dict[str, Any] | None:
     """
     Fetch repository status from GitHub API.
 
@@ -268,14 +269,12 @@ def fetch_repo_status(repo: str, retries: int = MAX_RETRIES) -> Optional[Dict[st
             )
 
             languages = []
-            language_bytes: Dict[str, int] = {}
+            language_bytes: dict[str, int] = {}
             if languages_response.status_code == 200:
                 languages_data = languages_response.json()
-                language_bytes = {
-                    lang: size for lang, size in sorted(
-                        languages_data.items(), key=lambda item: item[1], reverse=True
-                    )
-                }
+                language_bytes = dict(
+                    sorted(languages_data.items(), key=lambda item: item[1], reverse=True)
+                )
                 languages = list(language_bytes.keys())
 
             # Get license information
@@ -330,7 +329,7 @@ def fetch_repo_status(repo: str, retries: int = MAX_RETRIES) -> Optional[Dict[st
 
     return None
 
-def load_descriptions(path: str = DESCRIPTIONS_FILE) -> Dict[str, Dict[str, Any]]:
+def load_descriptions(path: str = DESCRIPTIONS_FILE) -> dict[str, dict[str, Any]]:
     """
     Load the optional hand-written blurbs that override GitHub metadata.
 
@@ -346,7 +345,7 @@ def load_descriptions(path: str = DESCRIPTIONS_FILE) -> Dict[str, Dict[str, Any]
             logger.info(f"No curated descriptions found at {path}")
             return {}
 
-        with open(descriptions_path, "r", encoding="utf-8") as file:
+        with open(descriptions_path, encoding="utf-8") as file:
             data = json.load(file)
 
         if not isinstance(data, dict):
@@ -360,9 +359,9 @@ def load_descriptions(path: str = DESCRIPTIONS_FILE) -> Dict[str, Dict[str, Any]
         logger.warning(f"Could not read {path}: {e}")
         return {}
 
-DESCRIPTIONS: Dict[str, Dict[str, Any]] = load_descriptions()
+DESCRIPTIONS: dict[str, dict[str, Any]] = load_descriptions()
 
-def normalize_description(text: Optional[str], max_len: int = 140) -> str:
+def normalize_description(text: str | None, max_len: int = 140) -> str:
     """Flatten styled Unicode and trim descriptions for readable README text."""
     if not text or not text.strip():
         return "No description provided."
@@ -380,7 +379,7 @@ def normalize_description(text: Optional[str], max_len: int = 140) -> str:
 
     return cleaned or "No description provided."
 
-def format_number(value: Union[int, float]) -> str:
+def format_number(value: int | float) -> str:
     """Format integers with thousands separators for tables."""
     return f"{int(value):,}"
 
@@ -441,7 +440,7 @@ def truncate_text(text: str, max_len: int) -> str:
         return text
     return text[: max_len - 3].rstrip() + "..."
 
-def relative_age(raw_timestamp: Optional[str]) -> str:
+def relative_age(raw_timestamp: str | None) -> str:
     """Render an ISO timestamp as a friendly age such as "3 days ago"."""
     if not raw_timestamp:
         return "unknown"
@@ -451,7 +450,7 @@ def relative_age(raw_timestamp: Optional[str]) -> str:
     except ValueError:
         return "unknown"
 
-    delta = datetime.now(timezone.utc) - moment
+    delta = datetime.now(UTC) - moment
     days = delta.days
 
     if days <= 0:
@@ -472,7 +471,7 @@ def relative_age(raw_timestamp: Optional[str]) -> str:
     years = days // 365
     return f"{years} year{'s' if years > 1 else ''} ago"
 
-def heat_marker(raw_timestamp: Optional[str]) -> str:
+def heat_marker(raw_timestamp: str | None) -> str:
     """Signal how recently a repository moved."""
     if not raw_timestamp:
         return "💤"
@@ -482,7 +481,7 @@ def heat_marker(raw_timestamp: Optional[str]) -> str:
     except ValueError:
         return "💤"
 
-    days = (datetime.now(timezone.utc) - moment).days
+    days = (datetime.now(UTC) - moment).days
     if days <= 2:
         return "🔥"
     if days <= 14:
@@ -498,7 +497,7 @@ def spark_bar(value: int, peak: int, width: int = 18) -> str:
     filled = max(1, round(width * value / peak)) if value > 0 else 0
     return "█" * filled + "░" * (width - filled)
 
-def generate_stat_cards(repos_data: List[Dict[str, Any]]) -> str:
+def generate_stat_cards(repos_data: list[dict[str, Any]]) -> str:
     """Build the headline counters shown at the top of the generated section."""
     total_stars = sum(repo.get("stars", 0) for repo in repos_data)
     total_forks = sum(repo.get("forks", 0) for repo in repos_data)
@@ -510,21 +509,12 @@ def generate_stat_cards(repos_data: List[Dict[str, Any]]) -> str:
     return "\n".join([
         "| 📦 Repos | ⭐ Stars | 🍴 Forks | 🐛 Open issues | 🧠 Languages | ✅ CI green | 🔥 Active now |",
         "|:--:|:--:|:--:|:--:|:--:|:--:|:--:|",
-        "| **{}** | **{}** | **{}** | **{}** | **{}** | **{}/{}** | **{}** |".format(
-            len(repos_data),
-            format_number(total_stars),
-            format_number(total_forks),
-            format_number(total_issues),
-            len(languages),
-            passing,
-            len(repos_data),
-            hot,
-        ),
+        f"| **{len(repos_data)}** | **{format_number(total_stars)}** | **{format_number(total_forks)}** | **{format_number(total_issues)}** | **{len(languages)}** | **{passing}/{len(repos_data)}** | **{hot}** |",
     ])
 
-def language_totals(repos_data: List[Dict[str, Any]]) -> Dict[str, int]:
+def language_totals(repos_data: list[dict[str, Any]]) -> dict[str, int]:
     """Sum bytes written per language across every tracked repository."""
-    totals: Dict[str, int] = {}
+    totals: dict[str, int] = {}
     for repo in repos_data:
         for language, size in repo.get("language_bytes", {}).items():
             totals[language] = totals.get(language, 0) + int(size)
@@ -541,7 +531,7 @@ def format_bytes(size: int) -> str:
         value /= step
     return f"{value:.1f} GB"
 
-def generate_language_mix(repos_data: List[Dict[str, Any]]) -> str:
+def generate_language_mix(repos_data: list[dict[str, Any]]) -> str:
     """
     Render the language mix as expandable rows.
 
@@ -589,7 +579,7 @@ def generate_language_mix(repos_data: List[Dict[str, Any]]) -> str:
     )
     return "\n\n".join([*drawers, footer])
 
-def generate_leaderboard(repos_data: List[Dict[str, Any]], top_n: int = 5) -> str:
+def generate_leaderboard(repos_data: list[dict[str, Any]], top_n: int = 5) -> str:
     """Show the most starred repositories as a proportional bar chart."""
     ranked = sorted(repos_data, key=lambda repo: repo.get("stars", 0), reverse=True)[:top_n]
     if not ranked:
@@ -615,7 +605,7 @@ def generate_leaderboard(repos_data: List[Dict[str, Any]], top_n: int = 5) -> st
         *rows,
     ])
 
-def generate_activity_feed(repos_data: List[Dict[str, Any]], top_n: int = 6) -> str:
+def generate_activity_feed(repos_data: list[dict[str, Any]], top_n: int = 6) -> str:
     """List the repositories that moved most recently, newest first."""
     ranked = sorted(
         repos_data,
@@ -640,7 +630,7 @@ def generate_activity_feed(repos_data: List[Dict[str, Any]], top_n: int = 6) -> 
         )
     return "\n".join(lines)
 
-def generate_summary_table(repos_data: List[Dict[str, Any]]) -> str:
+def generate_summary_table(repos_data: list[dict[str, Any]]) -> str:
     """Generate a compact overview table for all repositories."""
     rows = []
     for index, repo in enumerate(repos_data, start=1):
@@ -665,7 +655,7 @@ def generate_summary_table(repos_data: List[Dict[str, Any]]) -> str:
         *rows,
     ])
 
-def generate_repo_details(repo: Dict[str, Any]) -> str:
+def generate_repo_details(repo: dict[str, Any]) -> str:
     """Generate a collapsible detail block for one repository."""
     name = repo["name"]
     curated = DESCRIPTIONS.get(name, {})
@@ -749,7 +739,7 @@ Tracked account: **@{GH_USERNAME}** · list lives in `data/repos.json` · machin
 
 </details>"""
 
-def generate_repo_section(repos_data: List[Dict[str, Any]]) -> str:
+def generate_repo_section(repos_data: list[dict[str, Any]]) -> str:
     """Generate the full auto-updated README body."""
     if not repos_data:
         return "No repository data available."
@@ -836,7 +826,7 @@ def inject_into_readme(
             logger.info(f"✅ {readme_path} created with latest repo statuses!")
             return True
 
-        with open(readme_file, "r", encoding="utf-8") as file:
+        with open(readme_file, encoding="utf-8") as file:
             readme = file.read()
 
         if start_marker in readme and end_marker in readme:
@@ -855,7 +845,7 @@ def inject_into_readme(
         logger.error(f"Error updating README: {e}")
         return False
 
-def sort_repos(repos_data: List[Dict[str, Any]], sort_by: Optional[str] = None) -> List[Dict[str, Any]]:
+def sort_repos(repos_data: list[dict[str, Any]], sort_by: str | None = None) -> list[dict[str, Any]]:
     """
     Sort repositories by the specified field.
 
@@ -889,7 +879,7 @@ def sort_repos(repos_data: List[Dict[str, Any]], sort_by: Optional[str] = None) 
 
     return deduplicated_data
 
-def export_json_data(repos_data: List[Dict[str, Any]]) -> None:
+def export_json_data(repos_data: list[dict[str, Any]]) -> None:
     """Export repository metadata for the Next.js dashboard merge step."""
     try:
         metadata = [
@@ -911,7 +901,7 @@ def export_json_data(repos_data: List[Dict[str, Any]]) -> None:
 
 def format_badge_timestamp() -> str:
     """Format timestamp for shields.io Last Updated badge."""
-    timestamp = datetime.now(timezone.utc).strftime("%Y--%m--%d %H:%M UTC")
+    timestamp = datetime.now(UTC).strftime("%Y--%m--%d %H:%M UTC")
     return timestamp.replace(" ", "%20").replace(":", "%3A")
 
 def main() -> int:

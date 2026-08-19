@@ -9,15 +9,16 @@ Keeps repos.json in sync with the account instead of maintaining it by hand.
 Forks and archived repositories are skipped unless explicitly included.
 """
 
-from datetime import datetime, timezone
-import requests
-import os
+import argparse
 import json
 import logging
-import argparse
+import os
 import sys
-from typing import Any, Dict, List
+from datetime import UTC, datetime
 from pathlib import Path
+from typing import Any
+
+import requests
 
 # Paths: code lives in scripts/, generated state lives in data/
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -85,7 +86,7 @@ def parse_arguments() -> argparse.Namespace:
     )
     return parser.parse_args()
 
-def fetch_all_repos(user: str) -> List[Dict[str, Any]]:
+def fetch_all_repos(user: str) -> list[dict[str, Any]]:
     """
     Fetch every repository owned by the given account.
 
@@ -124,7 +125,7 @@ def fetch_all_repos(user: str) -> List[Dict[str, Any]]:
         params_base = {"type": "owner", "per_page": PER_PAGE, "sort": "updated"}
         logger.info(f"Listing public repositories for {user}")
 
-    repos: List[Dict[str, Any]] = []
+    repos: list[dict[str, Any]] = []
     for page in range(1, MAX_PAGES + 1):
         params = dict(params_base, page=page)
         response = requests.get(
@@ -155,11 +156,11 @@ def fetch_all_repos(user: str) -> List[Dict[str, Any]]:
     return repos
 
 def filter_repos(
-    repos: List[Dict[str, Any]],
+    repos: list[dict[str, Any]],
     include_forks: bool,
     include_archived: bool,
     include_private: bool,
-) -> List[str]:
+) -> list[str]:
     """
     Apply the inclusion rules and return repository names, most starred first.
 
@@ -172,7 +173,7 @@ def filter_repos(
     Returns:
         Sorted list of repository names
     """
-    kept: List[Dict[str, Any]] = []
+    kept: list[dict[str, Any]] = []
     skipped = {"fork": 0, "archived": 0, "private": 0}
 
     for repo in repos:
@@ -197,7 +198,7 @@ def filter_repos(
     )
 
     # Preserve order while removing any duplicate names
-    names: List[str] = []
+    names: list[str] = []
     seen = set()
     for repo in kept:
         name = repo["name"]
@@ -207,7 +208,7 @@ def filter_repos(
 
     return names
 
-def write_config(config_file: str, user: str, names: List[str]) -> bool:
+def write_config(config_file: str, user: str, names: list[str]) -> bool:
     """
     Write the repository list to the configuration file.
 
@@ -222,14 +223,14 @@ def write_config(config_file: str, user: str, names: List[str]) -> bool:
     config_path = Path(config_file)
     payload = {
         "owner": user,
-        "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "generated_at": datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "repositories": names,
     }
 
-    previous: List[str] = []
+    previous: list[str] = []
     if config_path.exists():
         try:
-            with open(config_path, "r", encoding="utf-8") as file:
+            with open(config_path, encoding="utf-8") as file:
                 previous = json.load(file).get("repositories", [])
         except (json.JSONDecodeError, OSError) as e:
             logger.warning(f"Could not read existing config file: {e}")
