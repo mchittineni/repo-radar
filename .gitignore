@@ -1,0 +1,24 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# ---- Secrets & local config ----
+.env
+.env.*
+!.env.example
+
+# ---- Tracker artifacts ----
+# Run log is regenerated on every run; the tracked data files are committed.
+data/repo_status.log
+*.bak
+
+# ---- Editors & OS ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
