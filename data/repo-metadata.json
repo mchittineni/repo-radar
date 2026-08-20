@@ -20,8 +20,16 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-08-20T00:36:01Z",
-    "lastCommit": "5846955bf9c59a43610aeb00f597c3c1d3ad6fcc"
+    "lastUpdated": "2026-08-20T12:25:40Z",
+    "lastCommit": "0ba88841593dc6e7a48f51288f45453f30d9c672"
+  },
+  {
+    "repo": "iacsecbench",
+    "stars": 1,
+    "forks": 0,
+    "issues": 1,
+    "lastUpdated": "2026-08-20T11:41:10Z",
+    "lastCommit": "7fb95742267c3f0e35636f86a6be2c3ef7df36a0"
   },
   {
     "repo": "india-village-finder",
@@ -30,14 +38,6 @@
     "issues": 0,
     "lastUpdated": "2026-08-18T10:38:15Z",
     "lastCommit": "cb1346adf9add975f814c9dc3cdfc01d9677ca1a"
-  },
-  {
-    "repo": "iacsecbench",
-    "stars": 1,
-    "forks": 0,
-    "issues": 5,
-    "lastUpdated": "2026-08-10T08:33:41Z",
-    "lastCommit": "cc56e1490976ac04d58447e1b9882eb905a7b442"
   },
   {
     "repo": "mchittineni-portfolio",
@@ -84,8 +84,8 @@
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-08-19T17:01:43Z",
-    "lastCommit": "77b972e85a14f97c96233a2ea15cf67db09d01f8"
+    "lastUpdated": "2026-08-20T01:25:26Z",
+    "lastCommit": "d24f608a126b3971a325ad646564be9ed32dcf01"
   },
   {
     "repo": "cloud-platform-skills",
