@@ -6,7 +6,7 @@
 
 Every repository, star, commit, and CI result — refreshed automatically by GitHub Actions. 🤖
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--21%2001%3A35%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--21%2012%3A55%20UTC-blue?style=flat-square)
 ![Repositories](https://img.shields.io/badge/Repositories-17-6f42c1?style=flat-square)
 ![Stars](https://img.shields.io/badge/Stars-56-f1c40f?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-2ea44f?style=flat-square)
@@ -24,7 +24,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | 📦 Repos | ⭐ Stars | 🍴 Forks | 🐛 Open issues | 🧠 Languages | ✅ CI green | 🔥 Active now |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| **17** | **56** | **14** | **6** | **15** | **14/17** | **7** |
+| **17** | **56** | **14** | **6** | **15** | **14/17** | **6** |
 
 ## 🏆 Star leaderboard
 
@@ -33,15 +33,15 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | 🥇 | [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) | `██████████████████` | **29** |
 | 🥈 | [ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide) | `███████████░░░░░░░` | **17** |
 | 🥉 | [mchittineni](https://github.com/mchittineni/mchittineni) | `██░░░░░░░░░░░░░░░░` | **3** |
-| 4. | [iacsecbench](https://github.com/mchittineni/iacsecbench) | `█░░░░░░░░░░░░░░░░░` | **1** |
-| 5. | [india-village-finder](https://github.com/mchittineni/india-village-finder) | `█░░░░░░░░░░░░░░░░░` | **1** |
+| 4. | [india-village-finder](https://github.com/mchittineni/india-village-finder) | `█░░░░░░░░░░░░░░░░░` | **1** |
+| 5. | [iacsecbench](https://github.com/mchittineni/iacsecbench) | `█░░░░░░░░░░░░░░░░░` | **1** |
 
 ## ⏱️ Freshly pushed
 
-- 🔥 **[mchittineni](https://github.com/mchittineni/mchittineni)** · just now · [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/8e1229db24abd7bb8db055d1c50d8f7f21ce81d2)
-- 🔥 **[uk-river-flow](https://github.com/mchittineni/uk-river-flow)** · 10 hours ago · [Merge pull request #3 from mchittineni/harden/secops-review](https://github.com/mchittineni/uk-river-flow/commit/3c3f1c1da974712ce5e32af2727c54c3fbec39ec)
-- 🔥 **[iacsecbench](https://github.com/mchittineni/iacsecbench)** · 11 hours ago · [ci(benchmark): updated workflow](https://github.com/mchittineni/iacsecbench/commit/b988a06e2350732c744fe6c5353f90256bdc2788)
-- 🔥 **[repo-radar](https://github.com/mchittineni/repo-radar)** · 12 hours ago · [fix(git-tracker): auto-updated project status with latest...](https://github.com/mchittineni/repo-radar/commit/e53eca625d30935849362fd47a7d2c84290f4310)
+- 🔥 **[mchittineni](https://github.com/mchittineni/mchittineni)** · just now · [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/c96f06c74a9a0047ffb24d127debe1ab80c9dddf)
+- 🔥 **[repo-radar](https://github.com/mchittineni/repo-radar)** · 11 hours ago · [fix(git-tracker): auto-updated project status with latest...](https://github.com/mchittineni/repo-radar/commit/005192b18c74d24498a16a78402c7c383429c6ad)
+- 🔥 **[uk-river-flow](https://github.com/mchittineni/uk-river-flow)** · 21 hours ago · [Merge pull request #3 from mchittineni/harden/secops-review](https://github.com/mchittineni/uk-river-flow/commit/3c3f1c1da974712ce5e32af2727c54c3fbec39ec)
+- 🔥 **[iacsecbench](https://github.com/mchittineni/iacsecbench)** · 22 hours ago · [ci(benchmark): updated workflow](https://github.com/mchittineni/iacsecbench/commit/b988a06e2350732c744fe6c5353f90256bdc2788)
 - 🔥 **[cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills)** · yesterday · [fix(workflows): updated workflow names to be more descrip...](https://github.com/mchittineni/cloud-platform-skills/commit/b58a22ec811ffc686c082b8f19bc929fc1a09850)
 - 🔥 **[ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide)** · 2 days ago · [Merge pull request #5 from mchittineni/feat/expanded-ques...](https://github.com/mchittineni/ultimate-ai-engineering-guide/commit/b8079c91ad5c0f778d23b6b89cd294312a65c282)
 
@@ -54,16 +54,16 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| ✨ [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 385.7 KB | ⭐ 0 | 6 days ago |
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 384.6 KB | ⭐ 1 | 11 hours ago |
-| 🔥 [india-village-finder](https://github.com/mchittineni/india-village-finder) | 204.4 KB | ⭐ 1 | 2 days ago |
+| ✨ [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 385.7 KB | ⭐ 0 | 1 week ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 384.6 KB | ⭐ 1 | 22 hours ago |
+| ✨ [india-village-finder](https://github.com/mchittineni/india-village-finder) | 204.4 KB | ⭐ 1 | 3 days ago |
 | 🔥 [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 117.3 KB | ⭐ 0 | yesterday |
-| 🔥 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 87.4 KB | ⭐ 0 | 10 hours ago |
+| 🔥 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 87.4 KB | ⭐ 0 | 21 hours ago |
 | ✨ [ultimate-platform-engineering-guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) | 81.1 KB | ⭐ 0 | 1 week ago |
 | 🔥 [ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide) | 76.3 KB | ⭐ 17 | 2 days ago |
 | ✨ [ai-job-serve](https://github.com/mchittineni/ai-job-serve) | 71.1 KB | ⭐ 1 | 1 week ago |
-| ✨ [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) | 68.7 KB | ⭐ 29 | 6 days ago |
-| 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 51.5 KB | ⭐ 0 | 12 hours ago |
+| ✨ [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) | 68.7 KB | ⭐ 29 | 1 week ago |
+| 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 51.5 KB | ⭐ 0 | 11 hours ago |
 
 </details>
 
@@ -72,8 +72,8 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [india-village-finder](https://github.com/mchittineni/india-village-finder) | 386.8 KB | ⭐ 1 | 2 days ago |
-| 🔥 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 96.9 KB | ⭐ 0 | 10 hours ago |
+| ✨ [india-village-finder](https://github.com/mchittineni/india-village-finder) | 386.8 KB | ⭐ 1 | 3 days ago |
+| 🔥 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 96.9 KB | ⭐ 0 | 21 hours ago |
 | ✨ [blast-radius-check](https://github.com/mchittineni/blast-radius-check) | 5.6 KB | ⭐ 0 | 1 week ago |
 | ✨ [blast-radius-indexer](https://github.com/mchittineni/blast-radius-indexer) | 5.2 KB | ⭐ 0 | 1 week ago |
 | ✨ [sports-monitor](https://github.com/mchittineni/sports-monitor) | 2.0 KB | ⭐ 1 | 1 week ago |
@@ -85,7 +85,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 212.5 KB | ⭐ 1 | 11 hours ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 212.5 KB | ⭐ 1 | 22 hours ago |
 | ✨ [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 66.4 KB | ⭐ 1 | 1 week ago |
 | ✨ [sports-monitor](https://github.com/mchittineni/sports-monitor) | 52.2 KB | ⭐ 1 | 1 week ago |
 | ✨ [eks-terraform](https://github.com/mchittineni/eks-terraform) | 51.1 KB | ⭐ 1 | 1 week ago |
@@ -111,8 +111,8 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
 | ✨ [sports-monitor](https://github.com/mchittineni/sports-monitor) | 186.7 KB | ⭐ 1 | 1 week ago |
-| 🔥 [india-village-finder](https://github.com/mchittineni/india-village-finder) | 26.5 KB | ⭐ 1 | 2 days ago |
-| 🔥 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 7.5 KB | ⭐ 0 | 10 hours ago |
+| ✨ [india-village-finder](https://github.com/mchittineni/india-village-finder) | 26.5 KB | ⭐ 1 | 3 days ago |
+| 🔥 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 7.5 KB | ⭐ 0 | 21 hours ago |
 
 </details>
 
@@ -121,7 +121,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 121.5 KB | ⭐ 1 | 11 hours ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 121.5 KB | ⭐ 1 | 22 hours ago |
 
 </details>
 
@@ -139,10 +139,10 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [india-village-finder](https://github.com/mchittineni/india-village-finder) | 24.0 KB | ⭐ 1 | 2 days ago |
-| 🔥 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 15.2 KB | ⭐ 0 | 10 hours ago |
+| ✨ [india-village-finder](https://github.com/mchittineni/india-village-finder) | 24.0 KB | ⭐ 1 | 3 days ago |
+| 🔥 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 15.2 KB | ⭐ 0 | 21 hours ago |
 | ✨ [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 10.7 KB | ⭐ 1 | 1 week ago |
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 670 B | ⭐ 1 | 11 hours ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 670 B | ⭐ 1 | 22 hours ago |
 | ✨ [sports-monitor](https://github.com/mchittineni/sports-monitor) | 650 B | ⭐ 1 | 1 week ago |
 
 </details>
@@ -153,10 +153,10 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
 | ✨ [sports-monitor](https://github.com/mchittineni/sports-monitor) | 6.7 KB | ⭐ 1 | 1 week ago |
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 5.6 KB | ⭐ 1 | 11 hours ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 5.6 KB | ⭐ 1 | 22 hours ago |
 | ✨ [eks-terraform](https://github.com/mchittineni/eks-terraform) | 5.5 KB | ⭐ 1 | 1 week ago |
 | 🔥 [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 4.3 KB | ⭐ 0 | yesterday |
-| 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 3.6 KB | ⭐ 0 | 12 hours ago |
+| 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 3.6 KB | ⭐ 0 | 11 hours ago |
 | ✨ [ai-job-serve](https://github.com/mchittineni/ai-job-serve) | 1.7 KB | ⭐ 1 | 1 week ago |
 
 </details>
@@ -166,7 +166,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 18.2 KB | ⭐ 1 | 11 hours ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 18.2 KB | ⭐ 1 | 22 hours ago |
 
 </details>
 
@@ -175,7 +175,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 8.9 KB | ⭐ 1 | 11 hours ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 8.9 KB | ⭐ 1 | 22 hours ago |
 | 🔥 [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 5.6 KB | ⭐ 0 | yesterday |
 
 </details>
@@ -185,7 +185,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| ✨ [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 6.9 KB | ⭐ 0 | 6 days ago |
+| ✨ [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 6.9 KB | ⭐ 0 | 1 week ago |
 
 </details>
 
@@ -203,7 +203,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 3.0 KB | ⭐ 1 | 11 hours ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 3.0 KB | ⭐ 1 | 22 hours ago |
 
 </details>
 
@@ -212,7 +212,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 775 B | ⭐ 1 | 11 hours ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 775 B | ⭐ 1 | 22 hours ago |
 
 </details>
 
@@ -222,20 +222,20 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | # | Repository | ⭐ | 🍴 | 🐛 | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 🥇 | ✨ [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) | 29 | 11 | 0 | ✅ pass | 6 days ago |
+| 🥇 | ✨ [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) | 29 | 11 | 0 | ✅ pass | 1 week ago |
 | 🥈 | 🔥 [ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide) | 17 | 2 | 0 | ✅ pass | 2 days ago |
 | 🥉 | 🔥 [mchittineni](https://github.com/mchittineni/mchittineni) | 3 | 1 | 0 | ✅ pass | just now |
-| 4 | 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 1 | 0 | 0 | ✅ pass | 11 hours ago |
-| 5 | 🔥 [india-village-finder](https://github.com/mchittineni/india-village-finder) | 1 | 0 | 0 | ✅ pass | 2 days ago |
+| 4 | ✨ [india-village-finder](https://github.com/mchittineni/india-village-finder) | 1 | 0 | 0 | ✅ pass | 3 days ago |
+| 5 | 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 1 | 0 | 0 | ✅ pass | 22 hours ago |
 | 6 | ✨ [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 1 | 0 | 2 | ✅ pass | 1 week ago |
 | 7 | ✨ [ai-job-serve](https://github.com/mchittineni/ai-job-serve) | 1 | 0 | 0 | ✅ pass | 1 week ago |
 | 8 | ✨ [sports-monitor](https://github.com/mchittineni/sports-monitor) | 1 | 0 | 0 | ✅ pass | 1 week ago |
 | 9 | ✨ [eks-terraform](https://github.com/mchittineni/eks-terraform) | 1 | 0 | 0 | · none | 1 week ago |
 | 10 | ✨ [Terraform-Scripts](https://github.com/mchittineni/Terraform-Scripts) | 1 | 0 | 0 | · none | 1 week ago |
-| 11 | 🔥 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 0 | 0 | 4 | ✅ pass | 10 hours ago |
-| 12 | 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 0 | 0 | 0 | 🔄 running | 12 hours ago |
+| 11 | 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 0 | 0 | 0 | 🔄 running | 11 hours ago |
+| 12 | 🔥 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 0 | 0 | 4 | ✅ pass | 21 hours ago |
 | 13 | 🔥 [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 0 | 0 | 0 | ✅ pass | yesterday |
-| 14 | ✨ [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 0 | 0 | 0 | ✅ pass | 6 days ago |
+| 14 | ✨ [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 0 | 0 | 0 | ✅ pass | 1 week ago |
 | 15 | ✨ [ultimate-platform-engineering-guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) | 0 | 0 | 0 | ✅ pass | 1 week ago |
 | 16 | ✨ [blast-radius-check](https://github.com/mchittineni/blast-radius-check) | 0 | 0 | 0 | ✅ pass | 1 week ago |
 | 17 | ✨ [blast-radius-indexer](https://github.com/mchittineni/blast-radius-indexer) | 0 | 0 | 0 | ✅ pass | 1 week ago |
@@ -265,7 +265,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [chore(docs): regenerate knowledge graph to match the template](https://github.com/mchittineni/ultimate-devops-guide/commit/b7f4d2a0a92516886e55cbe40d7670d007dfdc97) |
 | **Commit date** | `2026-08-11` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-08-14` (6 days ago) |
+| **Repo updated** | `2026-08-14` (1 week ago) |
 | **License** | `MIT License` |
 | **Languages** | 🐍 `Python` |
 | **Topics** | `aws` · `azure` · `cicd` · `cloud-engineering` · `devops` · `devsecops` |
@@ -328,7 +328,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | | |
 |---|---|
-| **Latest commit** | [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/8e1229db24abd7bb8db055d1c50d8f7f21ce81d2) |
+| **Latest commit** | [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/c96f06c74a9a0047ffb24d127debe1ab80c9dddf) |
 | **Commit date** | `2026-08-21` |
 | **Author** | `mchittineni` |
 | **Repo updated** | `2026-08-21` (just now) |
@@ -338,6 +338,39 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Tech stack** | `Markdown` · `GitHub Actions` · `Shields` |
 
 <a href="https://github.com/mchittineni/mchittineni">Open repository →</a>
+
+</details>
+
+<!-- repo:india-village-finder -->
+<details>
+<summary>
+  ✨
+  <strong><a href="https://github.com/mchittineni/india-village-finder">India Village Finder</a></strong>
+  &nbsp;<sub><code>india-village-finder</code></sub> &nbsp;·&nbsp; <code>Active build</code>
+  &nbsp;·&nbsp; ⭐ 1
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI ✅ pass
+  <br><sub>Interactive maps and search across Indian villages, joining LGD administrative hierarchies with live market prices, farm schemes, and soil profiles.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/mchittineni/india-village-finder?style=flat-square)
+![Forks](https://img.shields.io/github/forks/mchittineni/india-village-finder?style=flat-square)
+![Issues](https://img.shields.io/github/issues/mchittineni/india-village-finder?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/mchittineni/india-village-finder?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [Merge pull request #82 from mchittineni/data/auto-refresh](https://github.com/mchittineni/india-village-finder/commit/cb1346adf9add975f814c9dc3cdfc01d9677ca1a) |
+| **Commit date** | `2026-08-18` |
+| **Author** | `Manideep Chittineni` |
+| **Repo updated** | `2026-08-18` (3 days ago) |
+| **License** | `Other` |
+| **Languages** | 🟨 `JavaScript` · 🐍 `Python` · 🌐 `HTML` · 🎨 `CSS` |
+| **Topics** | `awesome-gis` · `awesome-india` · `awesome-opendata` · `awesome-public-datasets` · `gis` · `hindi` |
+| **Tech stack** | `JavaScript` · `GIS` · `Open Data` · `Maps` |
+
+<a href="https://github.com/mchittineni/india-village-finder">Open repository →</a>
 
 </details>
 
@@ -364,46 +397,13 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [ci(benchmark): updated workflow](https://github.com/mchittineni/iacsecbench/commit/b988a06e2350732c744fe6c5353f90256bdc2788) |
 | **Commit date** | `2026-08-20` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-08-20` (11 hours ago) |
+| **Repo updated** | `2026-08-20` (22 hours ago) |
 | **License** | `Other` |
 | **Languages** | 🐍 `Python` · 🏗️ `HCL` · 🧠 `TeX` · 🧠 `Open Policy Agent` · 🔨 `Makefile` |
 | **Topics** | _None_ |
 | **Tech stack** | `Python` · `IaC` · `Security` · `Benchmark` |
 
 <a href="https://github.com/mchittineni/iacsecbench">Open repository →</a>
-
-</details>
-
-<!-- repo:india-village-finder -->
-<details>
-<summary>
-  🔥
-  <strong><a href="https://github.com/mchittineni/india-village-finder">India Village Finder</a></strong>
-  &nbsp;<sub><code>india-village-finder</code></sub> &nbsp;·&nbsp; <code>Active build</code>
-  &nbsp;·&nbsp; ⭐ 1
-  &nbsp;·&nbsp; 🍴 0
-  &nbsp;·&nbsp; CI ✅ pass
-  <br><sub>Interactive maps and search across Indian villages, joining LGD administrative hierarchies with live market prices, farm schemes, and soil profiles.</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/mchittineni/india-village-finder?style=flat-square)
-![Forks](https://img.shields.io/github/forks/mchittineni/india-village-finder?style=flat-square)
-![Issues](https://img.shields.io/github/issues/mchittineni/india-village-finder?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/mchittineni/india-village-finder?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [Merge pull request #82 from mchittineni/data/auto-refresh](https://github.com/mchittineni/india-village-finder/commit/cb1346adf9add975f814c9dc3cdfc01d9677ca1a) |
-| **Commit date** | `2026-08-18` |
-| **Author** | `Manideep Chittineni` |
-| **Repo updated** | `2026-08-18` (2 days ago) |
-| **License** | `Other` |
-| **Languages** | 🟨 `JavaScript` · 🐍 `Python` · 🌐 `HTML` · 🎨 `CSS` |
-| **Topics** | `awesome-gis` · `awesome-india` · `awesome-opendata` · `awesome-public-datasets` · `gis` · `hindi` |
-| **Tech stack** | `JavaScript` · `GIS` · `Open Data` · `Maps` |
-
-<a href="https://github.com/mchittineni/india-village-finder">Open repository →</a>
 
 </details>
 
@@ -572,6 +572,39 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 </details>
 
+<!-- repo:repo-radar -->
+<details>
+<summary>
+  🔥
+  <strong><a href="https://github.com/mchittineni/repo-radar">Repo Radar</a></strong>
+  &nbsp;<sub><code>repo-radar</code></sub> &nbsp;·&nbsp; <code>Active build</code>
+  &nbsp;·&nbsp; ⭐ 0
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI 🔄 running
+  <br><sub>This tracker: discovers every repository the account owns and renders stars, CI status, commits, activity and language mix straight into README.md on a schedule.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/mchittineni/repo-radar?style=flat-square)
+![Forks](https://img.shields.io/github/forks/mchittineni/repo-radar?style=flat-square)
+![Issues](https://img.shields.io/github/issues/mchittineni/repo-radar?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/mchittineni/repo-radar?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [fix(git-tracker): auto-updated project status with latest changes [skip ci]](https://github.com/mchittineni/repo-radar/commit/005192b18c74d24498a16a78402c7c383429c6ad) |
+| **Commit date** | `2026-08-21` |
+| **Author** | `github-actions[bot]` |
+| **Repo updated** | `2026-08-21` (11 hours ago) |
+| **License** | `MIT License` |
+| **Languages** | 🐍 `Python` · 🐚 `Shell` |
+| **Topics** | `automation` · `dashboard` · `developer-tools` · `devops-tools` · `github-actions` · `github-api` |
+| **Tech stack** | `Python` · `GitHub Actions` · `GitHub API` · `Markdown` |
+
+<a href="https://github.com/mchittineni/repo-radar">Open repository →</a>
+
+</details>
+
 <!-- repo:uk-river-flow -->
 <details>
 <summary>
@@ -595,45 +628,12 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [Merge pull request #3 from mchittineni/harden/secops-review](https://github.com/mchittineni/uk-river-flow/commit/3c3f1c1da974712ce5e32af2727c54c3fbec39ec) |
 | **Commit date** | `2026-08-20` |
 | **Author** | `Manideep Chittineni` |
-| **Repo updated** | `2026-08-20` (10 hours ago) |
+| **Repo updated** | `2026-08-20` (21 hours ago) |
 | **License** | `Other` |
 | **Languages** | 🟨 `JavaScript` · 🐍 `Python` · 🎨 `CSS` · 🌐 `HTML` |
 | **Topics** | `data-visualization` · `environment-agency` · `geojson` · `github-actions` · `hydrology` · `interactive-map` |
 
 <a href="https://github.com/mchittineni/uk-river-flow">Open repository →</a>
-
-</details>
-
-<!-- repo:repo-radar -->
-<details>
-<summary>
-  🔥
-  <strong><a href="https://github.com/mchittineni/repo-radar">Repo Radar</a></strong>
-  &nbsp;<sub><code>repo-radar</code></sub> &nbsp;·&nbsp; <code>Active build</code>
-  &nbsp;·&nbsp; ⭐ 0
-  &nbsp;·&nbsp; 🍴 0
-  &nbsp;·&nbsp; CI 🔄 running
-  <br><sub>This tracker: discovers every repository the account owns and renders stars, CI status, commits, activity and language mix straight into README.md on a schedule.</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/mchittineni/repo-radar?style=flat-square)
-![Forks](https://img.shields.io/github/forks/mchittineni/repo-radar?style=flat-square)
-![Issues](https://img.shields.io/github/issues/mchittineni/repo-radar?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/mchittineni/repo-radar?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [fix(git-tracker): auto-updated project status with latest changes [skip ci]](https://github.com/mchittineni/repo-radar/commit/e53eca625d30935849362fd47a7d2c84290f4310) |
-| **Commit date** | `2026-08-20` |
-| **Author** | `github-actions[bot]` |
-| **Repo updated** | `2026-08-20` (12 hours ago) |
-| **License** | `MIT License` |
-| **Languages** | 🐍 `Python` · 🐚 `Shell` |
-| **Topics** | `automation` · `dashboard` · `developer-tools` · `devops-tools` · `github-actions` · `github-api` |
-| **Tech stack** | `Python` · `GitHub Actions` · `GitHub API` · `Markdown` |
-
-<a href="https://github.com/mchittineni/repo-radar">Open repository →</a>
 
 </details>
 
@@ -693,7 +693,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [refactor: stage syncs in temp tables, and document the mirror](https://github.com/mchittineni/mutual-fund-analysis-tracker/commit/b3007b9f9434883e8ae0e9a5a1c7936f59544956) |
 | **Commit date** | `2026-08-14` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-08-14` (6 days ago) |
+| **Repo updated** | `2026-08-14` (1 week ago) |
 | **License** | `Other` |
 | **Languages** | 🐍 `Python` · 📓 `Jupyter Notebook` |
 | **Topics** | _None_ |
