@@ -20,16 +20,16 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-08-23T00:38:39Z",
-    "lastCommit": "100fb240544bef213b2ac57dfa2ee7962caf3015"
+    "lastUpdated": "2026-08-23T12:17:30Z",
+    "lastCommit": "35dce0cdeba438c78530031fb32bea9ff970be79"
   },
   {
     "repo": "india-village-finder",
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-08-18T10:38:15Z",
-    "lastCommit": "cb1346adf9add975f814c9dc3cdfc01d9677ca1a"
+    "lastUpdated": "2026-08-23T07:42:27Z",
+    "lastCommit": "267ffc1781c5b014528cb67f6ab4c101d224ed20"
   },
   {
     "repo": "iacsecbench",
@@ -80,12 +80,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "mutual-fund-analysis-tracker",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-08-23T08:26:13Z",
+    "lastCommit": "d366df7815562d20941b860d5bf5ddfea89ddaef"
+  },
+  {
     "repo": "repo-radar",
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-08-22T12:46:31Z",
-    "lastCommit": "124547dee0eff000f92cac23cb4d64250a3aceb3"
+    "lastUpdated": "2026-08-23T01:38:44Z",
+    "lastCommit": "8e5ca37e3fe377d4b8caf76ff2c88492cf7ea110"
   },
   {
     "repo": "uk-river-flow",
@@ -102,14 +110,6 @@
     "issues": 0,
     "lastUpdated": "2026-08-19T13:47:35Z",
     "lastCommit": "b58a22ec811ffc686c082b8f19bc929fc1a09850"
-  },
-  {
-    "repo": "mutual-fund-analysis-tracker",
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-08-14T11:49:36Z",
-    "lastCommit": "b3007b9f9434883e8ae0e9a5a1c7936f59544956"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
