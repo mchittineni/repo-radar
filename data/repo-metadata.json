@@ -20,8 +20,8 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-08-24T00:37:21Z",
-    "lastCommit": "74a4dbc2e5c887a146f3c31df30418844d55413e"
+    "lastUpdated": "2026-08-24T12:26:24Z",
+    "lastCommit": "e85aef5e2a974ba984b94ee57f29df205dde90af"
   },
   {
     "repo": "india-village-finder",
@@ -80,28 +80,12 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
-    "repo": "aws-platform-engineering-lab",
+    "repo": "tf-arch-diagram-generator",
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-08-23T18:25:06Z",
-    "lastCommit": "e971b4d89f71b73452ba7d509a367429dea5f0be"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-08-23T12:48:10Z",
-    "lastCommit": "38e0446d36bcef06140ce3e7f050684a7068468d"
-  },
-  {
-    "repo": "mutual-fund-analysis-tracker",
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-08-23T08:26:13Z",
-    "lastCommit": "d366df7815562d20941b860d5bf5ddfea89ddaef"
+    "lastUpdated": "2026-08-24T12:55:01Z",
+    "lastCommit": "de5e7321140d765ea720d222129fcc9a7b080eb1"
   },
   {
     "repo": "uk-river-flow",
@@ -110,6 +94,30 @@
     "issues": 4,
     "lastUpdated": "2026-08-20T15:17:57Z",
     "lastCommit": "3c3f1c1da974712ce5e32af2727c54c3fbec39ec"
+  },
+  {
+    "repo": "repo-radar",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-08-24T01:36:35Z",
+    "lastCommit": "a4af5c588c33f015a7b5e96be439c2a39e06ae6f"
+  },
+  {
+    "repo": "aws-platform-engineering-lab",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-08-23T18:25:06Z",
+    "lastCommit": "e971b4d89f71b73452ba7d509a367429dea5f0be"
+  },
+  {
+    "repo": "mutual-fund-analysis-tracker",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-08-23T08:26:13Z",
+    "lastCommit": "d366df7815562d20941b860d5bf5ddfea89ddaef"
   },
   {
     "repo": "cloud-platform-skills",
