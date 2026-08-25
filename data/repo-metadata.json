@@ -20,16 +20,8 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-08-25T00:37:57Z",
-    "lastCommit": "434fe0b7a9e575f7157b6d523b115b43a1471330"
-  },
-  {
-    "repo": "iacsecbench",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-08-24T15:54:50Z",
-    "lastCommit": "963870fe9070baa3ecbd9fdf422c6f2275fa6b72"
+    "lastUpdated": "2026-08-25T12:29:53Z",
+    "lastCommit": "6ae63db9398598a899d7f88664f10170a0bee432"
   },
   {
     "repo": "india-village-finder",
@@ -38,6 +30,14 @@
     "issues": 0,
     "lastUpdated": "2026-08-23T07:42:27Z",
     "lastCommit": "267ffc1781c5b014528cb67f6ab4c101d224ed20"
+  },
+  {
+    "repo": "iacsecbench",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-08-24T15:54:50Z",
+    "lastCommit": "963870fe9070baa3ecbd9fdf422c6f2275fa6b72"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,20 +88,28 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
-    "repo": "repo-radar",
+    "repo": "homebrew-tap",
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-08-24T13:00:58Z",
-    "lastCommit": "ed804b09a42f2343471cd61678a6dbd2b05ba31d"
+    "lastUpdated": "2026-08-25T10:50:32Z",
+    "lastCommit": "32e77ba77a3540471cbf5aab31e2cb81d8e03b47"
   },
   {
     "repo": "tf-arch-diagram-generator",
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-08-24T12:55:01Z",
-    "lastCommit": "de5e7321140d765ea720d222129fcc9a7b080eb1"
+    "lastUpdated": "2026-08-25T10:14:56Z",
+    "lastCommit": "a888e20c55a5629f9b4b0b231b7690c0fa6835bc"
+  },
+  {
+    "repo": "repo-radar",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-08-25T01:26:35Z",
+    "lastCommit": "57e25a37dd2623dd23b84a2f72913d7bdf161765"
   },
   {
     "repo": "uk-river-flow",
