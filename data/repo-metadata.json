@@ -1,10 +1,10 @@
 [
   {
     "repo": "ultimate-devops-guide",
-    "stars": 29,
+    "stars": 30,
     "forks": 11,
     "issues": 0,
-    "lastUpdated": "2026-08-14T04:31:33Z",
+    "lastUpdated": "2026-08-24T16:14:13Z",
     "lastCommit": "b7f4d2a0a92516886e55cbe40d7670d007dfdc97"
   },
   {
@@ -20,8 +20,16 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-08-24T12:26:24Z",
-    "lastCommit": "e85aef5e2a974ba984b94ee57f29df205dde90af"
+    "lastUpdated": "2026-08-25T00:37:57Z",
+    "lastCommit": "434fe0b7a9e575f7157b6d523b115b43a1471330"
+  },
+  {
+    "repo": "iacsecbench",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-08-24T15:54:50Z",
+    "lastCommit": "963870fe9070baa3ecbd9fdf422c6f2275fa6b72"
   },
   {
     "repo": "india-village-finder",
@@ -32,12 +40,12 @@
     "lastCommit": "267ffc1781c5b014528cb67f6ab4c101d224ed20"
   },
   {
-    "repo": "iacsecbench",
+    "repo": "ultimate-platform-engineering-guide",
     "stars": 1,
     "forks": 0,
-    "issues": 2,
-    "lastUpdated": "2026-08-20T14:30:14Z",
-    "lastCommit": "b988a06e2350732c744fe6c5353f90256bdc2788"
+    "issues": 0,
+    "lastUpdated": "2026-08-24T20:05:50Z",
+    "lastCommit": "f2589dcfd237897451a24dec01de794ea77e78a0"
   },
   {
     "repo": "mchittineni-portfolio",
@@ -80,6 +88,14 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "repo-radar",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-08-24T13:00:58Z",
+    "lastCommit": "ed804b09a42f2343471cd61678a6dbd2b05ba31d"
+  },
+  {
     "repo": "tf-arch-diagram-generator",
     "stars": 0,
     "forks": 0,
@@ -94,14 +110,6 @@
     "issues": 4,
     "lastUpdated": "2026-08-20T15:17:57Z",
     "lastCommit": "3c3f1c1da974712ce5e32af2727c54c3fbec39ec"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-08-24T01:36:35Z",
-    "lastCommit": "a4af5c588c33f015a7b5e96be439c2a39e06ae6f"
   },
   {
     "repo": "aws-platform-engineering-lab",
@@ -126,14 +134,6 @@
     "issues": 0,
     "lastUpdated": "2026-08-19T13:47:35Z",
     "lastCommit": "b58a22ec811ffc686c082b8f19bc929fc1a09850"
-  },
-  {
-    "repo": "ultimate-platform-engineering-guide",
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-08-13T13:41:06Z",
-    "lastCommit": "f2589dcfd237897451a24dec01de794ea77e78a0"
   },
   {
     "repo": "blast-radius-check",
