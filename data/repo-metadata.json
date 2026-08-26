@@ -20,8 +20,8 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-08-25T12:29:53Z",
-    "lastCommit": "6ae63db9398598a899d7f88664f10170a0bee432"
+    "lastUpdated": "2026-08-26T00:37:39Z",
+    "lastCommit": "2d7934c64b651cf2385ce344177e6cd2bd02975b"
   },
   {
     "repo": "india-village-finder",
@@ -88,6 +88,14 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "repo-radar",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-08-25T12:59:33Z",
+    "lastCommit": "309cafebb9982f6c4b32a84e8c3cc0246615453a"
+  },
+  {
     "repo": "homebrew-tap",
     "stars": 0,
     "forks": 0,
@@ -102,14 +110,6 @@
     "issues": 0,
     "lastUpdated": "2026-08-25T10:14:56Z",
     "lastCommit": "a888e20c55a5629f9b4b0b231b7690c0fa6835bc"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-08-25T01:26:35Z",
-    "lastCommit": "57e25a37dd2623dd23b84a2f72913d7bdf161765"
   },
   {
     "repo": "uk-river-flow",
