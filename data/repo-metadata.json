@@ -20,8 +20,16 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-08-26T00:37:39Z",
-    "lastCommit": "2d7934c64b651cf2385ce344177e6cd2bd02975b"
+    "lastUpdated": "2026-08-26T12:28:47Z",
+    "lastCommit": "68f5bf6a2da2fee1388202bcb5d94978b4e1c2c5"
+  },
+  {
+    "repo": "mchittineni-portfolio",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-08-26T10:25:27Z",
+    "lastCommit": "02a25f4a429f70bbd10a8835379c228dbe7981fa"
   },
   {
     "repo": "india-village-finder",
@@ -46,14 +54,6 @@
     "issues": 0,
     "lastUpdated": "2026-08-24T20:05:50Z",
     "lastCommit": "f2589dcfd237897451a24dec01de794ea77e78a0"
-  },
-  {
-    "repo": "mchittineni-portfolio",
-    "stars": 1,
-    "forks": 0,
-    "issues": 2,
-    "lastUpdated": "2026-08-10T08:33:42Z",
-    "lastCommit": "354d4803566b30a93ad37b5dd4ea40b563a7c964"
   },
   {
     "repo": "ai-job-serve",
@@ -92,8 +92,8 @@
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-08-25T12:59:33Z",
-    "lastCommit": "309cafebb9982f6c4b32a84e8c3cc0246615453a"
+    "lastUpdated": "2026-08-26T01:37:16Z",
+    "lastCommit": "7ab3fa582cc9eda12a38e5dd46295e23973627d3"
   },
   {
     "repo": "homebrew-tap",
