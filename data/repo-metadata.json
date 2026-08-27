@@ -2,7 +2,7 @@
   {
     "repo": "ultimate-devops-guide",
     "stars": 30,
-    "forks": 11,
+    "forks": 12,
     "issues": 0,
     "lastUpdated": "2026-08-24T16:14:13Z",
     "lastCommit": "b7f4d2a0a92516886e55cbe40d7670d007dfdc97"
@@ -20,16 +20,8 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-08-27T05:38:11Z",
-    "lastCommit": "037214f25c3845800ef95db72d13c88debd29f7d"
-  },
-  {
-    "repo": "mchittineni-portfolio",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-08-26T15:37:22Z",
-    "lastCommit": "29d471602ec49ed55351858c22057310e53db362"
+    "lastUpdated": "2026-08-27T21:24:38Z",
+    "lastCommit": "f6a1e3d12fd2835396d44244b464566dfa7e714c"
   },
   {
     "repo": "india-village-finder",
@@ -38,6 +30,14 @@
     "issues": 0,
     "lastUpdated": "2026-08-23T07:42:27Z",
     "lastCommit": "267ffc1781c5b014528cb67f6ab4c101d224ed20"
+  },
+  {
+    "repo": "mchittineni-portfolio",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-08-26T15:37:22Z",
+    "lastCommit": "29d471602ec49ed55351858c22057310e53db362"
   },
   {
     "repo": "iacsecbench",
@@ -50,7 +50,7 @@
   {
     "repo": "ultimate-platform-engineering-guide",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "issues": 0,
     "lastUpdated": "2026-08-24T20:05:50Z",
     "lastCommit": "f2589dcfd237897451a24dec01de794ea77e78a0"
@@ -74,7 +74,7 @@
   {
     "repo": "eks-terraform",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "issues": 0,
     "lastUpdated": "2026-08-10T08:33:46Z",
     "lastCommit": "e80fd9612c963965b2a86ddb9191b7682918d526"
@@ -82,7 +82,7 @@
   {
     "repo": "Terraform-Scripts",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "issues": 0,
     "lastUpdated": "2026-08-10T08:33:48Z",
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
@@ -92,8 +92,8 @@
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-08-26T13:00:39Z",
-    "lastCommit": "6536a4e2ef08dd1e15f3a5a04bf9a4d0cb83dada"
+    "lastUpdated": "2026-08-27T08:28:28Z",
+    "lastCommit": "a53a7e0b69c8fc77829dd26e368fdda5d0897777"
   },
   {
     "repo": "homebrew-tap",
@@ -106,7 +106,7 @@
   {
     "repo": "tf-arch-diagram-generator",
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "issues": 0,
     "lastUpdated": "2026-08-25T10:14:56Z",
     "lastCommit": "a888e20c55a5629f9b4b0b231b7690c0fa6835bc"
@@ -130,7 +130,7 @@
   {
     "repo": "mutual-fund-analysis-tracker",
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "issues": 0,
     "lastUpdated": "2026-08-23T08:26:13Z",
     "lastCommit": "d366df7815562d20941b860d5bf5ddfea89ddaef"
@@ -138,7 +138,7 @@
   {
     "repo": "cloud-platform-skills",
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "issues": 0,
     "lastUpdated": "2026-08-19T13:47:35Z",
     "lastCommit": "b58a22ec811ffc686c082b8f19bc929fc1a09850"
@@ -146,7 +146,7 @@
   {
     "repo": "blast-radius-check",
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "issues": 0,
     "lastUpdated": "2026-08-12T13:43:33Z",
     "lastCommit": "90265581b62dbff18c2a4319d631f8a4f4d37017"
