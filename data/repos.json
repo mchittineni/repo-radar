@@ -1,6 +1,6 @@
 {
   "owner": "mchittineni",
-  "generated_at": "2026-08-28T10:24:02Z",
+  "generated_at": "2026-08-28T21:56:25Z",
   "repositories": [
     "ultimate-devops-guide",
     "ultimate-ai-engineering-guide",
@@ -13,6 +13,7 @@
     "sports-monitor",
     "eks-terraform",
     "Terraform-Scripts",
+    "converge",
     "repo-radar",
     "homebrew-tap",
     "tf-arch-diagram-generator",

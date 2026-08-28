@@ -20,8 +20,8 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-08-28T07:46:17Z",
-    "lastCommit": "9c9a87a19172930c4f05e1ff479f7e8fde23f241"
+    "lastUpdated": "2026-08-28T21:35:48Z",
+    "lastCommit": "a122b19829972faaeeb02a7252bf936a22753e5f"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,12 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "converge",
+    "stars": 0,
+    "forks": 0,
+    "issues": 1,
+    "lastUpdated": "2026-08-28T15:35:40Z",
+    "lastCommit": "7bc5299e9d4dab25855854674e548bb67a0930e7"
+  },
+  {
     "repo": "repo-radar",
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-08-27T22:06:42Z",
-    "lastCommit": "f04c126b906665422879325fb0827bdc976474bf"
+    "lastUpdated": "2026-08-28T10:29:39Z",
+    "lastCommit": "d53c127cec2204d9390c272b7f2bd2c6dcfc84d2"
   },
   {
     "repo": "homebrew-tap",
