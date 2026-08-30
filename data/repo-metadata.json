@@ -20,8 +20,8 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-08-30T02:15:03Z",
-    "lastCommit": "037621f3ddb2da3aed6e065aa33ca828e9cb6470"
+    "lastUpdated": "2026-08-30T15:40:32Z",
+    "lastCommit": "ec17fb4b0c4c460fcc217da019153d47099d0419"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -35,7 +35,7 @@
     "repo": "india-village-finder",
     "stars": 1,
     "forks": 0,
-    "issues": 0,
+    "issues": 1,
     "lastUpdated": "2026-08-23T07:42:27Z",
     "lastCommit": "267ffc1781c5b014528cb67f6ab4c101d224ed20"
   },
@@ -88,20 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "repo-radar",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-08-30T04:35:37Z",
+    "lastCommit": "f53351969665a3f64141b25d8f66661f27506fbf"
+  },
+  {
     "repo": "aws-platform-engineering-lab",
     "stars": 0,
     "forks": 0,
     "issues": 18,
     "lastUpdated": "2026-08-23T18:25:06Z",
     "lastCommit": "e971b4d89f71b73452ba7d509a367429dea5f0be"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-08-29T16:28:08Z",
-    "lastCommit": "d89701470c75ff9c8e1ab767d7a24c86441c15b9"
   },
   {
     "repo": "converge",
