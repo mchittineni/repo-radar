@@ -20,8 +20,8 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-08-29T15:54:35Z",
-    "lastCommit": "456f0396a3f59801656847cf8701bd7a926deae8"
+    "lastUpdated": "2026-08-30T02:15:03Z",
+    "lastCommit": "037621f3ddb2da3aed6e065aa33ca828e9cb6470"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,12 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "aws-platform-engineering-lab",
+    "stars": 0,
+    "forks": 0,
+    "issues": 18,
+    "lastUpdated": "2026-08-23T18:25:06Z",
+    "lastCommit": "e971b4d89f71b73452ba7d509a367429dea5f0be"
+  },
+  {
     "repo": "repo-radar",
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-08-29T06:24:49Z",
-    "lastCommit": "7139de7d1e626da272ee07c8121931eeafaec427"
+    "lastUpdated": "2026-08-29T16:28:08Z",
+    "lastCommit": "d89701470c75ff9c8e1ab767d7a24c86441c15b9"
   },
   {
     "repo": "converge",
@@ -126,14 +134,6 @@
     "issues": 4,
     "lastUpdated": "2026-08-20T15:17:57Z",
     "lastCommit": "3c3f1c1da974712ce5e32af2727c54c3fbec39ec"
-  },
-  {
-    "repo": "aws-platform-engineering-lab",
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-08-23T18:25:06Z",
-    "lastCommit": "e971b4d89f71b73452ba7d509a367429dea5f0be"
   },
   {
     "repo": "mutual-fund-analysis-tracker",
