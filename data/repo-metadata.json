@@ -20,8 +20,8 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-08-31T18:24:00Z",
-    "lastCommit": "72b1e9baa28bb4f7a1597e0421ea9c6038d6f41e"
+    "lastUpdated": "2026-09-01T02:29:42Z",
+    "lastCommit": "f6e212dcfabcd78d4c6929bc523076cfc3d5e4c1"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,12 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "tf-arch-diagram-generator",
+    "stars": 0,
+    "forks": 1,
+    "issues": 1,
+    "lastUpdated": "2026-08-25T10:14:56Z",
+    "lastCommit": "a888e20c55a5629f9b4b0b231b7690c0fa6835bc"
+  },
+  {
     "repo": "repo-radar",
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-08-31T04:39:21Z",
-    "lastCommit": "137c403301ba89edefbcb5d0b01f4294c80d948b"
+    "lastUpdated": "2026-08-31T19:12:24Z",
+    "lastCommit": "144987de948f1669d2add83620b47f12104233ce"
   },
   {
     "repo": "uk-river-flow",
@@ -126,14 +134,6 @@
     "issues": 0,
     "lastUpdated": "2026-08-25T10:50:32Z",
     "lastCommit": "32e77ba77a3540471cbf5aab31e2cb81d8e03b47"
-  },
-  {
-    "repo": "tf-arch-diagram-generator",
-    "stars": 0,
-    "forks": 1,
-    "issues": 0,
-    "lastUpdated": "2026-08-25T10:14:56Z",
-    "lastCommit": "a888e20c55a5629f9b4b0b231b7690c0fa6835bc"
   },
   {
     "repo": "mutual-fund-analysis-tracker",
