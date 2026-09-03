@@ -20,8 +20,8 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-02T15:40:23Z",
-    "lastCommit": "41bea31f5f741fe96faf56b23a77355a188029ac"
+    "lastUpdated": "2026-09-03T01:56:32Z",
+    "lastCommit": "d03e29024b632f72d67ad80ccf11e45415353aca"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,20 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "converge",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-09-02T18:02:32Z",
+    "lastCommit": "1b78311727b629239930b27d6bab25b244c5a065"
+  },
+  {
     "repo": "repo-radar",
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-09-02T03:47:22Z",
-    "lastCommit": "2a9b9a4af9628121ea034cfc85632504e371bf27"
-  },
-  {
-    "repo": "converge",
-    "stars": 0,
-    "forks": 0,
-    "issues": 2,
-    "lastUpdated": "2026-09-01T20:58:54Z",
-    "lastCommit": "8ebf10e957859afdd31298b935144b5f06784a44"
+    "lastUpdated": "2026-09-02T16:25:48Z",
+    "lastCommit": "a8a7aa78ffaa20f6cdd9871e41418e5a9a0c90b9"
   },
   {
     "repo": "aws-platform-engineering-lab",
