@@ -20,8 +20,8 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-04T01:51:28Z",
-    "lastCommit": "84913306c61171dde8a6a8c5a33bd2c6f782bd5d"
+    "lastUpdated": "2026-09-04T15:23:55Z",
+    "lastCommit": "c16e7c7ee1610db3d5c7be635de6badbdaa692ad"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -51,7 +51,7 @@
     "repo": "iacsecbench",
     "stars": 1,
     "forks": 0,
-    "issues": 0,
+    "issues": 1,
     "lastUpdated": "2026-08-24T15:54:50Z",
     "lastCommit": "963870fe9070baa3ecbd9fdf422c6f2275fa6b72"
   },
@@ -88,20 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
-    "repo": "converge",
+    "repo": "certops",
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-09-03T16:53:36Z",
-    "lastCommit": "8295d881e146e574597c212360a215ce65cf5daf"
+    "lastUpdated": "2026-09-04T12:28:06Z",
+    "lastCommit": "a94eff88b24b424bc681fada532a1a5b30181a4b"
   },
   {
     "repo": "repo-radar",
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-09-03T16:07:34Z",
-    "lastCommit": "32afc46d1aff6d9712a15d9efbf0d452b95ed0f0"
+    "lastUpdated": "2026-09-04T03:44:01Z",
+    "lastCommit": "9b529f585a26b6db19ced38a836912113cd158ed"
   },
   {
     "repo": "aws-platform-engineering-lab",
