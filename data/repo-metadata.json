@@ -20,8 +20,8 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-05T01:52:35Z",
-    "lastCommit": "eab5e73ae46a06f3bfea6c3235131e126c5b1b6d"
+    "lastUpdated": "2026-09-05T14:09:52Z",
+    "lastCommit": "c9ec5d50a1358ea26042f35b88c725a30a482029"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -32,12 +32,28 @@
     "lastCommit": "f2589dcfd237897451a24dec01de794ea77e78a0"
   },
   {
+    "repo": "eks-terraform",
+    "stars": 1,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2026-09-05T12:42:38Z",
+    "lastCommit": "82dc10264245daebfb8844aeef39f8f4426791fa"
+  },
+  {
     "repo": "india-village-finder",
     "stars": 1,
     "forks": 0,
-    "issues": 3,
-    "lastUpdated": "2026-09-03T13:14:12Z",
-    "lastCommit": "c85fc9c454281c883e4dd8d99dc45546699ddccd"
+    "issues": 0,
+    "lastUpdated": "2026-09-05T09:31:02Z",
+    "lastCommit": "e9e54f25a021cdafb300a8dd9d40e078e41da43c"
+  },
+  {
+    "repo": "iacsecbench",
+    "stars": 1,
+    "forks": 0,
+    "issues": 1,
+    "lastUpdated": "2026-09-05T09:31:35Z",
+    "lastCommit": "dcd1b40cf705b89820bac00164b2dbdb81e5d3f5"
   },
   {
     "repo": "mchittineni-portfolio",
@@ -46,14 +62,6 @@
     "issues": 0,
     "lastUpdated": "2026-08-26T15:37:22Z",
     "lastCommit": "29d471602ec49ed55351858c22057310e53db362"
-  },
-  {
-    "repo": "iacsecbench",
-    "stars": 1,
-    "forks": 0,
-    "issues": 1,
-    "lastUpdated": "2026-08-24T15:54:50Z",
-    "lastCommit": "963870fe9070baa3ecbd9fdf422c6f2275fa6b72"
   },
   {
     "repo": "ai-job-serve",
@@ -72,14 +80,6 @@
     "lastCommit": "763a76b5166dbca7cb0deae98fa1afeb1d224328"
   },
   {
-    "repo": "eks-terraform",
-    "stars": 1,
-    "forks": 1,
-    "issues": 0,
-    "lastUpdated": "2026-08-10T08:33:46Z",
-    "lastCommit": "e80fd9612c963965b2a86ddb9191b7682918d526"
-  },
-  {
     "repo": "Terraform-Scripts",
     "stars": 1,
     "forks": 1,
@@ -88,12 +88,44 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "gke-terraform",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-09-05T13:51:40Z",
+    "lastCommit": "e2dbd73768e98639f42d5394ff747124006aabbe"
+  },
+  {
+    "repo": "aks-terraform",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-09-05T13:08:57Z",
+    "lastCommit": "7dc91c195a24e8f798e6a6d057ae535640771432"
+  },
+  {
+    "repo": "homebrew-tap",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-09-05T11:57:44Z",
+    "lastCommit": "0df47d839992f8cba819ba5f98b21185ff9c0f20"
+  },
+  {
+    "repo": "tf-arch-diagram-generator",
+    "stars": 0,
+    "forks": 1,
+    "issues": 1,
+    "lastUpdated": "2026-09-05T11:56:30Z",
+    "lastCommit": "beaf497076f9a4c9bf83b7b4f1f0800c73d6f8d9"
+  },
+  {
     "repo": "repo-radar",
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-09-04T16:02:05Z",
-    "lastCommit": "01a02f548c291e26beb897afef869656ff953c3e"
+    "lastUpdated": "2026-09-05T03:43:14Z",
+    "lastCommit": "aee161d1d7b5177e5053a76d50d3eca416a943eb"
   },
   {
     "repo": "certops",
@@ -110,22 +142,6 @@
     "issues": 17,
     "lastUpdated": "2026-09-01T18:17:16Z",
     "lastCommit": "4815e0f2b844a97d981fe808e2e67ec7b95ec5b2"
-  },
-  {
-    "repo": "homebrew-tap",
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-09-01T18:25:45Z",
-    "lastCommit": "9c987c76df6e0fe5e66ca5ea3965da23a74865c2"
-  },
-  {
-    "repo": "tf-arch-diagram-generator",
-    "stars": 0,
-    "forks": 1,
-    "issues": 0,
-    "lastUpdated": "2026-09-01T18:15:46Z",
-    "lastCommit": "c9060089a0e00003ac31736f5723b9dfa9483215"
   },
   {
     "repo": "uk-river-flow",
