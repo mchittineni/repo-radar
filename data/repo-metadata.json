@@ -1,10 +1,10 @@
 [
   {
     "repo": "ultimate-devops-guide",
-    "stars": 31,
+    "stars": 32,
     "forks": 12,
     "issues": 0,
-    "lastUpdated": "2026-09-01T08:18:12Z",
+    "lastUpdated": "2026-09-05T21:10:08Z",
     "lastCommit": "b7f4d2a0a92516886e55cbe40d7670d007dfdc97"
   },
   {
@@ -20,8 +20,8 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-05T14:09:52Z",
-    "lastCommit": "c9ec5d50a1358ea26042f35b88c725a30a482029"
+    "lastUpdated": "2026-09-06T01:46:47Z",
+    "lastCommit": "ff796528734f2801cef6f2d35019b0ad880adcf4"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -50,8 +50,8 @@
   {
     "repo": "iacsecbench",
     "stars": 1,
-    "forks": 0,
-    "issues": 1,
+    "forks": 1,
+    "issues": 2,
     "lastUpdated": "2026-09-05T09:31:35Z",
     "lastCommit": "dcd1b40cf705b89820bac00164b2dbdb81e5d3f5"
   },
@@ -88,6 +88,22 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "aws-platform-engineering-lab",
+    "stars": 0,
+    "forks": 0,
+    "issues": 18,
+    "lastUpdated": "2026-09-01T18:17:16Z",
+    "lastCommit": "4815e0f2b844a97d981fe808e2e67ec7b95ec5b2"
+  },
+  {
+    "repo": "repo-radar",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-09-05T14:51:48Z",
+    "lastCommit": "56cb889a7539aee29fe619a1a7349ef7c9829040"
+  },
+  {
     "repo": "gke-terraform",
     "stars": 0,
     "forks": 0,
@@ -120,28 +136,12 @@
     "lastCommit": "beaf497076f9a4c9bf83b7b4f1f0800c73d6f8d9"
   },
   {
-    "repo": "repo-radar",
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-09-05T03:43:14Z",
-    "lastCommit": "aee161d1d7b5177e5053a76d50d3eca416a943eb"
-  },
-  {
     "repo": "certops",
     "stars": 0,
     "forks": 0,
     "issues": 0,
     "lastUpdated": "2026-09-04T12:28:06Z",
     "lastCommit": "a94eff88b24b424bc681fada532a1a5b30181a4b"
-  },
-  {
-    "repo": "aws-platform-engineering-lab",
-    "stars": 0,
-    "forks": 0,
-    "issues": 17,
-    "lastUpdated": "2026-09-01T18:17:16Z",
-    "lastCommit": "4815e0f2b844a97d981fe808e2e67ec7b95ec5b2"
   },
   {
     "repo": "uk-river-flow",
