@@ -20,8 +20,8 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-07T01:43:59Z",
-    "lastCommit": "092ef5be9894acb1f4fbbe7ef550cd444f572ba4"
+    "lastUpdated": "2026-09-07T16:48:30Z",
+    "lastCommit": "90179ab70fcd636a7ed13f5b8a829cbf2ee61a0d"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,20 +88,28 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
-    "repo": "uk-river-flow",
+    "repo": "cloud-platform-skills",
     "stars": 0,
-    "forks": 0,
-    "issues": 4,
-    "lastUpdated": "2026-08-20T15:17:57Z",
-    "lastCommit": "3c3f1c1da974712ce5e32af2727c54c3fbec39ec"
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2026-09-07T08:09:55Z",
+    "lastCommit": "035db4c7166c3de49b6265da56072c2278c3d7a4"
   },
   {
     "repo": "repo-radar",
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-09-06T15:11:36Z",
-    "lastCommit": "4bc4ed8e3591e9e9617575f9dc839fbb8da3c776"
+    "lastUpdated": "2026-09-07T03:45:09Z",
+    "lastCommit": "940ca25612bb9340f343bca40e114a3e89ca96fa"
+  },
+  {
+    "repo": "uk-river-flow",
+    "stars": 0,
+    "forks": 0,
+    "issues": 4,
+    "lastUpdated": "2026-08-20T15:17:57Z",
+    "lastCommit": "3c3f1c1da974712ce5e32af2727c54c3fbec39ec"
   },
   {
     "repo": "aws-platform-engineering-lab",
@@ -158,14 +166,6 @@
     "issues": 0,
     "lastUpdated": "2026-08-23T08:26:13Z",
     "lastCommit": "d366df7815562d20941b860d5bf5ddfea89ddaef"
-  },
-  {
-    "repo": "cloud-platform-skills",
-    "stars": 0,
-    "forks": 1,
-    "issues": 0,
-    "lastUpdated": "2026-08-19T13:47:35Z",
-    "lastCommit": "b58a22ec811ffc686c082b8f19bc929fc1a09850"
   },
   {
     "repo": "blast-radius-check",

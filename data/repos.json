@@ -1,6 +1,6 @@
 {
   "owner": "mchittineni",
-  "generated_at": "2026-09-07T03:44:40Z",
+  "generated_at": "2026-09-07T17:33:32Z",
   "repositories": [
     "ultimate-devops-guide",
     "ultimate-ai-engineering-guide",
@@ -13,8 +13,9 @@
     "ai-job-serve",
     "sports-monitor",
     "Terraform-Scripts",
-    "uk-river-flow",
+    "cloud-platform-skills",
     "repo-radar",
+    "uk-river-flow",
     "aws-platform-engineering-lab",
     "gke-terraform",
     "aks-terraform",
@@ -22,7 +23,6 @@
     "tf-arch-diagram-generator",
     "certops",
     "mutual-fund-analysis-tracker",
-    "cloud-platform-skills",
     "blast-radius-check",
     "blast-radius-indexer"
   ]
