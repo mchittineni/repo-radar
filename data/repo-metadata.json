@@ -20,8 +20,8 @@
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-07T16:48:30Z",
-    "lastCommit": "90179ab70fcd636a7ed13f5b8a829cbf2ee61a0d"
+    "lastUpdated": "2026-09-08T01:55:23Z",
+    "lastCommit": "a22291ab82c78e4799e643119c5a2724daa5301c"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,20 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "repo-radar",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-09-07T17:34:31Z",
+    "lastCommit": "d5254cff9c9173312e3629545708e9bad63bdc70"
+  },
+  {
     "repo": "cloud-platform-skills",
     "stars": 0,
     "forks": 1,
     "issues": 0,
     "lastUpdated": "2026-09-07T08:09:55Z",
     "lastCommit": "035db4c7166c3de49b6265da56072c2278c3d7a4"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-09-07T03:45:09Z",
-    "lastCommit": "940ca25612bb9340f343bca40e114a3e89ca96fa"
   },
   {
     "repo": "uk-river-flow",
