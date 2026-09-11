@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-11T01:56:15Z",
-    "lastCommit": "fb1ee3e481c846156d83ca04202e5bcf63dddfa3"
+    "lastUpdated": "2026-09-11T15:27:56Z",
+    "lastCommit": "8083d4af5f347f9abe66a89a7425527263f25bd3"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,20 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-09-10T16:09:52Z",
-    "lastCommit": "4593be6abee414c07db3f1cbbc4ed58f33890532"
-  },
-  {
     "repo": "certops",
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-09-10T14:41:36Z",
-    "lastCommit": "a60043d1ddfc2847542b0718c5cb7a2f179f0457"
+    "lastUpdated": "2026-09-11T13:49:52Z",
+    "lastCommit": "3dc2b21c09aa1ab05e260ea8216f8716e537c783"
+  },
+  {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-09-11T03:49:53Z",
+    "lastCommit": "0a56f632f5ffde759b0720127218d6f8b3af3d5e"
   },
   {
     "repo": "edge-content-engine",
