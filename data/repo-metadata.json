@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-12T14:35:28Z",
-    "lastCommit": "a8405995294c3ddbaf797994e6159c9ab5d09955"
+    "lastUpdated": "2026-09-13T01:54:52Z",
+    "lastCommit": "945ee8e66ab7491537e95bbe0fdecc88272a90b1"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,12 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "aws-platform-engineering-lab",
+    "stars": 1,
+    "forks": 0,
+    "issues": 19,
+    "lastUpdated": "2026-09-10T09:54:28Z",
+    "lastCommit": "4815e0f2b844a97d981fe808e2e67ec7b95ec5b2"
+  },
+  {
     "repo": "repo-radar",
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-09-12T03:52:31Z",
-    "lastCommit": "6cfb1f83d93b1a601203dbdf2c83038c0043bb47"
+    "lastUpdated": "2026-09-12T15:16:55Z",
+    "lastCommit": "a72d9944a4637e6715dfb1c34cb8a397ee7903fb"
   },
   {
     "repo": "certops",
@@ -126,14 +134,6 @@
     "issues": 4,
     "lastUpdated": "2026-09-10T09:54:26Z",
     "lastCommit": "3c3f1c1da974712ce5e32af2727c54c3fbec39ec"
-  },
-  {
-    "repo": "aws-platform-engineering-lab",
-    "stars": 1,
-    "forks": 0,
-    "issues": 18,
-    "lastUpdated": "2026-09-10T09:54:28Z",
-    "lastCommit": "4815e0f2b844a97d981fe808e2e67ec7b95ec5b2"
   },
   {
     "repo": "gke-terraform",
