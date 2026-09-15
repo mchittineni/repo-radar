@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-14T17:12:07Z",
-    "lastCommit": "6ed38500ddb8f70552a2de02ed91eb6ffbd7f3cd"
+    "lastUpdated": "2026-09-15T02:18:58Z",
+    "lastCommit": "9d6e69908499c25085140131adf7a5bc7b4631cc"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,6 +88,14 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-09-14T17:56:23Z",
+    "lastCommit": "d97e0e7cc63a2b2be611aa4bf2ccf68caf2a75d5"
+  },
+  {
     "repo": "aws-platform-engineering-lab",
     "stars": 1,
     "forks": 0,
@@ -102,14 +110,6 @@
     "issues": 0,
     "lastUpdated": "2026-09-14T09:11:11Z",
     "lastCommit": "28f3a39fcd84c3ef0a298e4b83e3348374b2f527"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-09-14T04:09:21Z",
-    "lastCommit": "10d3c0d5525fc766115c9d311b17a7ce1a415fb0"
   },
   {
     "repo": "uk-river-flow",
