@@ -1,18 +1,18 @@
 [
   {
     "repo": "ultimate-devops-guide",
-    "stars": 33,
+    "stars": 34,
     "forks": 13,
     "issues": 0,
-    "lastUpdated": "2026-09-10T09:54:53Z",
+    "lastUpdated": "2026-09-15T21:10:38Z",
     "lastCommit": "b7f4d2a0a92516886e55cbe40d7670d007dfdc97"
   },
   {
     "repo": "ultimate-ai-engineering-guide",
-    "stars": 21,
+    "stars": 23,
     "forks": 2,
     "issues": 0,
-    "lastUpdated": "2026-09-10T09:54:51Z",
+    "lastUpdated": "2026-09-15T22:32:04Z",
     "lastCommit": "b8079c91ad5c0f778d23b6b89cd294312a65c282"
   },
   {
@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-15T15:52:06Z",
-    "lastCommit": "6d3dafdc3b64834c2feb6b94f2eb3ecc11e4f8aa"
+    "lastUpdated": "2026-09-16T02:12:24Z",
+    "lastCommit": "fbc1a34ba3c47389fa3ee37476302e8ecca22170"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -92,8 +92,8 @@
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-09-15T04:08:48Z",
-    "lastCommit": "8ad54e0a7a7cddcbbad469a07a06d18c3ca08773"
+    "lastUpdated": "2026-09-16T01:30:44Z",
+    "lastCommit": "3ea9abe70a915f4eaecf82812b2d4b91cea574f8"
   },
   {
     "repo": "aws-platform-engineering-lab",
