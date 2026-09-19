@@ -1,16 +1,16 @@
 [
   {
     "repo": "ultimate-devops-guide",
-    "stars": 34,
+    "stars": 35,
     "forks": 13,
     "issues": 0,
-    "lastUpdated": "2026-09-15T21:10:38Z",
+    "lastUpdated": "2026-09-19T10:44:55Z",
     "lastCommit": "b7f4d2a0a92516886e55cbe40d7670d007dfdc97"
   },
   {
     "repo": "ultimate-ai-engineering-guide",
     "stars": 23,
-    "forks": 2,
+    "forks": 3,
     "issues": 0,
     "lastUpdated": "2026-09-15T22:32:04Z",
     "lastCommit": "b8079c91ad5c0f778d23b6b89cd294312a65c282"
@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-19T02:06:50Z",
-    "lastCommit": "b85625898485acc0f7174c8c767ae47cf054b33c"
+    "lastUpdated": "2026-09-19T14:59:21Z",
+    "lastCommit": "c6c56fb8cd1589afa59715fc05843925b94d46c6"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -92,8 +92,8 @@
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-09-18T16:06:39Z",
-    "lastCommit": "a91ed074749cc61bf0fae140063d0afe6ed75f8d"
+    "lastUpdated": "2026-09-19T03:54:38Z",
+    "lastCommit": "3e2b64f150cc2f085108962696c31afd48dfcefa"
   },
   {
     "repo": "certops",
