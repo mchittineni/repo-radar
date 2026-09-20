@@ -1,10 +1,10 @@
 [
   {
     "repo": "ultimate-devops-guide",
-    "stars": 35,
+    "stars": 36,
     "forks": 13,
     "issues": 0,
-    "lastUpdated": "2026-09-19T10:44:55Z",
+    "lastUpdated": "2026-09-20T11:33:20Z",
     "lastCommit": "b7f4d2a0a92516886e55cbe40d7670d007dfdc97"
   },
   {
@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-20T02:12:17Z",
-    "lastCommit": "61499932a664a9182cfc166c4244000b128e2e41"
+    "lastUpdated": "2026-09-20T15:02:59Z",
+    "lastCommit": "72687efb376ef859c3cc54407a71511f03b2a02d"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -32,20 +32,20 @@
     "lastCommit": "f2589dcfd237897451a24dec01de794ea77e78a0"
   },
   {
+    "repo": "india-village-finder",
+    "stars": 2,
+    "forks": 0,
+    "issues": 1,
+    "lastUpdated": "2026-09-13T10:56:32Z",
+    "lastCommit": "b419332b3277e72762291f9cb151137bdb922154"
+  },
+  {
     "repo": "iacsecbench",
     "stars": 2,
     "forks": 1,
     "issues": 0,
     "lastUpdated": "2026-09-14T09:21:55Z",
     "lastCommit": "762d28e3d9cce4cf3bb3807a4b1f893a4d80a611"
-  },
-  {
-    "repo": "india-village-finder",
-    "stars": 2,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-09-13T10:56:32Z",
-    "lastCommit": "b419332b3277e72762291f9cb151137bdb922154"
   },
   {
     "repo": "eks-terraform",
@@ -88,20 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-09-20T04:11:40Z",
+    "lastCommit": "600063596ef019d13e48d44ccf6bd91bf427ac71"
+  },
+  {
     "repo": "aws-platform-engineering-lab",
     "stars": 1,
     "forks": 0,
     "issues": 22,
     "lastUpdated": "2026-09-14T09:16:15Z",
     "lastCommit": "240450610a0d86f1ec7ae42327d3037b9f5104fa"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-09-19T15:38:51Z",
-    "lastCommit": "9853dc3746aceff0f41b51b103a19b60bba49407"
   },
   {
     "repo": "certops",
