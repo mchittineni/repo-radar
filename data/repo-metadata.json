@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-19T14:59:21Z",
-    "lastCommit": "c6c56fb8cd1589afa59715fc05843925b94d46c6"
+    "lastUpdated": "2026-09-20T02:12:17Z",
+    "lastCommit": "61499932a664a9182cfc166c4244000b128e2e41"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,12 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "aws-platform-engineering-lab",
+    "stars": 1,
+    "forks": 0,
+    "issues": 22,
+    "lastUpdated": "2026-09-14T09:16:15Z",
+    "lastCommit": "240450610a0d86f1ec7ae42327d3037b9f5104fa"
+  },
+  {
     "repo": "repo-radar",
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-09-19T03:54:38Z",
-    "lastCommit": "3e2b64f150cc2f085108962696c31afd48dfcefa"
+    "lastUpdated": "2026-09-19T15:38:51Z",
+    "lastCommit": "9853dc3746aceff0f41b51b103a19b60bba49407"
   },
   {
     "repo": "certops",
@@ -102,14 +110,6 @@
     "issues": 0,
     "lastUpdated": "2026-09-17T11:07:55Z",
     "lastCommit": "b1b048c91ac3cb99ab301d5a5efa07afbbc98a9e"
-  },
-  {
-    "repo": "aws-platform-engineering-lab",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-09-14T09:16:15Z",
-    "lastCommit": "240450610a0d86f1ec7ae42327d3037b9f5104fa"
   },
   {
     "repo": "uk-river-flow",
