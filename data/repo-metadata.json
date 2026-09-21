@@ -9,10 +9,10 @@
   },
   {
     "repo": "ultimate-ai-engineering-guide",
-    "stars": 23,
+    "stars": 24,
     "forks": 3,
     "issues": 0,
-    "lastUpdated": "2026-09-15T22:32:04Z",
+    "lastUpdated": "2026-09-21T12:00:12Z",
     "lastCommit": "b8079c91ad5c0f778d23b6b89cd294312a65c282"
   },
   {
@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-21T02:12:23Z",
-    "lastCommit": "1e02ef72602ee4936ae68b996f63b643288e41f1"
+    "lastUpdated": "2026-09-21T17:21:27Z",
+    "lastCommit": "c754ab869a58a25cadf024fbc1e4ce6471663f05"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -35,9 +35,9 @@
     "repo": "india-village-finder",
     "stars": 2,
     "forks": 0,
-    "issues": 1,
-    "lastUpdated": "2026-09-13T10:56:32Z",
-    "lastCommit": "b419332b3277e72762291f9cb151137bdb922154"
+    "issues": 0,
+    "lastUpdated": "2026-09-21T08:40:11Z",
+    "lastCommit": "25f178bdf80a70ff5cbda13690a9a63749c139cd"
   },
   {
     "repo": "iacsecbench",
@@ -88,6 +88,38 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "certops",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-09-21T15:45:59Z",
+    "lastCommit": "b9cd8ee1e0fbab723810234f9549e3e27d880260"
+  },
+  {
+    "repo": "aws-platform-engineering-lab",
+    "stars": 1,
+    "forks": 0,
+    "issues": 21,
+    "lastUpdated": "2026-09-21T08:40:59Z",
+    "lastCommit": "655860e581d3eca65563613b8361e7e485d1cedb"
+  },
+  {
+    "repo": "cloud-platform-skills",
+    "stars": 1,
+    "forks": 2,
+    "issues": 0,
+    "lastUpdated": "2026-09-21T08:38:33Z",
+    "lastCommit": "6f74693c72cb310f79c95160d3ee95f7124cf66f"
+  },
+  {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-09-21T04:08:47Z",
+    "lastCommit": "ea171491e3741e0368e21cd4464e66389f3b509c"
+  },
+  {
     "repo": "uk-river-flow",
     "stars": 1,
     "forks": 0,
@@ -96,44 +128,12 @@
     "lastCommit": "3c3f1c1da974712ce5e32af2727c54c3fbec39ec"
   },
   {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-09-20T15:44:18Z",
-    "lastCommit": "be99c71168445fd339c27390c13e3b5e01ad1098"
-  },
-  {
-    "repo": "aws-platform-engineering-lab",
-    "stars": 1,
-    "forks": 0,
-    "issues": 22,
-    "lastUpdated": "2026-09-14T09:16:15Z",
-    "lastCommit": "240450610a0d86f1ec7ae42327d3037b9f5104fa"
-  },
-  {
-    "repo": "certops",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-09-17T11:07:55Z",
-    "lastCommit": "b1b048c91ac3cb99ab301d5a5efa07afbbc98a9e"
-  },
-  {
     "repo": "edge-content-engine",
     "stars": 1,
     "forks": 0,
     "issues": 4,
     "lastUpdated": "2026-09-10T09:54:14Z",
     "lastCommit": "686a9860763ba273fe892a73d046c400565b17bd"
-  },
-  {
-    "repo": "cloud-platform-skills",
-    "stars": 1,
-    "forks": 2,
-    "issues": 0,
-    "lastUpdated": "2026-09-10T09:54:16Z",
-    "lastCommit": "c1b575d7ae1c7aae1603fc157008688c24055537"
   },
   {
     "repo": "gke-terraform",
