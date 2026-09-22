@@ -1,10 +1,10 @@
 [
   {
     "repo": "ultimate-devops-guide",
-    "stars": 36,
+    "stars": 37,
     "forks": 13,
     "issues": 0,
-    "lastUpdated": "2026-09-20T11:33:20Z",
+    "lastUpdated": "2026-09-22T11:17:08Z",
     "lastCommit": "b7f4d2a0a92516886e55cbe40d7670d007dfdc97"
   },
   {
@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-22T02:17:25Z",
-    "lastCommit": "297e8ef33a0818e6a45369017b72fc5e5879590b"
+    "lastUpdated": "2026-09-22T15:54:33Z",
+    "lastCommit": "a878afbb8df0285fd5c312e261b4bfee0dc9c58d"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -92,8 +92,8 @@
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-09-21T18:03:24Z",
-    "lastCommit": "804f47cabcc9379abed93983311379097bd39f11"
+    "lastUpdated": "2026-09-22T04:05:27Z",
+    "lastCommit": "6ce3a78026a4f358679038323b61fca9a87fa95f"
   },
   {
     "repo": "certops",
