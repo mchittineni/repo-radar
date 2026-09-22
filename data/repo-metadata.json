@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-21T17:21:27Z",
-    "lastCommit": "c754ab869a58a25cadf024fbc1e4ce6471663f05"
+    "lastUpdated": "2026-09-22T02:17:25Z",
+    "lastCommit": "297e8ef33a0818e6a45369017b72fc5e5879590b"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,6 +88,14 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-09-21T18:03:24Z",
+    "lastCommit": "804f47cabcc9379abed93983311379097bd39f11"
+  },
+  {
     "repo": "certops",
     "stars": 1,
     "forks": 0,
@@ -110,14 +118,6 @@
     "issues": 0,
     "lastUpdated": "2026-09-21T08:38:33Z",
     "lastCommit": "6f74693c72cb310f79c95160d3ee95f7124cf66f"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-09-21T04:08:47Z",
-    "lastCommit": "ea171491e3741e0368e21cd4464e66389f3b509c"
   },
   {
     "repo": "uk-river-flow",
