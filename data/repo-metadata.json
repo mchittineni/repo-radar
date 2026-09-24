@@ -3,7 +3,7 @@
     "repo": "ultimate-devops-guide",
     "stars": 37,
     "forks": 13,
-    "issues": 0,
+    "issues": 1,
     "lastUpdated": "2026-09-22T11:17:08Z",
     "lastCommit": "b7f4d2a0a92516886e55cbe40d7670d007dfdc97"
   },
@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-23T15:43:57Z",
-    "lastCommit": "ca00202fd480f9ba6404e5aecf93dce694cefd70"
+    "lastUpdated": "2026-09-24T02:04:16Z",
+    "lastCommit": "a03e7d07805c11214aebcd1696792640c0530548"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -36,8 +36,8 @@
     "stars": 2,
     "forks": 1,
     "issues": 1,
-    "lastUpdated": "2026-09-23T16:09:20Z",
-    "lastCommit": "f03c1ce5291b2c35d76a6d1ea87a93c77a1377be"
+    "lastUpdated": "2026-09-23T17:20:02Z",
+    "lastCommit": "77e0fae15e8fbd00ac6fc796f6ea6d2393a06dc0"
   },
   {
     "repo": "india-village-finder",
@@ -88,20 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-09-23T16:28:09Z",
+    "lastCommit": "cc6dca25b1c564d24e0751ae96b772a6d1afceb3"
+  },
+  {
     "repo": "certops",
     "stars": 1,
     "forks": 0,
     "issues": 0,
     "lastUpdated": "2026-09-23T12:01:50Z",
     "lastCommit": "732a5fd780a7211767c0fe51df61e16cbfd834af"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-09-23T04:02:14Z",
-    "lastCommit": "1eb897e20af75a47b95c263dd0517513224bfbc8"
   },
   {
     "repo": "aws-platform-engineering-lab",
