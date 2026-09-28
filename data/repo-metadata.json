@@ -1,10 +1,10 @@
 [
   {
     "repo": "ultimate-devops-guide",
-    "stars": 38,
+    "stars": 39,
     "forks": 13,
     "issues": 0,
-    "lastUpdated": "2026-09-27T05:25:48Z",
+    "lastUpdated": "2026-09-28T12:06:37Z",
     "lastCommit": "f60018985ccc3de1e01ad0ec493f5a2875cb9996"
   },
   {
@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-28T02:26:02Z",
-    "lastCommit": "45a510ef04e46d97a2dd330167db99f5e371d4fb"
+    "lastUpdated": "2026-09-28T18:54:29Z",
+    "lastCommit": "1f7f713ab7f9602342d952ffbbccbe5776eb4345"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,6 +88,22 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "cloud-platform-skills",
+    "stars": 1,
+    "forks": 2,
+    "issues": 0,
+    "lastUpdated": "2026-09-28T09:55:40Z",
+    "lastCommit": "4db94da2b3ea1e36688332606c5240e78c8790b2"
+  },
+  {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-09-28T04:33:48Z",
+    "lastCommit": "a0c2595accbf4f1b90f134dccabcec8fdf4a0630"
+  },
+  {
     "repo": "certops",
     "stars": 1,
     "forks": 0,
@@ -96,28 +112,12 @@
     "lastCommit": "f254904c54088aee9e50bfd34ce0fad798a0a327"
   },
   {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-09-27T16:41:31Z",
-    "lastCommit": "940230885e4de2998792843235af48bb676401af"
-  },
-  {
     "repo": "aws-platform-engineering-lab",
     "stars": 1,
     "forks": 0,
     "issues": 22,
     "lastUpdated": "2026-09-21T08:40:59Z",
     "lastCommit": "655860e581d3eca65563613b8361e7e485d1cedb"
-  },
-  {
-    "repo": "cloud-platform-skills",
-    "stars": 1,
-    "forks": 2,
-    "issues": 0,
-    "lastUpdated": "2026-09-21T08:38:33Z",
-    "lastCommit": "6f74693c72cb310f79c95160d3ee95f7124cf66f"
   },
   {
     "repo": "uk-river-flow",
