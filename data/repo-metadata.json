@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-28T18:54:29Z",
-    "lastCommit": "1f7f713ab7f9602342d952ffbbccbe5776eb4345"
+    "lastUpdated": "2026-09-29T03:09:26Z",
+    "lastCommit": "d267025e69aa631fb258f8f827768bd10ce22a43"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,20 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-09-28T19:27:20Z",
+    "lastCommit": "0b26a82f261c8fc72f9e45f33542696b13026da6"
+  },
+  {
     "repo": "cloud-platform-skills",
     "stars": 1,
     "forks": 2,
     "issues": 0,
     "lastUpdated": "2026-09-28T09:55:40Z",
     "lastCommit": "4db94da2b3ea1e36688332606c5240e78c8790b2"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-09-28T04:33:48Z",
-    "lastCommit": "a0c2595accbf4f1b90f134dccabcec8fdf4a0630"
   },
   {
     "repo": "certops",
