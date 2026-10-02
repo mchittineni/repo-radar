@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-01T17:40:09Z",
-    "lastCommit": "795e9a55e06126f5ebc1e4debc6307edcb0c8d47"
+    "lastUpdated": "2026-10-02T03:00:30Z",
+    "lastCommit": "3cd1ad7687fc4f71bb004305ee9aac4ee2dd5cad"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,6 +88,14 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-01T18:15:00Z",
+    "lastCommit": "638403009695ce44adee98265f9ac2e88b96f57c"
+  },
+  {
     "repo": "blast-radius-indexer",
     "stars": 1,
     "forks": 0,
@@ -118,14 +126,6 @@
     "issues": 4,
     "lastUpdated": "2026-09-10T09:54:14Z",
     "lastCommit": "686a9860763ba273fe892a73d046c400565b17bd"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-01T05:01:15Z",
-    "lastCommit": "d48616bc38232c28a548ecde237aef696420d5e8"
   },
   {
     "repo": "tf-arch-diagram-generator",
