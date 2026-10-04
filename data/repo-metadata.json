@@ -2,7 +2,7 @@
   {
     "repo": "ultimate-devops-guide",
     "stars": 39,
-    "forks": 13,
+    "forks": 14,
     "issues": 0,
     "lastUpdated": "2026-09-28T12:06:37Z",
     "lastCommit": "f60018985ccc3de1e01ad0ec493f5a2875cb9996"
@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-03T15:22:56Z",
-    "lastCommit": "1e53c0e50b79fb5afee3ee600d607905dad3a6e3"
+    "lastUpdated": "2026-10-04T03:17:01Z",
+    "lastCommit": "91d4f2a99b91c9d731e2e5163c586c741a6de0c2"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,12 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "aws-platform-engineering-lab",
+    "stars": 1,
+    "forks": 0,
+    "issues": 22,
+    "lastUpdated": "2026-09-21T08:40:59Z",
+    "lastCommit": "655860e581d3eca65563613b8361e7e485d1cedb"
+  },
+  {
     "repo": "repo-radar",
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-10-03T04:34:18Z",
-    "lastCommit": "f623f7db8841f845e3e264849587b10ef728bc27"
+    "lastUpdated": "2026-10-03T15:58:17Z",
+    "lastCommit": "cbf22f5d4814839ce3736c2024a9c2cda9376f3b"
   },
   {
     "repo": "blast-radius-indexer",
@@ -150,14 +158,6 @@
     "issues": 0,
     "lastUpdated": "2026-09-28T09:55:40Z",
     "lastCommit": "4db94da2b3ea1e36688332606c5240e78c8790b2"
-  },
-  {
-    "repo": "aws-platform-engineering-lab",
-    "stars": 1,
-    "forks": 0,
-    "issues": 22,
-    "lastUpdated": "2026-09-21T08:40:59Z",
-    "lastCommit": "655860e581d3eca65563613b8361e7e485d1cedb"
   },
   {
     "repo": "gke-terraform",
