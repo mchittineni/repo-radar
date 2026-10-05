@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-04T16:07:05Z",
-    "lastCommit": "31d58089b97aec5eb544ebbd7c7c766e88ae3b73"
+    "lastUpdated": "2026-10-05T02:53:06Z",
+    "lastCommit": "e936a54d8413d63929bfffe6f5e9a6d5a991840f"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,12 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "certops",
+    "stars": 1,
+    "forks": 0,
+    "issues": 1,
+    "lastUpdated": "2026-09-30T17:18:25Z",
+    "lastCommit": "99899249e74d246c127a7e982035acd4e774544c"
+  },
+  {
     "repo": "repo-radar",
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-10-04T05:04:36Z",
-    "lastCommit": "6c5b547fbf31976a0ec490863ff16b9d70a88399"
+    "lastUpdated": "2026-10-04T16:40:20Z",
+    "lastCommit": "56eeef0977992a67246d0f6ec45a9f777335bf01"
   },
   {
     "repo": "aws-platform-engineering-lab",
@@ -142,14 +150,6 @@
     "issues": 1,
     "lastUpdated": "2026-09-10T09:54:33Z",
     "lastCommit": "beaf497076f9a4c9bf83b7b4f1f0800c73d6f8d9"
-  },
-  {
-    "repo": "certops",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-09-30T17:18:25Z",
-    "lastCommit": "99899249e74d246c127a7e982035acd4e774544c"
   },
   {
     "repo": "cloud-platform-skills",
