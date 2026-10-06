@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-05T02:53:06Z",
-    "lastCommit": "e936a54d8413d63929bfffe6f5e9a6d5a991840f"
+    "lastUpdated": "2026-10-06T03:43:10Z",
+    "lastCommit": "563e5bd0ed336065e5e4d555f02e218c184cf6b0"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -91,17 +91,17 @@
     "repo": "certops",
     "stars": 1,
     "forks": 0,
-    "issues": 1,
-    "lastUpdated": "2026-09-30T17:18:25Z",
-    "lastCommit": "99899249e74d246c127a7e982035acd4e774544c"
+    "issues": 0,
+    "lastUpdated": "2026-10-05T12:42:01Z",
+    "lastCommit": "654287b961b344b321cf03efaa35219b46501f59"
   },
   {
     "repo": "repo-radar",
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-10-04T16:40:20Z",
-    "lastCommit": "56eeef0977992a67246d0f6ec45a9f777335bf01"
+    "lastUpdated": "2026-10-05T04:51:11Z",
+    "lastCommit": "1d1977d2809723271bbe4274752b6bab755935b2"
   },
   {
     "repo": "aws-platform-engineering-lab",
@@ -190,5 +190,13 @@
     "issues": 0,
     "lastUpdated": "2026-09-10T09:54:48Z",
     "lastCommit": "90265581b62dbff18c2a4319d631f8a4f4d37017"
+  },
+  {
+    "repo": "fde-from-scratch",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-05T14:54:43Z",
+    "lastCommit": "ef0f5b4243820e4c88e90b9aba61939ab666e00d"
   }
 ]
