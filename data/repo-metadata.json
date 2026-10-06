@@ -2,7 +2,7 @@
   {
     "repo": "ultimate-devops-guide",
     "stars": 40,
-    "forks": 14,
+    "forks": 16,
     "issues": 0,
     "lastUpdated": "2026-10-04T12:42:10Z",
     "lastCommit": "f60018985ccc3de1e01ad0ec493f5a2875cb9996"
@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-06T03:43:10Z",
-    "lastCommit": "563e5bd0ed336065e5e4d555f02e218c184cf6b0"
+    "lastUpdated": "2026-10-06T17:33:37Z",
+    "lastCommit": "dc64591bc0e050a40c57d615a685984e7c7924eb"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,20 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-06T05:38:21Z",
+    "lastCommit": "c9e829ab0a62c455c8181dae82463582c68a8d34"
+  },
+  {
     "repo": "certops",
     "stars": 1,
     "forks": 0,
     "issues": 0,
     "lastUpdated": "2026-10-05T12:42:01Z",
     "lastCommit": "654287b961b344b321cf03efaa35219b46501f59"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-05T04:51:11Z",
-    "lastCommit": "1d1977d2809723271bbe4274752b6bab755935b2"
   },
   {
     "repo": "aws-platform-engineering-lab",
