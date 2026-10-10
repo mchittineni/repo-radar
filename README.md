@@ -6,7 +6,7 @@
 
 Every repository, star, commit, and CI result — refreshed automatically by GitHub Actions. 🤖
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--10%2005%3A06%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--10%2017%3A09%20UTC-blue?style=flat-square)
 ![Repositories](https://img.shields.io/badge/Repositories-25-6f42c1?style=flat-square)
 ![Stars](https://img.shields.io/badge/Stars-100-f1c40f?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-2ea44f?style=flat-square)
@@ -38,11 +38,11 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 ## ⏱️ Freshly pushed
 
-- 🔥 **[mchittineni](https://github.com/mchittineni/mchittineni)** · just now · [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/4efbefe7697316630a02a86cee5b5d0ad567c263)
-- 🔥 **[repo-radar](https://github.com/mchittineni/repo-radar)** · 10 hours ago · [fix(git-tracker): auto-updated project status with latest...](https://github.com/mchittineni/repo-radar/commit/a5ad4be01e5e48de1c0675c5b19143be7448634d)
-- ✨ **[fde-from-scratch](https://github.com/mchittineni/fde-from-scratch)** · 4 days ago · [docs(changelog): note interactive learning additions](https://github.com/mchittineni/fde-from-scratch/commit/ef0f5b4243820e4c88e90b9aba61939ab666e00d)
-- ✨ **[certops](https://github.com/mchittineni/certops)** · 4 days ago · [chore(deps): bump the dev-tooling group with 2 updates](https://github.com/mchittineni/certops/commit/654287b961b344b321cf03efaa35219b46501f59)
-- ✨ **[ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide)** · 5 days ago · [fix(ci): correct invalid setup-node and github-script SHA...](https://github.com/mchittineni/ultimate-devops-guide/commit/f60018985ccc3de1e01ad0ec493f5a2875cb9996)
+- 🔥 **[mchittineni](https://github.com/mchittineni/mchittineni)** · just now · [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/674b858cfcaaa55e48f711e375267a8cf44bf98e)
+- 🔥 **[repo-radar](https://github.com/mchittineni/repo-radar)** · 12 hours ago · [fix(git-tracker): auto-updated project status with latest...](https://github.com/mchittineni/repo-radar/commit/3dbf877d5158719f7bdc231e542f1156278156bb)
+- ✨ **[fde-from-scratch](https://github.com/mchittineni/fde-from-scratch)** · 5 days ago · [docs(changelog): note interactive learning additions](https://github.com/mchittineni/fde-from-scratch/commit/ef0f5b4243820e4c88e90b9aba61939ab666e00d)
+- ✨ **[certops](https://github.com/mchittineni/certops)** · 5 days ago · [chore(deps): bump the dev-tooling group with 2 updates](https://github.com/mchittineni/certops/commit/654287b961b344b321cf03efaa35219b46501f59)
+- ✨ **[ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide)** · 6 days ago · [fix(ci): correct invalid setup-node and github-script SHA...](https://github.com/mchittineni/ultimate-devops-guide/commit/f60018985ccc3de1e01ad0ec493f5a2875cb9996)
 - ✨ **[ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide)** · 1 week ago · [Merge pull request #5 from mchittineni/feat/expanded-ques...](https://github.com/mchittineni/ultimate-ai-engineering-guide/commit/b8079c91ad5c0f778d23b6b89cd294312a65c282)
 
 ## 🧬 Language mix
@@ -54,14 +54,14 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| ✨ [certops](https://github.com/mchittineni/certops) | 47.5 MB | ⭐ 1 | 4 days ago |
-| ✨ [india-village-finder](https://github.com/mchittineni/india-village-finder) | 407.3 KB | ⭐ 2 | 2 weeks ago |
-| ✨ [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 399.4 KB | ⭐ 0 | 4 days ago |
-| 🌱 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 343.8 KB | ⭐ 1 | 4 weeks ago |
-| 🌱 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 96.9 KB | ⭐ 1 | 4 weeks ago |
-| 🌱 [blast-radius-check](https://github.com/mchittineni/blast-radius-check) | 5.6 KB | ⭐ 1 | 4 weeks ago |
-| 🌱 [blast-radius-indexer](https://github.com/mchittineni/blast-radius-indexer) | 5.2 KB | ⭐ 1 | 4 weeks ago |
-| 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 2.0 KB | ⭐ 2 | 4 weeks ago |
+| ✨ [certops](https://github.com/mchittineni/certops) | 47.5 MB | ⭐ 1 | 5 days ago |
+| 🌱 [india-village-finder](https://github.com/mchittineni/india-village-finder) | 407.3 KB | ⭐ 2 | 2 weeks ago |
+| ✨ [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 399.4 KB | ⭐ 0 | 5 days ago |
+| 🌱 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 343.8 KB | ⭐ 1 | 1 month ago |
+| 🌱 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 96.9 KB | ⭐ 1 | 1 month ago |
+| 🌱 [blast-radius-check](https://github.com/mchittineni/blast-radius-check) | 5.6 KB | ⭐ 1 | 1 month ago |
+| 🌱 [blast-radius-indexer](https://github.com/mchittineni/blast-radius-indexer) | 5.2 KB | ⭐ 1 | 1 month ago |
+| 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 2.0 KB | ⭐ 2 | 1 month ago |
 
 </details>
 
@@ -70,18 +70,18 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| ✨ [iacsecbench](https://github.com/mchittineni/iacsecbench) | 433.2 KB | ⭐ 2 | 2 weeks ago |
-| 🌱 [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 385.7 KB | ⭐ 1 | 4 weeks ago |
-| ✨ [india-village-finder](https://github.com/mchittineni/india-village-finder) | 211.3 KB | ⭐ 2 | 2 weeks ago |
-| 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 137.6 KB | ⭐ 1 | 4 weeks ago |
+| 🌱 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 433.2 KB | ⭐ 2 | 2 weeks ago |
+| 🌱 [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 385.7 KB | ⭐ 1 | 1 month ago |
+| 🌱 [india-village-finder](https://github.com/mchittineni/india-village-finder) | 211.3 KB | ⭐ 2 | 2 weeks ago |
+| 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 137.6 KB | ⭐ 1 | 1 month ago |
 | ✨ [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 122.8 KB | ⭐ 1 | 1 week ago |
-| ✨ [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) | 93.8 KB | ⭐ 40 | 5 days ago |
-| 🌱 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 87.4 KB | ⭐ 1 | 4 weeks ago |
-| ✨ [ultimate-platform-engineering-guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) | 81.1 KB | ⭐ 4 | 2 weeks ago |
+| ✨ [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) | 93.8 KB | ⭐ 40 | 6 days ago |
+| 🌱 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 87.4 KB | ⭐ 1 | 1 month ago |
+| 🌱 [ultimate-platform-engineering-guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) | 81.1 KB | ⭐ 4 | 2 weeks ago |
 | ✨ [ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide) | 76.3 KB | ⭐ 25 | 1 week ago |
-| 🌱 [ai-job-serve](https://github.com/mchittineni/ai-job-serve) | 71.1 KB | ⭐ 2 | 4 weeks ago |
-| 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 51.5 KB | ⭐ 1 | 10 hours ago |
-| 🌱 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 17.3 KB | ⭐ 1 | 4 weeks ago |
+| 🌱 [ai-job-serve](https://github.com/mchittineni/ai-job-serve) | 71.1 KB | ⭐ 2 | 1 month ago |
+| 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 51.5 KB | ⭐ 1 | 12 hours ago |
+| 🌱 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 17.3 KB | ⭐ 1 | 1 month ago |
 
 </details>
 
@@ -91,14 +91,14 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
 | 🌱 [aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab) | 254.3 KB | ⭐ 1 | 2 weeks ago |
-| ✨ [iacsecbench](https://github.com/mchittineni/iacsecbench) | 212.5 KB | ⭐ 2 | 2 weeks ago |
-| 🌱 [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 66.4 KB | ⭐ 2 | 4 weeks ago |
-| 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 52.2 KB | ⭐ 2 | 4 weeks ago |
-| 🌱 [eks-terraform](https://github.com/mchittineni/eks-terraform) | 50.6 KB | ⭐ 2 | 4 weeks ago |
-| 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 31.8 KB | ⭐ 1 | 4 weeks ago |
-| 🌱 [gke-terraform](https://github.com/mchittineni/gke-terraform) | 25.7 KB | ⭐ 1 | 4 weeks ago |
-| 🌱 [aks-terraform](https://github.com/mchittineni/aks-terraform) | 22.9 KB | ⭐ 1 | 4 weeks ago |
-| 🌱 [Terraform-Scripts](https://github.com/mchittineni/Terraform-Scripts) | 22.4 KB | ⭐ 2 | 4 weeks ago |
+| 🌱 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 212.5 KB | ⭐ 2 | 2 weeks ago |
+| 🌱 [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 66.4 KB | ⭐ 2 | 1 month ago |
+| 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 52.2 KB | ⭐ 2 | 1 month ago |
+| 🌱 [eks-terraform](https://github.com/mchittineni/eks-terraform) | 50.6 KB | ⭐ 2 | 1 month ago |
+| 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 31.8 KB | ⭐ 1 | 1 month ago |
+| 🌱 [gke-terraform](https://github.com/mchittineni/gke-terraform) | 25.7 KB | ⭐ 1 | 1 month ago |
+| 🌱 [aks-terraform](https://github.com/mchittineni/aks-terraform) | 22.9 KB | ⭐ 1 | 1 month ago |
+| 🌱 [Terraform-Scripts](https://github.com/mchittineni/Terraform-Scripts) | 22.4 KB | ⭐ 2 | 1 month ago |
 
 </details>
 
@@ -107,10 +107,10 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🌱 [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 184.8 KB | ⭐ 2 | 4 weeks ago |
-| 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 179.8 KB | ⭐ 2 | 4 weeks ago |
-| 🌱 [blast-radius-indexer](https://github.com/mchittineni/blast-radius-indexer) | 83.8 KB | ⭐ 1 | 4 weeks ago |
-| 🌱 [blast-radius-check](https://github.com/mchittineni/blast-radius-check) | 56.6 KB | ⭐ 1 | 4 weeks ago |
+| 🌱 [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 184.8 KB | ⭐ 2 | 1 month ago |
+| 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 179.8 KB | ⭐ 2 | 1 month ago |
+| 🌱 [blast-radius-indexer](https://github.com/mchittineni/blast-radius-indexer) | 83.8 KB | ⭐ 1 | 1 month ago |
+| 🌱 [blast-radius-check](https://github.com/mchittineni/blast-radius-check) | 56.6 KB | ⭐ 1 | 1 month ago |
 
 </details>
 
@@ -119,13 +119,13 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 186.7 KB | ⭐ 2 | 4 weeks ago |
-| ✨ [india-village-finder](https://github.com/mchittineni/india-village-finder) | 33.5 KB | ⭐ 2 | 2 weeks ago |
-| 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 10.4 KB | ⭐ 1 | 4 weeks ago |
-| 🌱 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 7.5 KB | ⭐ 1 | 4 weeks ago |
-| ✨ [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 2.7 KB | ⭐ 0 | 4 days ago |
-| ✨ [certops](https://github.com/mchittineni/certops) | 1.8 KB | ⭐ 1 | 4 days ago |
-| 🌱 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 1.1 KB | ⭐ 1 | 4 weeks ago |
+| 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 186.7 KB | ⭐ 2 | 1 month ago |
+| 🌱 [india-village-finder](https://github.com/mchittineni/india-village-finder) | 33.5 KB | ⭐ 2 | 2 weeks ago |
+| 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 10.4 KB | ⭐ 1 | 1 month ago |
+| 🌱 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 7.5 KB | ⭐ 1 | 1 month ago |
+| ✨ [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 2.7 KB | ⭐ 0 | 5 days ago |
+| ✨ [certops](https://github.com/mchittineni/certops) | 1.8 KB | ⭐ 1 | 5 days ago |
+| 🌱 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 1.1 KB | ⭐ 1 | 1 month ago |
 
 </details>
 
@@ -134,14 +134,14 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| ✨ [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 69.0 KB | ⭐ 0 | 4 days ago |
-| ✨ [certops](https://github.com/mchittineni/certops) | 55.2 KB | ⭐ 1 | 4 days ago |
-| ✨ [india-village-finder](https://github.com/mchittineni/india-village-finder) | 28.8 KB | ⭐ 2 | 2 weeks ago |
-| 🌱 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 18.2 KB | ⭐ 1 | 4 weeks ago |
-| 🌱 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 15.2 KB | ⭐ 1 | 4 weeks ago |
-| 🌱 [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 10.7 KB | ⭐ 2 | 4 weeks ago |
-| ✨ [iacsecbench](https://github.com/mchittineni/iacsecbench) | 670 B | ⭐ 2 | 2 weeks ago |
-| 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 650 B | ⭐ 2 | 4 weeks ago |
+| ✨ [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 69.0 KB | ⭐ 0 | 5 days ago |
+| ✨ [certops](https://github.com/mchittineni/certops) | 55.2 KB | ⭐ 1 | 5 days ago |
+| 🌱 [india-village-finder](https://github.com/mchittineni/india-village-finder) | 28.8 KB | ⭐ 2 | 2 weeks ago |
+| 🌱 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 18.2 KB | ⭐ 1 | 1 month ago |
+| 🌱 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 15.2 KB | ⭐ 1 | 1 month ago |
+| 🌱 [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 10.7 KB | ⭐ 2 | 1 month ago |
+| 🌱 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 670 B | ⭐ 2 | 2 weeks ago |
+| 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 650 B | ⭐ 2 | 1 month ago |
 
 </details>
 
@@ -150,7 +150,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| ✨ [iacsecbench](https://github.com/mchittineni/iacsecbench) | 135.0 KB | ⭐ 2 | 2 weeks ago |
+| 🌱 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 135.0 KB | ⭐ 2 | 2 weeks ago |
 
 </details>
 
@@ -159,7 +159,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🌱 [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 122.3 KB | ⭐ 2 | 4 weeks ago |
+| 🌱 [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 122.3 KB | ⭐ 2 | 1 month ago |
 
 </details>
 
@@ -168,14 +168,14 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🌱 [eks-terraform](https://github.com/mchittineni/eks-terraform) | 10.0 KB | ⭐ 2 | 4 weeks ago |
-| 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 6.7 KB | ⭐ 2 | 4 weeks ago |
-| ✨ [iacsecbench](https://github.com/mchittineni/iacsecbench) | 5.6 KB | ⭐ 2 | 2 weeks ago |
-| 🌱 [gke-terraform](https://github.com/mchittineni/gke-terraform) | 4.5 KB | ⭐ 1 | 4 weeks ago |
-| 🌱 [aks-terraform](https://github.com/mchittineni/aks-terraform) | 4.5 KB | ⭐ 1 | 4 weeks ago |
+| 🌱 [eks-terraform](https://github.com/mchittineni/eks-terraform) | 10.0 KB | ⭐ 2 | 1 month ago |
+| 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 6.7 KB | ⭐ 2 | 1 month ago |
+| 🌱 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 5.6 KB | ⭐ 2 | 2 weeks ago |
+| 🌱 [gke-terraform](https://github.com/mchittineni/gke-terraform) | 4.5 KB | ⭐ 1 | 1 month ago |
+| 🌱 [aks-terraform](https://github.com/mchittineni/aks-terraform) | 4.5 KB | ⭐ 1 | 1 month ago |
 | ✨ [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 4.3 KB | ⭐ 1 | 1 week ago |
-| 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 3.6 KB | ⭐ 1 | 10 hours ago |
-| 🌱 [ai-job-serve](https://github.com/mchittineni/ai-job-serve) | 1.7 KB | ⭐ 2 | 4 weeks ago |
+| 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 3.6 KB | ⭐ 1 | 12 hours ago |
+| 🌱 [ai-job-serve](https://github.com/mchittineni/ai-job-serve) | 1.7 KB | ⭐ 2 | 1 month ago |
 
 </details>
 
@@ -184,10 +184,10 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| ✨ [iacsecbench](https://github.com/mchittineni/iacsecbench) | 10.1 KB | ⭐ 2 | 2 weeks ago |
+| 🌱 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 10.1 KB | ⭐ 2 | 2 weeks ago |
 | ✨ [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 5.6 KB | ⭐ 1 | 1 week ago |
 | 🌱 [aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab) | 5.1 KB | ⭐ 1 | 2 weeks ago |
-| 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 3.6 KB | ⭐ 1 | 4 weeks ago |
+| 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 3.6 KB | ⭐ 1 | 1 month ago |
 
 </details>
 
@@ -196,7 +196,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| ✨ [iacsecbench](https://github.com/mchittineni/iacsecbench) | 18.2 KB | ⭐ 2 | 2 weeks ago |
+| 🌱 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 18.2 KB | ⭐ 2 | 2 weeks ago |
 
 </details>
 
@@ -205,7 +205,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🌱 [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 6.9 KB | ⭐ 1 | 4 weeks ago |
+| 🌱 [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 6.9 KB | ⭐ 1 | 1 month ago |
 
 </details>
 
@@ -214,7 +214,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 4.5 KB | ⭐ 2 | 4 weeks ago |
+| 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 4.5 KB | ⭐ 2 | 1 month ago |
 
 </details>
 
@@ -223,8 +223,8 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| ✨ [iacsecbench](https://github.com/mchittineni/iacsecbench) | 3.0 KB | ⭐ 2 | 2 weeks ago |
-| 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 664 B | ⭐ 1 | 4 weeks ago |
+| 🌱 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 3.0 KB | ⭐ 2 | 2 weeks ago |
+| 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 664 B | ⭐ 1 | 1 month ago |
 
 </details>
 
@@ -233,8 +233,8 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 2.4 KB | ⭐ 1 | 4 weeks ago |
-| ✨ [iacsecbench](https://github.com/mchittineni/iacsecbench) | 775 B | ⭐ 2 | 2 weeks ago |
+| 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 2.4 KB | ⭐ 1 | 1 month ago |
+| 🌱 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 775 B | ⭐ 2 | 2 weeks ago |
 
 </details>
 
@@ -243,7 +243,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🌱 [homebrew-tap](https://github.com/mchittineni/homebrew-tap) | 1.2 KB | ⭐ 1 | 4 weeks ago |
+| 🌱 [homebrew-tap](https://github.com/mchittineni/homebrew-tap) | 1.2 KB | ⭐ 1 | 1 month ago |
 
 </details>
 
@@ -253,31 +253,31 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | # | Repository | ⭐ | 🍴 | 🐛 | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 🥇 | ✨ [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) | 40 | 16 | 0 | ✅ pass | 5 days ago |
+| 🥇 | ✨ [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) | 40 | 16 | 0 | ✅ pass | 6 days ago |
 | 🥈 | ✨ [ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide) | 25 | 4 | 0 | ✅ pass | 1 week ago |
 | 🥉 | 🔥 [mchittineni](https://github.com/mchittineni/mchittineni) | 4 | 1 | 0 | ✅ pass | just now |
-| 4 | ✨ [ultimate-platform-engineering-guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) | 4 | 1 | 0 | ✅ pass | 2 weeks ago |
-| 5 | ✨ [iacsecbench](https://github.com/mchittineni/iacsecbench) | 2 | 1 | 2 | ✅ pass | 2 weeks ago |
-| 6 | ✨ [india-village-finder](https://github.com/mchittineni/india-village-finder) | 2 | 0 | 0 | ✅ pass | 2 weeks ago |
-| 7 | 🌱 [eks-terraform](https://github.com/mchittineni/eks-terraform) | 2 | 1 | 0 | ✅ pass | 4 weeks ago |
-| 8 | 🌱 [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 2 | 0 | 0 | ✅ pass | 4 weeks ago |
-| 9 | 🌱 [ai-job-serve](https://github.com/mchittineni/ai-job-serve) | 2 | 0 | 0 | ✅ pass | 4 weeks ago |
-| 10 | 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 2 | 0 | 0 | ✅ pass | 4 weeks ago |
-| 11 | 🌱 [Terraform-Scripts](https://github.com/mchittineni/Terraform-Scripts) | 2 | 1 | 0 | · none | 4 weeks ago |
-| 12 | 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 1 | 0 | 0 | 🔄 running | 10 hours ago |
-| 13 | ✨ [certops](https://github.com/mchittineni/certops) | 1 | 0 | 0 | ✅ pass | 4 days ago |
+| 4 | 🌱 [ultimate-platform-engineering-guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) | 4 | 1 | 0 | ✅ pass | 2 weeks ago |
+| 5 | 🌱 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 2 | 1 | 2 | ✅ pass | 2 weeks ago |
+| 6 | 🌱 [india-village-finder](https://github.com/mchittineni/india-village-finder) | 2 | 0 | 0 | ✅ pass | 2 weeks ago |
+| 7 | 🌱 [eks-terraform](https://github.com/mchittineni/eks-terraform) | 2 | 1 | 0 | ✅ pass | 1 month ago |
+| 8 | 🌱 [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 2 | 0 | 0 | ✅ pass | 1 month ago |
+| 9 | 🌱 [ai-job-serve](https://github.com/mchittineni/ai-job-serve) | 2 | 0 | 0 | ✅ pass | 1 month ago |
+| 10 | 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 2 | 0 | 0 | ✅ pass | 1 month ago |
+| 11 | 🌱 [Terraform-Scripts](https://github.com/mchittineni/Terraform-Scripts) | 2 | 1 | 0 | · none | 1 month ago |
+| 12 | 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 1 | 0 | 0 | 🔄 running | 12 hours ago |
+| 13 | ✨ [certops](https://github.com/mchittineni/certops) | 1 | 0 | 0 | ✅ pass | 5 days ago |
 | 14 | 🌱 [aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab) | 1 | 0 | 22 | 🔄 running | 2 weeks ago |
-| 15 | 🌱 [blast-radius-indexer](https://github.com/mchittineni/blast-radius-indexer) | 1 | 0 | 1 | ✅ pass | 4 weeks ago |
-| 16 | 🌱 [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 1 | 1 | 1 | ✅ pass | 4 weeks ago |
-| 17 | 🌱 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 1 | 0 | 6 | ✅ pass | 4 weeks ago |
-| 18 | 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 1 | 0 | 4 | ✅ pass | 4 weeks ago |
-| 19 | 🌱 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 1 | 1 | 1 | ✅ pass | 4 weeks ago |
+| 15 | 🌱 [blast-radius-indexer](https://github.com/mchittineni/blast-radius-indexer) | 1 | 0 | 1 | ✅ pass | 1 month ago |
+| 16 | 🌱 [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 1 | 1 | 1 | ✅ pass | 1 month ago |
+| 17 | 🌱 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 1 | 0 | 6 | ✅ pass | 1 month ago |
+| 18 | 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 1 | 0 | 4 | ✅ pass | 1 month ago |
+| 19 | 🌱 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 1 | 1 | 1 | ✅ pass | 1 month ago |
 | 20 | ✨ [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 1 | 2 | 0 | ✅ pass | 1 week ago |
-| 21 | 🌱 [gke-terraform](https://github.com/mchittineni/gke-terraform) | 1 | 0 | 0 | ✅ pass | 4 weeks ago |
-| 22 | 🌱 [aks-terraform](https://github.com/mchittineni/aks-terraform) | 1 | 0 | 0 | ✅ pass | 4 weeks ago |
-| 23 | 🌱 [homebrew-tap](https://github.com/mchittineni/homebrew-tap) | 1 | 0 | 0 | ✅ pass | 4 weeks ago |
-| 24 | 🌱 [blast-radius-check](https://github.com/mchittineni/blast-radius-check) | 1 | 1 | 0 | ✅ pass | 4 weeks ago |
-| 25 | ✨ [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 0 | 0 | 0 | ✅ pass | 4 days ago |
+| 21 | 🌱 [gke-terraform](https://github.com/mchittineni/gke-terraform) | 1 | 0 | 0 | ✅ pass | 1 month ago |
+| 22 | 🌱 [aks-terraform](https://github.com/mchittineni/aks-terraform) | 1 | 0 | 0 | ✅ pass | 1 month ago |
+| 23 | 🌱 [homebrew-tap](https://github.com/mchittineni/homebrew-tap) | 1 | 0 | 0 | ✅ pass | 1 month ago |
+| 24 | 🌱 [blast-radius-check](https://github.com/mchittineni/blast-radius-check) | 1 | 1 | 0 | ✅ pass | 1 month ago |
+| 25 | ✨ [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 0 | 0 | 0 | ✅ pass | 5 days ago |
 
 <sub>Click any repository below to expand commit info, languages, and topics.</sub>
 
@@ -304,7 +304,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [fix(ci): correct invalid setup-node and github-script SHA pins](https://github.com/mchittineni/ultimate-devops-guide/commit/f60018985ccc3de1e01ad0ec493f5a2875cb9996) |
 | **Commit date** | `2026-09-23` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-10-04` (5 days ago) |
+| **Repo updated** | `2026-10-04` (6 days ago) |
 | **License** | `MIT License` |
 | **Languages** | 🐍 `Python` |
 | **Topics** | `aws` · `azure` · `cicd` · `cloud-engineering` · `devops` · `devsecops` |
@@ -367,7 +367,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | | |
 |---|---|
-| **Latest commit** | [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/4efbefe7697316630a02a86cee5b5d0ad567c263) |
+| **Latest commit** | [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/674b858cfcaaa55e48f711e375267a8cf44bf98e) |
 | **Commit date** | `2026-10-10` |
 | **Author** | `mchittineni` |
 | **Repo updated** | `2026-10-10` (just now) |
@@ -383,7 +383,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 <!-- repo:ultimate-platform-engineering-guide -->
 <details>
 <summary>
-  ✨
+  🌱
   <strong><a href="https://github.com/mchittineni/ultimate-platform-engineering-guide">Ultimate Platform Engineering Guide</a></strong>
   &nbsp;<sub><code>ultimate-platform-engineering-guide</code></sub> &nbsp;·&nbsp; <code>Flagship</code>
   &nbsp;·&nbsp; ⭐ 4
@@ -416,7 +416,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 <!-- repo:iacsecbench -->
 <details>
 <summary>
-  ✨
+  🌱
   <strong><a href="https://github.com/mchittineni/iacsecbench">IaC Security Benchmark</a></strong>
   &nbsp;<sub><code>iacsecbench</code></sub> &nbsp;·&nbsp; <code>Research</code>
   &nbsp;·&nbsp; ⭐ 2
@@ -449,7 +449,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 <!-- repo:india-village-finder -->
 <details>
 <summary>
-  ✨
+  🌱
   <strong><a href="https://github.com/mchittineni/india-village-finder">India Village Finder</a></strong>
   &nbsp;<sub><code>india-village-finder</code></sub> &nbsp;·&nbsp; <code>Active build</code>
   &nbsp;·&nbsp; ⭐ 2
@@ -502,7 +502,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [style(terraform): convert comments to hash syntax and use snake_case secret identifier](https://github.com/mchittineni/eks-terraform/commit/82dc10264245daebfb8844aeef39f8f4426791fa) |
 | **Commit date** | `2026-09-05` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-09-10` (4 weeks ago) |
+| **Repo updated** | `2026-09-10` (1 month ago) |
 | **License** | `MIT License` |
 | **Languages** | 🏗️ `HCL` · 🐚 `Shell` |
 | **Topics** | _None_ |
@@ -535,7 +535,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [feat(content): add AWS data streaming and lakehouse badges](https://github.com/mchittineni/mchittineni-portfolio/commit/29d471602ec49ed55351858c22057310e53db362) |
 | **Commit date** | `2026-08-26` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-09-10` (4 weeks ago) |
+| **Repo updated** | `2026-09-10` (1 month ago) |
 | **License** | `No license` |
 | **Languages** | 🔷 `TypeScript` · 💚 `Vue` · 🏗️ `HCL` · 🎨 `CSS` |
 | **Topics** | _None_ |
@@ -568,7 +568,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [Merge pull request #8 from mchittineni/fix/adzuna-resilience](https://github.com/mchittineni/ai-job-serve/commit/71fd1b88e5376cb581cb444796ad37cfdb4d62e1) |
 | **Commit date** | `2026-07-10` |
 | **Author** | `Manideep Chittineni` |
-| **Repo updated** | `2026-09-10` (4 weeks ago) |
+| **Repo updated** | `2026-09-10` (1 month ago) |
 | **License** | `No license` |
 | **Languages** | 🐍 `Python` · 🐚 `Shell` |
 | **Topics** | _None_ |
@@ -601,7 +601,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [fix(Terraform): Updated Terraform configuration and documentation](https://github.com/mchittineni/sports-monitor/commit/763a76b5166dbca7cb0deae98fa1afeb1d224328) |
 | **Commit date** | `2026-03-25` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-09-10` (4 weeks ago) |
+| **Repo updated** | `2026-09-10` (1 month ago) |
 | **License** | `MIT License` |
 | **Languages** | 🌐 `HTML` · 🔷 `TypeScript` · 🏗️ `HCL` · 🐚 `Shell` · 🧠 `Batchfile` |
 | **Topics** | _None_ |
@@ -634,7 +634,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [Merge pull request #1 from mchittineni/develop](https://github.com/mchittineni/Terraform-Scripts/commit/16f13189d8ea2c199320d239ff36b6d574dcb30e) |
 | **Commit date** | `2025-06-16` |
 | **Author** | `Manideep Chittineni` |
-| **Repo updated** | `2026-09-10` (4 weeks ago) |
+| **Repo updated** | `2026-09-10` (1 month ago) |
 | **License** | `No license` |
 | **Languages** | 🏗️ `HCL` |
 | **Topics** | _None_ |
@@ -664,10 +664,10 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | | |
 |---|---|
-| **Latest commit** | [fix(git-tracker): auto-updated project status with latest changes [skip ci]](https://github.com/mchittineni/repo-radar/commit/a5ad4be01e5e48de1c0675c5b19143be7448634d) |
-| **Commit date** | `2026-10-09` |
+| **Latest commit** | [fix(git-tracker): auto-updated project status with latest changes [skip ci]](https://github.com/mchittineni/repo-radar/commit/3dbf877d5158719f7bdc231e542f1156278156bb) |
+| **Commit date** | `2026-10-10` |
 | **Author** | `github-actions[bot]` |
-| **Repo updated** | `2026-10-09` (10 hours ago) |
+| **Repo updated** | `2026-10-10` (12 hours ago) |
 | **License** | `MIT License` |
 | **Languages** | 🐍 `Python` · 🐚 `Shell` |
 | **Topics** | `automation` · `dashboard` · `developer-tools` · `devops-tools` · `github-actions` · `github-api` |
@@ -700,7 +700,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [chore(deps): bump the dev-tooling group with 2 updates](https://github.com/mchittineni/certops/commit/654287b961b344b321cf03efaa35219b46501f59) |
 | **Commit date** | `2026-10-05` |
 | **Author** | `dependabot[bot]` |
-| **Repo updated** | `2026-10-05` (4 days ago) |
+| **Repo updated** | `2026-10-05` (5 days ago) |
 | **License** | `Other` |
 | **Languages** | 🟨 `JavaScript` · 🎨 `CSS` · 🌐 `HTML` |
 | **Topics** | `aws` · `aws-solutions-architect` · `azure` · `azure-administrator` · `certifications` · `cka` |
@@ -764,7 +764,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [fix(dependabot-action): update dependabot settings](https://github.com/mchittineni/blast-radius-indexer/commit/e71b992a3796427c2e6daf5b81a9078afdb2df80) |
 | **Commit date** | `2026-08-12` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-09-10` (4 weeks ago) |
+| **Repo updated** | `2026-09-10` (1 month ago) |
 | **License** | `MIT License` |
 | **Languages** | 🔷 `TypeScript` · 🟨 `JavaScript` |
 | **Topics** | `blast-radius` · `dependency-graph` · `github-action` · `github-actions` · `monorepo` · `platform-engineering` |
@@ -797,7 +797,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [docs: mark the hosted-database step as disabled](https://github.com/mchittineni/mutual-fund-analysis-tracker/commit/d366df7815562d20941b860d5bf5ddfea89ddaef) |
 | **Commit date** | `2026-08-23` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-09-10` (4 weeks ago) |
+| **Repo updated** | `2026-09-10` (1 month ago) |
 | **License** | `Other` |
 | **Languages** | 🐍 `Python` · 📓 `Jupyter Notebook` |
 | **Topics** | _None_ |
@@ -830,7 +830,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [Merge pull request #3 from mchittineni/harden/secops-review](https://github.com/mchittineni/uk-river-flow/commit/3c3f1c1da974712ce5e32af2727c54c3fbec39ec) |
 | **Commit date** | `2026-08-20` |
 | **Author** | `Manideep Chittineni` |
-| **Repo updated** | `2026-09-10` (4 weeks ago) |
+| **Repo updated** | `2026-09-10` (1 month ago) |
 | **License** | `Other` |
 | **Languages** | 🟨 `JavaScript` · 🐍 `Python` · 🎨 `CSS` · 🌐 `HTML` |
 | **Topics** | `data-visualization` · `environment-agency` · `geojson` · `github-actions` · `hydrology` · `interactive-map` |
@@ -862,7 +862,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [build: require python 3.13+ and align tool targets](https://github.com/mchittineni/edge-content-engine/commit/686a9860763ba273fe892a73d046c400565b17bd) |
 | **Commit date** | `2026-09-10` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-09-10` (4 weeks ago) |
+| **Repo updated** | `2026-09-10` (1 month ago) |
 | **License** | `MIT License` |
 | **Languages** | 🐍 `Python` · 🏗️ `HCL` · 🌐 `HTML` · 🔨 `Makefile` · 🐳 `Dockerfile` |
 | **Topics** | `ai-agents` · `aws-sqs` · `content-pipeline` · `engineering-media` · `fastapi` · `llm` |
@@ -894,7 +894,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [build(deps): bump actions/deploy-pages in the github-actions group](https://github.com/mchittineni/tf-arch-diagram-generator/commit/beaf497076f9a4c9bf83b7b4f1f0800c73d6f8d9) |
 | **Commit date** | `2026-09-05` |
 | **Author** | `dependabot[bot]` |
-| **Repo updated** | `2026-09-10` (4 weeks ago) |
+| **Repo updated** | `2026-09-10` (1 month ago) |
 | **License** | `MIT License` |
 | **Languages** | 🟨 `JavaScript` · 🎨 `CSS` · 🐍 `Python` · 🌐 `HTML` |
 | **Topics** | `architecture-diagram` · `aws` · `azure` · `cli` · `devops` · `diagram` |
@@ -959,7 +959,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [fix(database): use ssl_mode ENCRYPTED_ONLY instead of legacy require_ssl](https://github.com/mchittineni/gke-terraform/commit/e2dbd73768e98639f42d5394ff747124006aabbe) |
 | **Commit date** | `2026-09-05` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-09-10` (4 weeks ago) |
+| **Repo updated** | `2026-09-10` (1 month ago) |
 | **License** | `No license` |
 | **Languages** | 🏗️ `HCL` · 🐚 `Shell` |
 | **Topics** | _None_ |
@@ -991,7 +991,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [ci: baseline Checkov security checks and suppress submodule TFLint warnings](https://github.com/mchittineni/aks-terraform/commit/7dc91c195a24e8f798e6a6d057ae535640771432) |
 | **Commit date** | `2026-09-05` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-09-10` (4 weeks ago) |
+| **Repo updated** | `2026-09-10` (1 month ago) |
 | **License** | `No license` |
 | **Languages** | 🏗️ `HCL` · 🐚 `Shell` |
 | **Topics** | _None_ |
@@ -1023,7 +1023,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [tf-arch 1.3.1](https://github.com/mchittineni/homebrew-tap/commit/0df47d839992f8cba819ba5f98b21185ff9c0f20) |
 | **Commit date** | `2026-09-05` |
 | **Author** | `github-actions[bot]` |
-| **Repo updated** | `2026-09-10` (4 weeks ago) |
+| **Repo updated** | `2026-09-10` (1 month ago) |
 | **License** | `MIT License` |
 | **Languages** | 💎 `Ruby` |
 | **Topics** | `architecture-diagram` · `aws` · `azure` · `gcp` · `homebrew` · `homebrew-formulae` |
@@ -1055,7 +1055,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [Readme (#5)](https://github.com/mchittineni/blast-radius-check/commit/90265581b62dbff18c2a4319d631f8a4f4d37017) |
 | **Commit date** | `2026-08-12` |
 | **Author** | `Manideep Chittineni` |
-| **Repo updated** | `2026-09-10` (4 weeks ago) |
+| **Repo updated** | `2026-09-10` (1 month ago) |
 | **License** | `MIT License` |
 | **Languages** | 🔷 `TypeScript` · 🟨 `JavaScript` |
 | **Topics** | `actions` · `dependency-graph` · `github-actions` · `impact-analysis` · `monorepo` · `platform-engineering` |
@@ -1088,7 +1088,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [docs(changelog): note interactive learning additions](https://github.com/mchittineni/fde-from-scratch/commit/ef0f5b4243820e4c88e90b9aba61939ab666e00d) |
 | **Commit date** | `2026-10-05` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-10-05` (4 days ago) |
+| **Repo updated** | `2026-10-05` (5 days ago) |
 | **License** | `MIT License` |
 | **Languages** | 🟨 `JavaScript` · 🎨 `CSS` · 🌐 `HTML` |
 | **Topics** | `applied-ai` · `career-development` · `data-engineering` · `education` · `fde` · `field-engineering` |
