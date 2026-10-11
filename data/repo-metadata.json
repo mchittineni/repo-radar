@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-11T02:44:34Z",
-    "lastCommit": "ade8af5ed66a66bca1b28f92368ab02e5576a107"
+    "lastUpdated": "2026-10-11T16:57:31Z",
+    "lastCommit": "fcb46bb923e2fd18a2e547e4c5bd05336e59d450"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -32,20 +32,20 @@
     "lastCommit": "35bbd94174e4d3f3d492d10ffe38b88c2c77ba21"
   },
   {
-    "repo": "iacsecbench",
-    "stars": 2,
-    "forks": 1,
-    "issues": 2,
-    "lastUpdated": "2026-09-25T10:17:21Z",
-    "lastCommit": "6e359ac29dcde1974d792f454e1a48dfd9deeaa6"
-  },
-  {
     "repo": "india-village-finder",
     "stars": 2,
     "forks": 0,
     "issues": 0,
     "lastUpdated": "2026-09-25T12:04:40Z",
     "lastCommit": "fc7aa237a4862a9155dfdfd89cf36a13eebb1fb5"
+  },
+  {
+    "repo": "iacsecbench",
+    "stars": 2,
+    "forks": 1,
+    "issues": 2,
+    "lastUpdated": "2026-09-25T10:17:21Z",
+    "lastCommit": "6e359ac29dcde1974d792f454e1a48dfd9deeaa6"
   },
   {
     "repo": "eks-terraform",
@@ -88,20 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-11T04:55:55Z",
+    "lastCommit": "4a851cde2607a863238f665480ffcddc43bdb65a"
+  },
+  {
     "repo": "aws-platform-engineering-lab",
     "stars": 1,
     "forks": 0,
     "issues": 24,
     "lastUpdated": "2026-09-21T08:40:59Z",
     "lastCommit": "655860e581d3eca65563613b8361e7e485d1cedb"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-10T17:09:21Z",
-    "lastCommit": "18d82a819e5f636a2ae5a3195cd5d258ab12d182"
   },
   {
     "repo": "certops",
