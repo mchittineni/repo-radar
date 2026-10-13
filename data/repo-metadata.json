@@ -9,27 +9,27 @@
   },
   {
     "repo": "ultimate-ai-engineering-guide",
-    "stars": 25,
+    "stars": 24,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-10-01T06:39:29Z",
+    "lastUpdated": "2026-10-13T15:28:56Z",
     "lastCommit": "b8079c91ad5c0f778d23b6b89cd294312a65c282"
+  },
+  {
+    "repo": "ultimate-platform-engineering-guide",
+    "stars": 5,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2026-10-13T09:33:31Z",
+    "lastCommit": "35bbd94174e4d3f3d492d10ffe38b88c2c77ba21"
   },
   {
     "repo": "mchittineni",
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-13T04:23:46Z",
-    "lastCommit": "43758673bd2e7d6609d16cc1c6db3c04ef83936d"
-  },
-  {
-    "repo": "ultimate-platform-engineering-guide",
-    "stars": 4,
-    "forks": 1,
-    "issues": 0,
-    "lastUpdated": "2026-09-25T15:16:15Z",
-    "lastCommit": "35bbd94174e4d3f3d492d10ffe38b88c2c77ba21"
+    "lastUpdated": "2026-10-13T18:37:47Z",
+    "lastCommit": "acb77579a6d792d7c66b8713ed01c6db86f281b7"
   },
   {
     "repo": "india-village-finder",
@@ -92,8 +92,8 @@
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-10-12T21:05:35Z",
-    "lastCommit": "b951daf21773429e7ddd35516558f08914ed4fc8"
+    "lastUpdated": "2026-10-13T06:09:32Z",
+    "lastCommit": "dfddd9a7d5422de477341a1217726e548aefe07a"
   },
   {
     "repo": "cloud-platform-skills",
