@@ -20,8 +20,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-12T20:33:08Z",
-    "lastCommit": "3c53a88e7c765abcc4cd99ca492721de38e0ff41"
+    "lastUpdated": "2026-10-13T04:23:46Z",
+    "lastCommit": "43758673bd2e7d6609d16cc1c6db3c04ef83936d"
   },
   {
     "repo": "ultimate-platform-engineering-guide",
@@ -88,6 +88,14 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-12T21:05:35Z",
+    "lastCommit": "b951daf21773429e7ddd35516558f08914ed4fc8"
+  },
+  {
     "repo": "cloud-platform-skills",
     "stars": 1,
     "forks": 2,
@@ -110,14 +118,6 @@
     "issues": 0,
     "lastUpdated": "2026-10-12T12:50:08Z",
     "lastCommit": "3f388e70ca426102ca46fdb3d85e99dd2bca615c"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-12T05:10:18Z",
-    "lastCommit": "55541b75c64841a3049e10dd53648609ad638319"
   },
   {
     "repo": "aws-platform-engineering-lab",
