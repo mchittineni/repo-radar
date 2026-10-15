@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-14T16:07:32Z",
-    "lastCommit": "6f69d86b152a118f9dcb0f70c849eac48cb73184"
+    "lastUpdated": "2026-10-15T02:14:33Z",
+    "lastCommit": "06f83b9f0608ba668f76adcf940a359fccb70464"
   },
   {
     "repo": "iacsecbench",
@@ -88,6 +88,14 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-14T16:50:43Z",
+    "lastCommit": "a77b4088d1e46d0d81892a9e22b46a05d92c6eea"
+  },
+  {
     "repo": "tf-arch-diagram-generator",
     "stars": 1,
     "forks": 1,
@@ -134,14 +142,6 @@
     "issues": 0,
     "lastUpdated": "2026-10-14T12:34:08Z",
     "lastCommit": "f2f5da3ea4955d2055017b15deb8b259f6712883"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-14T04:12:26Z",
-    "lastCommit": "4aa3cba9bb7ed614ecaae27e81db4965e9e7453e"
   },
   {
     "repo": "certops",
