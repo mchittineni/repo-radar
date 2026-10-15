@@ -9,10 +9,10 @@
   },
   {
     "repo": "ultimate-ai-engineering-guide",
-    "stars": 24,
+    "stars": 25,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-10-13T15:28:56Z",
+    "lastUpdated": "2026-10-15T15:49:08Z",
     "lastCommit": "b8079c91ad5c0f778d23b6b89cd294312a65c282"
   },
   {
@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-15T02:14:33Z",
-    "lastCommit": "06f83b9f0608ba668f76adcf940a359fccb70464"
+    "lastUpdated": "2026-10-15T15:55:09Z",
+    "lastCommit": "bdf5a06a10a1d17be1bc586003238179e772345f"
   },
   {
     "repo": "iacsecbench",
@@ -88,44 +88,44 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-14T16:50:43Z",
-    "lastCommit": "a77b4088d1e46d0d81892a9e22b46a05d92c6eea"
-  },
-  {
-    "repo": "tf-arch-diagram-generator",
-    "stars": 1,
-    "forks": 1,
-    "issues": 2,
-    "lastUpdated": "2026-10-14T13:00:45Z",
-    "lastCommit": "c932cad4a9ec68375f80dcbbe6631972d18d231a"
-  },
-  {
-    "repo": "homebrew-tap",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-14T13:03:40Z",
-    "lastCommit": "584d62239bf8c124eb846b9556ce009d0affa40b"
-  },
-  {
-    "repo": "aws-platform-engineering-lab",
-    "stars": 1,
-    "forks": 0,
-    "issues": 2,
-    "lastUpdated": "2026-10-14T13:02:09Z",
-    "lastCommit": "d285dbe3dad39d2e5be043574ae5768db5e83a59"
-  },
-  {
     "repo": "uk-river-flow",
     "stars": 1,
     "forks": 0,
     "issues": 4,
     "lastUpdated": "2026-10-14T13:00:21Z",
     "lastCommit": "0bde89f1ccfc51c3cc6d167af3831c7abe7723d2"
+  },
+  {
+    "repo": "tf-arch-diagram-generator",
+    "stars": 1,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2026-10-15T08:05:54Z",
+    "lastCommit": "d105a3954f0a5d80135ded68feda08ba89c4917f"
+  },
+  {
+    "repo": "aws-platform-engineering-lab",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-15T08:05:17Z",
+    "lastCommit": "a940311fb34642ba8e639b0aecc9c12b08ac5c42"
+  },
+  {
+    "repo": "homebrew-tap",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-15T08:03:30Z",
+    "lastCommit": "368b2c6a79a2eae047592dd607daa6a249da2ab4"
+  },
+  {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-15T03:55:19Z",
+    "lastCommit": "6a99f903e74fafd4e5af8ca6e6d8173d7f69dcf9"
   },
   {
     "repo": "blast-radius-indexer",
