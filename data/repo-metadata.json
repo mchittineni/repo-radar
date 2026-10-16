@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-15T15:55:09Z",
-    "lastCommit": "bdf5a06a10a1d17be1bc586003238179e772345f"
+    "lastUpdated": "2026-10-16T02:06:00Z",
+    "lastCommit": "4d863b931aac93f713da2533816c3dd93597719f"
   },
   {
     "repo": "iacsecbench",
@@ -88,6 +88,14 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-15T16:37:03Z",
+    "lastCommit": "ecfdce1fdcacf95df70de1fb47c2317793f2d60f"
+  },
+  {
     "repo": "uk-river-flow",
     "stars": 1,
     "forks": 0,
@@ -118,14 +126,6 @@
     "issues": 0,
     "lastUpdated": "2026-10-15T08:03:30Z",
     "lastCommit": "368b2c6a79a2eae047592dd607daa6a249da2ab4"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-15T03:55:19Z",
-    "lastCommit": "6a99f903e74fafd4e5af8ca6e6d8173d7f69dcf9"
   },
   {
     "repo": "blast-radius-indexer",
@@ -162,7 +162,7 @@
   {
     "repo": "edge-content-engine",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "issues": 4,
     "lastUpdated": "2026-09-10T09:54:14Z",
     "lastCommit": "686a9860763ba273fe892a73d046c400565b17bd"
