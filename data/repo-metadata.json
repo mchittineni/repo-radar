@@ -1,10 +1,10 @@
 [
   {
     "repo": "ultimate-devops-guide",
-    "stars": 40,
+    "stars": 41,
     "forks": 16,
     "issues": 0,
-    "lastUpdated": "2026-10-04T12:42:10Z",
+    "lastUpdated": "2026-10-16T07:02:37Z",
     "lastCommit": "f60018985ccc3de1e01ad0ec493f5a2875cb9996"
   },
   {
@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-16T02:06:00Z",
-    "lastCommit": "4d863b931aac93f713da2533816c3dd93597719f"
+    "lastUpdated": "2026-10-16T15:43:44Z",
+    "lastCommit": "fe5710182099d03b3b52a96147e51f07a5385a3d"
   },
   {
     "repo": "iacsecbench",
@@ -92,8 +92,8 @@
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-10-15T16:37:03Z",
-    "lastCommit": "ecfdce1fdcacf95df70de1fb47c2317793f2d60f"
+    "lastUpdated": "2026-10-16T03:51:06Z",
+    "lastCommit": "01ab38090f355620f45d252954dfe7f0a4ab7794"
   },
   {
     "repo": "uk-river-flow",
