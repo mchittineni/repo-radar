@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-17T14:35:48Z",
-    "lastCommit": "e65464bdb1bd9cbde72b7fec950ba5252d80a69a"
+    "lastUpdated": "2026-10-18T01:59:01Z",
+    "lastCommit": "4c5a375e13649f4e29a3ed4a8c60a78387426842"
   },
   {
     "repo": "iacsecbench",
@@ -88,12 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "aws-platform-engineering-lab",
+    "stars": 1,
+    "forks": 0,
+    "issues": 1,
+    "lastUpdated": "2026-10-18T02:48:20Z",
+    "lastCommit": "6085add3208c48e00cdf9224ccb67b704a397e90"
+  },
+  {
     "repo": "repo-radar",
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-10-17T03:41:17Z",
-    "lastCommit": "a6e6993ebee17310e35ab54079a52eef8bcd31fa"
+    "lastUpdated": "2026-10-17T15:15:34Z",
+    "lastCommit": "e04ebf10682e63e714ef5f55c0c68bb40187bf99"
   },
   {
     "repo": "uk-river-flow",
@@ -110,14 +118,6 @@
     "issues": 0,
     "lastUpdated": "2026-10-15T08:05:54Z",
     "lastCommit": "d105a3954f0a5d80135ded68feda08ba89c4917f"
-  },
-  {
-    "repo": "aws-platform-engineering-lab",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-15T08:05:17Z",
-    "lastCommit": "a940311fb34642ba8e639b0aecc9c12b08ac5c42"
   },
   {
     "repo": "homebrew-tap",
