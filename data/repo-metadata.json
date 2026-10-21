@@ -1,10 +1,10 @@
 [
   {
     "repo": "ultimate-devops-guide",
-    "stars": 41,
+    "stars": 42,
     "forks": 17,
     "issues": 0,
-    "lastUpdated": "2026-10-16T07:02:37Z",
+    "lastUpdated": "2026-10-21T11:47:33Z",
     "lastCommit": "f60018985ccc3de1e01ad0ec493f5a2875cb9996"
   },
   {
@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-21T02:24:32Z",
-    "lastCommit": "02798ef1472f780d8b06f583b36be6577173771f"
+    "lastUpdated": "2026-10-21T16:15:44Z",
+    "lastCommit": "db537d4a128f751a16e2900969c5955941e5ffca"
   },
   {
     "repo": "india-village-finder",
@@ -92,8 +92,8 @@
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-10-20T16:35:48Z",
-    "lastCommit": "791c62115789f4850ec96b0c8e72911a2f34132f"
+    "lastUpdated": "2026-10-21T03:58:16Z",
+    "lastCommit": "68f89bf38d1b1fa6448559f048a9cd3dcb6b1a36"
   },
   {
     "repo": "cloud-platform-skills",
