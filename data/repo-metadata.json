@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-26T02:11:03Z",
-    "lastCommit": "de58816de9c4ef835c55ad8bfe584c0bf22029e6"
+    "lastUpdated": "2026-10-26T17:12:04Z",
+    "lastCommit": "d49480dd0d1275ea6a61c1493b57bd32e404e4c5"
   },
   {
     "repo": "india-village-finder",
@@ -88,6 +88,22 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "cloud-platform-skills",
+    "stars": 1,
+    "forks": 2,
+    "issues": 0,
+    "lastUpdated": "2026-10-26T10:22:22Z",
+    "lastCommit": "04647899363a7be11d547e97941e8c51a7bed60d"
+  },
+  {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-26T03:59:49Z",
+    "lastCommit": "aa2f5e924d7247d57599d0772d06508df302cf3f"
+  },
+  {
     "repo": "certops",
     "stars": 1,
     "forks": 0,
@@ -96,28 +112,12 @@
     "lastCommit": "3f388e70ca426102ca46fdb3d85e99dd2bca615c"
   },
   {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-25T15:49:22Z",
-    "lastCommit": "9ca508d1c0b0974ab13a0decc00bdc556d3bb53a"
-  },
-  {
     "repo": "aws-platform-engineering-lab",
     "stars": 1,
     "forks": 0,
     "issues": 1,
     "lastUpdated": "2026-10-25T02:43:21Z",
     "lastCommit": "6862604d5ec240b8a7123be7e32c7bd2b45c7578"
-  },
-  {
-    "repo": "cloud-platform-skills",
-    "stars": 1,
-    "forks": 2,
-    "issues": 0,
-    "lastUpdated": "2026-10-19T10:22:48Z",
-    "lastCommit": "f4e7fa65e2095a98d0352edee141ff83ffc5d7cd"
   },
   {
     "repo": "uk-river-flow",
