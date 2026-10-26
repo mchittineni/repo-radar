@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-25T15:12:27Z",
-    "lastCommit": "36045df739d5a4bfb0f4ef2e8d9035242cd3a186"
+    "lastUpdated": "2026-10-26T02:11:03Z",
+    "lastCommit": "de58816de9c4ef835c55ad8bfe584c0bf22029e6"
   },
   {
     "repo": "india-village-finder",
@@ -88,12 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "certops",
+    "stars": 1,
+    "forks": 0,
+    "issues": 1,
+    "lastUpdated": "2026-10-12T12:50:08Z",
+    "lastCommit": "3f388e70ca426102ca46fdb3d85e99dd2bca615c"
+  },
+  {
     "repo": "repo-radar",
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-10-25T03:55:37Z",
-    "lastCommit": "8b8bd0885c065bdbea44b68a24b3b69d3fd0cf1f"
+    "lastUpdated": "2026-10-25T15:49:22Z",
+    "lastCommit": "9ca508d1c0b0974ab13a0decc00bdc556d3bb53a"
   },
   {
     "repo": "aws-platform-engineering-lab",
@@ -118,14 +126,6 @@
     "issues": 5,
     "lastUpdated": "2026-10-14T13:00:21Z",
     "lastCommit": "0bde89f1ccfc51c3cc6d167af3831c7abe7723d2"
-  },
-  {
-    "repo": "certops",
-    "stars": 1,
-    "forks": 0,
-    "issues": 1,
-    "lastUpdated": "2026-10-12T12:50:08Z",
-    "lastCommit": "3f388e70ca426102ca46fdb3d85e99dd2bca615c"
   },
   {
     "repo": "tf-arch-diagram-generator",
