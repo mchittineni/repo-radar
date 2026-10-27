@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-26T17:12:04Z",
-    "lastCommit": "d49480dd0d1275ea6a61c1493b57bd32e404e4c5"
+    "lastUpdated": "2026-10-27T02:47:42Z",
+    "lastCommit": "610e07c91c97dd8ca2c5a9893650ebbb3bac3a67"
   },
   {
     "repo": "india-village-finder",
@@ -88,20 +88,20 @@
     "lastCommit": "16f13189d8ea2c199320d239ff36b6d574dcb30e"
   },
   {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-26T18:29:32Z",
+    "lastCommit": "6474f18a698059f6d938eccb03863e2025e12376"
+  },
+  {
     "repo": "cloud-platform-skills",
     "stars": 1,
     "forks": 2,
     "issues": 0,
     "lastUpdated": "2026-10-26T10:22:22Z",
     "lastCommit": "04647899363a7be11d547e97941e8c51a7bed60d"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-26T03:59:49Z",
-    "lastCommit": "aa2f5e924d7247d57599d0772d06508df302cf3f"
   },
   {
     "repo": "certops",
