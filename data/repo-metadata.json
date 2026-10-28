@@ -1,10 +1,10 @@
 [
   {
     "repo": "ultimate-devops-guide",
-    "stars": 43,
+    "stars": 44,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-27T11:49:51Z",
+    "lastUpdated": "2026-10-28T15:45:19Z",
     "lastCommit": "068f15e068b905823e41b732f0e6b111b416ac17"
   },
   {
@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-28T02:55:39Z",
-    "lastCommit": "1934780101cc9e7a811fb7115bd69a053ee8bb6c"
+    "lastUpdated": "2026-10-28T17:35:13Z",
+    "lastCommit": "d3360bfcaad7098212b26ed88420746691b57c52"
   },
   {
     "repo": "Terraform-Scripts",
@@ -92,8 +92,8 @@
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-10-27T17:44:52Z",
-    "lastCommit": "82031902117027632ec3bdaeb2e23e654abb55e5"
+    "lastUpdated": "2026-10-28T04:51:25Z",
+    "lastCommit": "b6bd319032104234108b26d22558e90f055bbd0c"
   },
   {
     "repo": "mutual-fund-analysis-tracker",
@@ -195,9 +195,9 @@
     "repo": "sprocketry",
     "stars": 0,
     "forks": 0,
-    "issues": 1,
-    "lastUpdated": "2026-10-27T17:12:01Z",
-    "lastCommit": "f946325cef4b9fc630792a96524d65bb49c433fa"
+    "issues": 3,
+    "lastUpdated": "2026-10-28T15:13:04Z",
+    "lastCommit": "f2e1a1a8fef574f69dcfdbd095eeef2e6c4b01e2"
   },
   {
     "repo": "community-tic-tac-toe",
