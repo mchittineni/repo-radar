@@ -9,10 +9,10 @@
   },
   {
     "repo": "ultimate-ai-engineering-guide",
-    "stars": 26,
+    "stars": 27,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-10-27T11:50:11Z",
+    "lastUpdated": "2026-10-28T03:24:04Z",
     "lastCommit": "d8a760e11a31bbe7843a690db601319f1a328144"
   },
   {
@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-27T16:59:13Z",
-    "lastCommit": "9953326b52276bc2cdc77fe127cbb45a0d497871"
+    "lastUpdated": "2026-10-28T02:55:39Z",
+    "lastCommit": "1934780101cc9e7a811fb7115bd69a053ee8bb6c"
   },
   {
     "repo": "Terraform-Scripts",
@@ -86,6 +86,14 @@
     "issues": 0,
     "lastUpdated": "2026-10-27T11:51:42Z",
     "lastCommit": "e1fc8361de849ca690219b691ecd63e1a49a7fc0"
+  },
+  {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-27T17:44:52Z",
+    "lastCommit": "82031902117027632ec3bdaeb2e23e654abb55e5"
   },
   {
     "repo": "mutual-fund-analysis-tracker",
@@ -174,14 +182,6 @@
     "issues": 0,
     "lastUpdated": "2026-10-27T11:54:35Z",
     "lastCommit": "6461d27bedfa23cdb87eb40ddccbc156137faf9b"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-27T11:52:51Z",
-    "lastCommit": "fac023f237f53c2f0448a6c57bd29548fce6a37d"
   },
   {
     "repo": "uk-river-flow",
