@@ -1,10 +1,10 @@
 [
   {
     "repo": "ultimate-devops-guide",
-    "stars": 44,
+    "stars": 45,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-28T15:45:19Z",
+    "lastUpdated": "2026-10-29T08:46:41Z",
     "lastCommit": "068f15e068b905823e41b732f0e6b111b416ac17"
   },
   {
@@ -17,10 +17,10 @@
   },
   {
     "repo": "ultimate-platform-engineering-guide",
-    "stars": 5,
+    "stars": 6,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-27T11:48:58Z",
+    "lastUpdated": "2026-10-29T12:02:50Z",
     "lastCommit": "acf9c72fdb072a671e5c8268a85e6399572d6232"
   },
   {
@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-29T03:20:54Z",
-    "lastCommit": "1c10405fb873abdad9d6beca67ec3197e4cb7210"
+    "lastUpdated": "2026-10-29T17:44:40Z",
+    "lastCommit": "053f974ec0100b674f860d5d8673682f027449ef"
   },
   {
     "repo": "Terraform-Scripts",
@@ -92,8 +92,8 @@
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-10-28T18:07:48Z",
-    "lastCommit": "c7f3366f5adafb7f86a457dfbaadeaea7e95f6a2"
+    "lastUpdated": "2026-10-29T05:01:07Z",
+    "lastCommit": "a5b2e9f8f392d3fb5b864c5ad437c45c167cf8f4"
   },
   {
     "repo": "mutual-fund-analysis-tracker",
@@ -196,8 +196,8 @@
     "stars": 0,
     "forks": 0,
     "issues": 3,
-    "lastUpdated": "2026-10-28T15:13:04Z",
-    "lastCommit": "f2e1a1a8fef574f69dcfdbd095eeef2e6c4b01e2"
+    "lastUpdated": "2026-10-29T14:33:06Z",
+    "lastCommit": "3acbd7d6a25718e010b42dd503c12e32d632bcf9"
   },
   {
     "repo": "community-tic-tac-toe",
