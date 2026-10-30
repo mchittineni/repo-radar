@@ -1,6 +1,6 @@
 {
   "owner": "mchittineni",
-  "generated_at": "2026-10-30T05:00:03Z",
+  "generated_at": "2026-10-30T17:51:13Z",
   "repositories": [
     "ultimate-devops-guide",
     "ultimate-ai-engineering-guide",
@@ -13,6 +13,7 @@
     "iacsecbench",
     "india-village-finder",
     "sports-monitor",
+    "fde-from-scratch",
     "repo-radar",
     "mutual-fund-analysis-tracker",
     "aks-terraform",
@@ -27,7 +28,6 @@
     "tf-arch-diagram-generator",
     "uk-river-flow",
     "sprocketry",
-    "community-tic-tac-toe",
-    "fde-from-scratch"
+    "community-tic-tac-toe"
   ]
 }

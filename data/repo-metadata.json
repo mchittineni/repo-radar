@@ -2,17 +2,17 @@
   {
     "repo": "ultimate-devops-guide",
     "stars": 45,
-    "forks": 18,
-    "issues": 0,
-    "lastUpdated": "2026-10-29T08:46:41Z",
-    "lastCommit": "068f15e068b905823e41b732f0e6b111b416ac17"
+    "forks": 19,
+    "issues": 1,
+    "lastUpdated": "2026-10-30T12:24:22Z",
+    "lastCommit": "3a28b47efe77c9516c52f131b9f250dc7cbf7d79"
   },
   {
     "repo": "ultimate-ai-engineering-guide",
     "stars": 27,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-10-28T03:24:04Z",
+    "lastUpdated": "2026-10-30T12:38:12Z",
     "lastCommit": "d8a760e11a31bbe7843a690db601319f1a328144"
   },
   {
@@ -20,16 +20,16 @@
     "stars": 6,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-29T12:02:50Z",
-    "lastCommit": "acf9c72fdb072a671e5c8268a85e6399572d6232"
+    "lastUpdated": "2026-10-30T12:41:12Z",
+    "lastCommit": "9b9e6f5b429e26bb0bba4cb17ff118cd9af17eb5"
   },
   {
     "repo": "mchittineni",
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-30T03:23:11Z",
-    "lastCommit": "ae812a361dd5e958ad2fb5327c79d2d62e8fa165"
+    "lastUpdated": "2026-10-30T17:25:12Z",
+    "lastCommit": "bf3b4e00bdbb214d31c6a0e3cf9bfa9b9bc02f2d"
   },
   {
     "repo": "Terraform-Scripts",
@@ -88,12 +88,20 @@
     "lastCommit": "e1fc8361de849ca690219b691ecd63e1a49a7fc0"
   },
   {
+    "repo": "fde-from-scratch",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-30T13:48:03Z",
+    "lastCommit": "d1bcd69c923c3b77dd04e2be4ce08e37f0156684"
+  },
+  {
     "repo": "repo-radar",
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-10-29T18:15:07Z",
-    "lastCommit": "0de20d64277091a079e1260b85872fa59ad339e2"
+    "lastUpdated": "2026-10-30T05:00:40Z",
+    "lastCommit": "7e6367bd000138311f887ef31acfd2db1c62d781"
   },
   {
     "repo": "mutual-fund-analysis-tracker",
@@ -195,9 +203,9 @@
     "repo": "sprocketry",
     "stars": 0,
     "forks": 0,
-    "issues": 3,
-    "lastUpdated": "2026-10-29T14:33:06Z",
-    "lastCommit": "3acbd7d6a25718e010b42dd503c12e32d632bcf9"
+    "issues": 4,
+    "lastUpdated": "2026-10-30T12:23:16Z",
+    "lastCommit": "90d6f71e9f186bf65d5614f83caed0f5e291cbc8"
   },
   {
     "repo": "community-tic-tac-toe",
@@ -206,13 +214,5 @@
     "issues": 0,
     "lastUpdated": "2026-10-27T12:09:16Z",
     "lastCommit": "9bc677a7e6c8a349946596d1f605256e77e979da"
-  },
-  {
-    "repo": "fde-from-scratch",
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-05T14:54:43Z",
-    "lastCommit": "ef0f5b4243820e4c88e90b9aba61939ab666e00d"
   }
 ]
