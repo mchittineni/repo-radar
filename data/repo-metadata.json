@@ -2,7 +2,7 @@
   {
     "repo": "ultimate-devops-guide",
     "stars": 45,
-    "forks": 19,
+    "forks": 20,
     "issues": 1,
     "lastUpdated": "2026-10-30T12:24:22Z",
     "lastCommit": "3a28b47efe77c9516c52f131b9f250dc7cbf7d79"
@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-30T17:25:12Z",
-    "lastCommit": "bf3b4e00bdbb214d31c6a0e3cf9bfa9b9bc02f2d"
+    "lastUpdated": "2026-10-31T03:07:28Z",
+    "lastCommit": "c1f6970539080a165aab6c0acb75e78614df34ff"
   },
   {
     "repo": "Terraform-Scripts",
@@ -88,20 +88,20 @@
     "lastCommit": "e1fc8361de849ca690219b691ecd63e1a49a7fc0"
   },
   {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-30T17:52:02Z",
+    "lastCommit": "b7b59fb8a68eb4cc62def367e7923206a151d7b0"
+  },
+  {
     "repo": "fde-from-scratch",
     "stars": 1,
     "forks": 0,
     "issues": 0,
     "lastUpdated": "2026-10-30T13:48:03Z",
     "lastCommit": "d1bcd69c923c3b77dd04e2be4ce08e37f0156684"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-30T05:00:40Z",
-    "lastCommit": "7e6367bd000138311f887ef31acfd2db1c62d781"
   },
   {
     "repo": "mutual-fund-analysis-tracker",

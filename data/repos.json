@@ -1,6 +1,6 @@
 {
   "owner": "mchittineni",
-  "generated_at": "2026-10-30T17:51:13Z",
+  "generated_at": "2026-10-31T04:48:10Z",
   "repositories": [
     "ultimate-devops-guide",
     "ultimate-ai-engineering-guide",
@@ -13,8 +13,8 @@
     "iacsecbench",
     "india-village-finder",
     "sports-monitor",
-    "fde-from-scratch",
     "repo-radar",
+    "fde-from-scratch",
     "mutual-fund-analysis-tracker",
     "aks-terraform",
     "aws-platform-engineering-lab",
