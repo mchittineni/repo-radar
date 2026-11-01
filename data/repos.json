@@ -1,6 +1,6 @@
 {
   "owner": "mchittineni",
-  "generated_at": "2026-10-31T17:01:49Z",
+  "generated_at": "2026-11-01T05:11:51Z",
   "repositories": [
     "ultimate-devops-guide",
     "ultimate-ai-engineering-guide",
@@ -13,11 +13,13 @@
     "iacsecbench",
     "india-village-finder",
     "sports-monitor",
+    "aws-platform-engineering-lab",
+    "uk-river-flow",
+    "tf-arch-diagram-generator",
     "repo-radar",
     "fde-from-scratch",
     "mutual-fund-analysis-tracker",
     "aks-terraform",
-    "aws-platform-engineering-lab",
     "blast-radius-check",
     "certops",
     "blast-radius-indexer",
@@ -25,8 +27,6 @@
     "edge-content-engine",
     "gke-terraform",
     "homebrew-tap",
-    "tf-arch-diagram-generator",
-    "uk-river-flow",
     "sprocketry",
     "community-tic-tac-toe"
   ]
