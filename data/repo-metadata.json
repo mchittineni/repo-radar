@@ -3,9 +3,9 @@
     "repo": "ultimate-devops-guide",
     "stars": 50,
     "forks": 21,
-    "issues": 1,
-    "lastUpdated": "2026-11-01T09:03:52Z",
-    "lastCommit": "3a28b47efe77c9516c52f131b9f250dc7cbf7d79"
+    "issues": 0,
+    "lastUpdated": "2026-11-02T10:47:25Z",
+    "lastCommit": "53650c60050431dfe78ae2ef0b2630d6ebe7e4bd"
   },
   {
     "repo": "ultimate-ai-engineering-guide",
@@ -27,7 +27,7 @@
     "repo": "mchittineni",
     "stars": 4,
     "forks": 1,
-    "issues": 2,
+    "issues": 0,
     "lastUpdated": "2026-11-02T03:12:54Z",
     "lastCommit": "0ead6edc22d9d5e24631f91cc1121ec1ed037b81"
   },
@@ -91,25 +91,57 @@
     "repo": "uk-river-flow",
     "stars": 1,
     "forks": 0,
-    "issues": 8,
-    "lastUpdated": "2026-10-27T11:50:35Z",
-    "lastCommit": "ddb9ef7feab32b17468c51e54f15b9b6d145153b"
+    "issues": 3,
+    "lastUpdated": "2026-11-02T15:34:35Z",
+    "lastCommit": "526c7482a78229e9d39c14af8e38422332e2b7b5"
+  },
+  {
+    "repo": "homebrew-tap",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-11-02T10:50:09Z",
+    "lastCommit": "f45ac7b387580b670d2c9bad21d8e02cc2d81c2e"
+  },
+  {
+    "repo": "tf-arch-diagram-generator",
+    "stars": 1,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2026-11-02T10:48:36Z",
+    "lastCommit": "dbe012dd657bd8f35365bf812dfc791dfe120909"
+  },
+  {
+    "repo": "aws-platform-engineering-lab",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-11-02T10:47:51Z",
+    "lastCommit": "d4d145dc1935f27d79ce62dd0e466e2425ad3a6a"
   },
   {
     "repo": "certops",
     "stars": 1,
     "forks": 0,
-    "issues": 1,
-    "lastUpdated": "2026-10-27T12:03:40Z",
-    "lastCommit": "a36c1b4d7dcb083d259928f35175c6800287d911"
+    "issues": 0,
+    "lastUpdated": "2026-11-02T10:46:23Z",
+    "lastCommit": "9c4dc7f4e5a4cc93114cca0573513ce73f0ea3fe"
+  },
+  {
+    "repo": "cloud-platform-skills",
+    "stars": 1,
+    "forks": 2,
+    "issues": 0,
+    "lastUpdated": "2026-11-02T10:46:11Z",
+    "lastCommit": "355d42fcda8c1661b063e1b60469c2db8ac31624"
   },
   {
     "repo": "repo-radar",
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-11-01T17:46:52Z",
-    "lastCommit": "f67cad24b9d67ca6400b26ba4f11b0cd10e4276d"
+    "lastUpdated": "2026-11-02T05:12:44Z",
+    "lastCommit": "3dd41ca113daf4acb8706f75266f73701c548b95"
   },
   {
     "repo": "edge-content-engine",
@@ -118,22 +150,6 @@
     "issues": 4,
     "lastUpdated": "2026-10-27T12:00:22Z",
     "lastCommit": "be347922a8309cd3beb23446effe4bef6114cc55"
-  },
-  {
-    "repo": "aws-platform-engineering-lab",
-    "stars": 1,
-    "forks": 0,
-    "issues": 1,
-    "lastUpdated": "2026-11-01T02:50:33Z",
-    "lastCommit": "f07a1173a5b5b8b38af9387505e135bcf3b35c7a"
-  },
-  {
-    "repo": "tf-arch-diagram-generator",
-    "stars": 1,
-    "forks": 1,
-    "issues": 1,
-    "lastUpdated": "2026-10-27T11:54:35Z",
-    "lastCommit": "6461d27bedfa23cdb87eb40ddccbc156137faf9b"
   },
   {
     "repo": "fde-from-scratch",
@@ -176,14 +192,6 @@
     "lastCommit": "c5d397fbe67f526e242368572d4244efedd4a82d"
   },
   {
-    "repo": "cloud-platform-skills",
-    "stars": 1,
-    "forks": 2,
-    "issues": 0,
-    "lastUpdated": "2026-10-27T12:01:36Z",
-    "lastCommit": "d0a3783e813b7faa35283726836d05fb670831b2"
-  },
-  {
     "repo": "gke-terraform",
     "stars": 1,
     "forks": 0,
@@ -192,20 +200,12 @@
     "lastCommit": "44449041ce4c781e08bda211bc968fe258881a7e"
   },
   {
-    "repo": "homebrew-tap",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-27T11:57:31Z",
-    "lastCommit": "ef192b57b92dd28a3f085ff4bc80e6978cd02516"
-  },
-  {
     "repo": "sprocketry",
     "stars": 0,
     "forks": 0,
-    "issues": 4,
-    "lastUpdated": "2026-10-30T12:23:16Z",
-    "lastCommit": "90d6f71e9f186bf65d5614f83caed0f5e291cbc8"
+    "issues": 2,
+    "lastUpdated": "2026-11-02T10:49:24Z",
+    "lastCommit": "ba12a611f48af4fd729eb315771b66e3b4a89267"
   },
   {
     "repo": "community-tic-tac-toe",
