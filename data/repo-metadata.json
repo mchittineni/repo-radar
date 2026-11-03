@@ -1,18 +1,18 @@
 [
   {
     "repo": "ultimate-devops-guide",
-    "stars": 50,
+    "stars": 51,
     "forks": 21,
     "issues": 0,
-    "lastUpdated": "2026-11-02T10:47:25Z",
+    "lastUpdated": "2026-11-03T08:44:42Z",
     "lastCommit": "53650c60050431dfe78ae2ef0b2630d6ebe7e4bd"
   },
   {
     "repo": "ultimate-ai-engineering-guide",
-    "stars": 27,
+    "stars": 28,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-10-30T12:38:12Z",
+    "lastUpdated": "2026-11-03T07:08:49Z",
     "lastCommit": "d8a760e11a31bbe7843a690db601319f1a328144"
   },
   {
@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-11-03T04:28:13Z",
-    "lastCommit": "8c2097c6e8cf7e6277cad0c3938b90df8bfb7a22"
+    "lastUpdated": "2026-11-03T18:46:11Z",
+    "lastCommit": "d1ab8267b4761f4281ff66973894edc2c756e0f0"
   },
   {
     "repo": "india-village-finder",
@@ -92,8 +92,8 @@
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-11-02T21:32:51Z",
-    "lastCommit": "47ebe79a4e87599a7bff4a7cd276991434245401"
+    "lastUpdated": "2026-11-03T05:56:04Z",
+    "lastCommit": "b2e3ea36d32effcb7a8d5315846ab2dda7912960"
   },
   {
     "repo": "uk-river-flow",
@@ -198,6 +198,14 @@
     "issues": 0,
     "lastUpdated": "2026-10-27T11:58:05Z",
     "lastCommit": "44449041ce4c781e08bda211bc968fe258881a7e"
+  },
+  {
+    "repo": "bengaluru-traffic",
+    "stars": 0,
+    "forks": 0,
+    "issues": 1,
+    "lastUpdated": "2026-11-03T16:01:00Z",
+    "lastCommit": "f3260d9d5a4a671600c8fdc530c5866e99bb6139"
   },
   {
     "repo": "sprocketry",
