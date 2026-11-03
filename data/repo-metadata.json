@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-11-02T03:12:54Z",
-    "lastCommit": "0ead6edc22d9d5e24631f91cc1121ec1ed037b81"
+    "lastUpdated": "2026-11-03T04:28:13Z",
+    "lastCommit": "8c2097c6e8cf7e6277cad0c3938b90df8bfb7a22"
   },
   {
     "repo": "india-village-finder",
@@ -88,6 +88,14 @@
     "lastCommit": "e1fc8361de849ca690219b691ecd63e1a49a7fc0"
   },
   {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-11-02T21:32:51Z",
+    "lastCommit": "47ebe79a4e87599a7bff4a7cd276991434245401"
+  },
+  {
     "repo": "uk-river-flow",
     "stars": 1,
     "forks": 0,
@@ -134,14 +142,6 @@
     "issues": 0,
     "lastUpdated": "2026-11-02T10:46:11Z",
     "lastCommit": "355d42fcda8c1661b063e1b60469c2db8ac31624"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-11-02T05:12:44Z",
-    "lastCommit": "3dd41ca113daf4acb8706f75266f73701c548b95"
   },
   {
     "repo": "edge-content-engine",
