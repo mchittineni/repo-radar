@@ -32,6 +32,22 @@
     "lastCommit": "b5800596bb2ae3032900c8632169e1bd360f4e61"
   },
   {
+    "repo": "iacsecbench",
+    "stars": 2,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2026-11-04T10:41:08Z",
+    "lastCommit": "afc8c2c3b740e1091f76c80b407f314e25903a0e"
+  },
+  {
+    "repo": "tf-arch-diagram-generator",
+    "stars": 2,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2026-11-04T09:21:43Z",
+    "lastCommit": "dbe012dd657bd8f35365bf812dfc791dfe120909"
+  },
+  {
     "repo": "india-village-finder",
     "stars": 2,
     "forks": 1,
@@ -72,14 +88,6 @@
     "lastCommit": "987c049d505d3fd03a342710bbebf12f2604ce0f"
   },
   {
-    "repo": "iacsecbench",
-    "stars": 2,
-    "forks": 1,
-    "issues": 1,
-    "lastUpdated": "2026-10-27T11:57:00Z",
-    "lastCommit": "7b16d88c6b01d0e2bd7ddf2ba2d56bd3cc72344d"
-  },
-  {
     "repo": "sports-monitor",
     "stars": 2,
     "forks": 0,
@@ -92,8 +100,8 @@
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-11-03T19:17:23Z",
-    "lastCommit": "04849296bb16525e8d903a070e99ac8bc2c39176"
+    "lastUpdated": "2026-11-04T05:32:01Z",
+    "lastCommit": "b4a9d7520eaf54f67f64facf00457d86e70749fa"
   },
   {
     "repo": "uk-river-flow",
@@ -110,14 +118,6 @@
     "issues": 0,
     "lastUpdated": "2026-11-02T10:50:09Z",
     "lastCommit": "f45ac7b387580b670d2c9bad21d8e02cc2d81c2e"
-  },
-  {
-    "repo": "tf-arch-diagram-generator",
-    "stars": 1,
-    "forks": 1,
-    "issues": 0,
-    "lastUpdated": "2026-11-02T10:48:36Z",
-    "lastCommit": "dbe012dd657bd8f35365bf812dfc791dfe120909"
   },
   {
     "repo": "aws-platform-engineering-lab",
