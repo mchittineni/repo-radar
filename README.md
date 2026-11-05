@@ -6,7 +6,7 @@
 
 Every repository, star, commit, and CI result — refreshed automatically by GitHub Actions. 🤖
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--05%2005%3A52%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--05%2019%3A42%20UTC-blue?style=flat-square)
 ![Repositories](https://img.shields.io/badge/Repositories-28-6f42c1?style=flat-square)
 ![Stars](https://img.shields.io/badge/Stars-119-f1c40f?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-2ea44f?style=flat-square)
@@ -29,7 +29,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | 📦 Repos | ⭐ Stars | 🍴 Forks | 🐛 Open issues | 🧠 Languages | ✅ CI green | 🔥 Active now |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| **28** | **119** | **37** | **10** | **21** | **25/28** | **13** |
+| **28** | **119** | **37** | **10** | **21** | **25/28** | **7** |
 
 ## 🏆 Star leaderboard
 
@@ -43,12 +43,12 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 ## ⏱️ Freshly pushed
 
-- 🔥 **[mchittineni](https://github.com/mchittineni/mchittineni)** · just now · [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/f729ee8712f9d8f6973239e060a9ecdc0768bc5c)
-- 🔥 **[repo-radar](https://github.com/mchittineni/repo-radar)** · 10 hours ago · [fix(git-tracker): auto-updated project status with latest...](https://github.com/mchittineni/repo-radar/commit/b1fcb8c5fa65f99ed07115ea335cb04e481fa045)
-- 🔥 **[iacsecbench](https://github.com/mchittineni/iacsecbench)** · 19 hours ago · [chore(main): release 3.0.1](https://github.com/mchittineni/iacsecbench/commit/afc8c2c3b740e1091f76c80b407f314e25903a0e)
-- 🔥 **[tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator)** · 20 hours ago · [build(deps-dev): bump the npm group with 4 updates](https://github.com/mchittineni/tf-arch-diagram-generator/commit/dbe012dd657bd8f35365bf812dfc791dfe120909)
+- 🔥 **[repo-radar](https://github.com/mchittineni/repo-radar)** · 13 hours ago · [fix(git-tracker): auto-updated project status with latest...](https://github.com/mchittineni/repo-radar/commit/3ca0ac4f405440b9110b77305182c231c00ed46f)
+- 🔥 **[mchittineni](https://github.com/mchittineni/mchittineni)** · 15 hours ago · [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/f729ee8712f9d8f6973239e060a9ecdc0768bc5c)
+- 🔥 **[iacsecbench](https://github.com/mchittineni/iacsecbench)** · yesterday · [chore(main): release 3.0.1](https://github.com/mchittineni/iacsecbench/commit/afc8c2c3b740e1091f76c80b407f314e25903a0e)
+- 🔥 **[tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator)** · yesterday · [build(deps-dev): bump the npm group with 4 updates](https://github.com/mchittineni/tf-arch-diagram-generator/commit/dbe012dd657bd8f35365bf812dfc791dfe120909)
 - 🔥 **[ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide)** · yesterday · [ci: bump the github-actions group with 5 updates](https://github.com/mchittineni/ultimate-devops-guide/commit/53650c60050431dfe78ae2ef0b2630d6ebe7e4bd)
-- 🔥 **[bengaluru-traffic](https://github.com/mchittineni/bengaluru-traffic)** · yesterday · [ci: pin actions to latest release SHAs](https://github.com/mchittineni/bengaluru-traffic/commit/f3260d9d5a4a671600c8fdc530c5866e99bb6139)
+- 🔥 **[bengaluru-traffic](https://github.com/mchittineni/bengaluru-traffic)** · 2 days ago · [ci: pin actions to latest release SHAs](https://github.com/mchittineni/bengaluru-traffic/commit/f3260d9d5a4a671600c8fdc530c5866e99bb6139)
 
 ## 🧬 Language mix
 
@@ -59,16 +59,16 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [certops](https://github.com/mchittineni/certops) | 47.5 MB | ⭐ 1 | 2 days ago |
-| ✨ [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 424.7 KB | ⭐ 1 | 5 days ago |
+| ✨ [certops](https://github.com/mchittineni/certops) | 47.5 MB | ⭐ 1 | 3 days ago |
+| ✨ [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 424.7 KB | ⭐ 1 | 6 days ago |
 | ✨ [india-village-finder](https://github.com/mchittineni/india-village-finder) | 407.3 KB | ⭐ 2 | 1 week ago |
-| 🔥 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 382.3 KB | ⭐ 2 | 20 hours ago |
-| 🔥 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 96.9 KB | ⭐ 1 | 2 days ago |
-| 🔥 [bengaluru-traffic](https://github.com/mchittineni/bengaluru-traffic) | 25.9 KB | ⭐ 0 | yesterday |
+| 🔥 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 382.3 KB | ⭐ 2 | yesterday |
+| ✨ [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 96.9 KB | ⭐ 1 | 3 days ago |
+| 🔥 [bengaluru-traffic](https://github.com/mchittineni/bengaluru-traffic) | 25.9 KB | ⭐ 0 | 2 days ago |
 | ✨ [blast-radius-check](https://github.com/mchittineni/blast-radius-check) | 5.6 KB | ⭐ 1 | 1 week ago |
 | ✨ [blast-radius-indexer](https://github.com/mchittineni/blast-radius-indexer) | 5.2 KB | ⭐ 1 | 1 week ago |
 | ✨ [sports-monitor](https://github.com/mchittineni/sports-monitor) | 2.0 KB | ⭐ 2 | 1 week ago |
-| 🔥 [sprocketry](https://github.com/mchittineni/sprocketry) | 1.2 KB | ⭐ 0 | 2 days ago |
+| ✨ [sprocketry](https://github.com/mchittineni/sprocketry) | 1.2 KB | ⭐ 0 | 3 days ago |
 
 </details>
 
@@ -77,21 +77,21 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 433.2 KB | ⭐ 2 | 19 hours ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 433.2 KB | ⭐ 2 | yesterday |
 | ✨ [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 385.7 KB | ⭐ 1 | 1 week ago |
 | ✨ [india-village-finder](https://github.com/mchittineni/india-village-finder) | 211.3 KB | ⭐ 2 | 1 week ago |
 | ✨ [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 137.6 KB | ⭐ 1 | 1 week ago |
 | 🔥 [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) | 128.1 KB | ⭐ 52 | yesterday |
-| 🔥 [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 122.8 KB | ⭐ 1 | 2 days ago |
-| 🔥 [bengaluru-traffic](https://github.com/mchittineni/bengaluru-traffic) | 100.3 KB | ⭐ 0 | yesterday |
-| 🔥 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 87.4 KB | ⭐ 1 | 2 days ago |
-| ✨ [ultimate-platform-engineering-guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) | 81.1 KB | ⭐ 6 | 5 days ago |
-| 🔥 [ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide) | 76.3 KB | ⭐ 28 | yesterday |
+| ✨ [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 122.8 KB | ⭐ 1 | 3 days ago |
+| 🔥 [bengaluru-traffic](https://github.com/mchittineni/bengaluru-traffic) | 100.3 KB | ⭐ 0 | 2 days ago |
+| ✨ [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 87.4 KB | ⭐ 1 | 3 days ago |
+| ✨ [ultimate-platform-engineering-guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) | 81.1 KB | ⭐ 6 | 6 days ago |
+| 🔥 [ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide) | 76.3 KB | ⭐ 28 | 2 days ago |
 | ✨ [ai-job-serve](https://github.com/mchittineni/ai-job-serve) | 71.1 KB | ⭐ 2 | 1 week ago |
-| 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 52.0 KB | ⭐ 1 | 10 hours ago |
+| 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 52.0 KB | ⭐ 1 | 13 hours ago |
 | ✨ [community-tic-tac-toe](https://github.com/mchittineni/community-tic-tac-toe) | 17.4 KB | ⭐ 0 | 1 week ago |
-| 🔥 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 17.3 KB | ⭐ 2 | 20 hours ago |
-| 🔥 [sprocketry](https://github.com/mchittineni/sprocketry) | 13.9 KB | ⭐ 0 | 2 days ago |
+| 🔥 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 17.3 KB | ⭐ 2 | yesterday |
+| ✨ [sprocketry](https://github.com/mchittineni/sprocketry) | 13.9 KB | ⭐ 0 | 3 days ago |
 
 </details>
 
@@ -100,9 +100,9 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab) | 254.3 KB | ⭐ 1 | 2 days ago |
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 212.5 KB | ⭐ 2 | 19 hours ago |
-| 🔥 [sprocketry](https://github.com/mchittineni/sprocketry) | 137.6 KB | ⭐ 0 | 2 days ago |
+| ✨ [aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab) | 254.3 KB | ⭐ 1 | 3 days ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 212.5 KB | ⭐ 2 | yesterday |
+| ✨ [sprocketry](https://github.com/mchittineni/sprocketry) | 137.6 KB | ⭐ 0 | 3 days ago |
 | ✨ [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 66.4 KB | ⭐ 2 | 1 week ago |
 | ✨ [sports-monitor](https://github.com/mchittineni/sports-monitor) | 52.2 KB | ⭐ 2 | 1 week ago |
 | ✨ [eks-terraform](https://github.com/mchittineni/eks-terraform) | 50.6 KB | ⭐ 2 | 1 week ago |
@@ -110,7 +110,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | ✨ [gke-terraform](https://github.com/mchittineni/gke-terraform) | 25.7 KB | ⭐ 1 | 1 week ago |
 | ✨ [aks-terraform](https://github.com/mchittineni/aks-terraform) | 22.9 KB | ⭐ 1 | 1 week ago |
 | ✨ [Terraform-Scripts](https://github.com/mchittineni/Terraform-Scripts) | 22.4 KB | ⭐ 2 | 1 week ago |
-| 🔥 [bengaluru-traffic](https://github.com/mchittineni/bengaluru-traffic) | 6.2 KB | ⭐ 0 | yesterday |
+| 🔥 [bengaluru-traffic](https://github.com/mchittineni/bengaluru-traffic) | 6.2 KB | ⭐ 0 | 2 days ago |
 
 </details>
 
@@ -122,7 +122,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | ✨ [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 185.1 KB | ⭐ 2 | 1 week ago |
 | ✨ [sports-monitor](https://github.com/mchittineni/sports-monitor) | 179.8 KB | ⭐ 2 | 1 week ago |
 | ✨ [blast-radius-indexer](https://github.com/mchittineni/blast-radius-indexer) | 83.8 KB | ⭐ 1 | 1 week ago |
-| 🔥 [sprocketry](https://github.com/mchittineni/sprocketry) | 70.9 KB | ⭐ 0 | 2 days ago |
+| ✨ [sprocketry](https://github.com/mchittineni/sprocketry) | 70.9 KB | ⭐ 0 | 3 days ago |
 | ✨ [blast-radius-check](https://github.com/mchittineni/blast-radius-check) | 56.6 KB | ⭐ 1 | 1 week ago |
 
 </details>
@@ -134,12 +134,12 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 |------------|-----:|------:|---------|
 | ✨ [sports-monitor](https://github.com/mchittineni/sports-monitor) | 186.7 KB | ⭐ 2 | 1 week ago |
 | ✨ [india-village-finder](https://github.com/mchittineni/india-village-finder) | 33.5 KB | ⭐ 2 | 1 week ago |
-| 🔥 [bengaluru-traffic](https://github.com/mchittineni/bengaluru-traffic) | 10.5 KB | ⭐ 0 | yesterday |
+| 🔥 [bengaluru-traffic](https://github.com/mchittineni/bengaluru-traffic) | 10.5 KB | ⭐ 0 | 2 days ago |
 | ✨ [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 10.4 KB | ⭐ 1 | 1 week ago |
-| 🔥 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 7.5 KB | ⭐ 1 | 2 days ago |
-| ✨ [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 3.4 KB | ⭐ 1 | 5 days ago |
-| 🔥 [certops](https://github.com/mchittineni/certops) | 1.8 KB | ⭐ 1 | 2 days ago |
-| 🔥 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 1.1 KB | ⭐ 2 | 20 hours ago |
+| ✨ [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 7.5 KB | ⭐ 1 | 3 days ago |
+| ✨ [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 3.4 KB | ⭐ 1 | 6 days ago |
+| ✨ [certops](https://github.com/mchittineni/certops) | 1.8 KB | ⭐ 1 | 3 days ago |
+| 🔥 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 1.1 KB | ⭐ 2 | yesterday |
 
 </details>
 
@@ -148,14 +148,14 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| ✨ [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 69.1 KB | ⭐ 1 | 5 days ago |
-| 🔥 [certops](https://github.com/mchittineni/certops) | 55.2 KB | ⭐ 1 | 2 days ago |
+| ✨ [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 69.1 KB | ⭐ 1 | 6 days ago |
+| ✨ [certops](https://github.com/mchittineni/certops) | 55.2 KB | ⭐ 1 | 3 days ago |
 | ✨ [india-village-finder](https://github.com/mchittineni/india-village-finder) | 28.8 KB | ⭐ 2 | 1 week ago |
-| 🔥 [sprocketry](https://github.com/mchittineni/sprocketry) | 22.7 KB | ⭐ 0 | 2 days ago |
-| 🔥 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 18.2 KB | ⭐ 2 | 20 hours ago |
-| 🔥 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 15.2 KB | ⭐ 1 | 2 days ago |
+| ✨ [sprocketry](https://github.com/mchittineni/sprocketry) | 22.7 KB | ⭐ 0 | 3 days ago |
+| 🔥 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 18.2 KB | ⭐ 2 | yesterday |
+| ✨ [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 15.2 KB | ⭐ 1 | 3 days ago |
 | ✨ [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 10.7 KB | ⭐ 2 | 1 week ago |
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 670 B | ⭐ 2 | 19 hours ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 670 B | ⭐ 2 | yesterday |
 | ✨ [sports-monitor](https://github.com/mchittineni/sports-monitor) | 650 B | ⭐ 2 | 1 week ago |
 
 </details>
@@ -165,7 +165,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 135.0 KB | ⭐ 2 | 19 hours ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 135.0 KB | ⭐ 2 | yesterday |
 
 </details>
 
@@ -183,14 +183,14 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [sprocketry](https://github.com/mchittineni/sprocketry) | 40.8 KB | ⭐ 0 | 2 days ago |
+| ✨ [sprocketry](https://github.com/mchittineni/sprocketry) | 40.8 KB | ⭐ 0 | 3 days ago |
 | ✨ [eks-terraform](https://github.com/mchittineni/eks-terraform) | 10.0 KB | ⭐ 2 | 1 week ago |
 | ✨ [sports-monitor](https://github.com/mchittineni/sports-monitor) | 6.7 KB | ⭐ 2 | 1 week ago |
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 5.6 KB | ⭐ 2 | 19 hours ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 5.6 KB | ⭐ 2 | yesterday |
 | ✨ [gke-terraform](https://github.com/mchittineni/gke-terraform) | 4.5 KB | ⭐ 1 | 1 week ago |
 | ✨ [aks-terraform](https://github.com/mchittineni/aks-terraform) | 4.5 KB | ⭐ 1 | 1 week ago |
-| 🔥 [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 4.3 KB | ⭐ 1 | 2 days ago |
-| 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 3.6 KB | ⭐ 1 | 10 hours ago |
+| ✨ [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 4.3 KB | ⭐ 1 | 3 days ago |
+| 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 3.6 KB | ⭐ 1 | 13 hours ago |
 | ✨ [ai-job-serve](https://github.com/mchittineni/ai-job-serve) | 1.7 KB | ⭐ 2 | 1 week ago |
 
 </details>
@@ -200,7 +200,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [sprocketry](https://github.com/mchittineni/sprocketry) | 45.6 KB | ⭐ 0 | 2 days ago |
+| ✨ [sprocketry](https://github.com/mchittineni/sprocketry) | 45.6 KB | ⭐ 0 | 3 days ago |
 
 </details>
 
@@ -209,10 +209,10 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 10.1 KB | ⭐ 2 | 19 hours ago |
-| 🔥 [sprocketry](https://github.com/mchittineni/sprocketry) | 8.4 KB | ⭐ 0 | 2 days ago |
-| 🔥 [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 5.6 KB | ⭐ 1 | 2 days ago |
-| 🔥 [aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab) | 5.1 KB | ⭐ 1 | 2 days ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 10.1 KB | ⭐ 2 | yesterday |
+| ✨ [sprocketry](https://github.com/mchittineni/sprocketry) | 8.4 KB | ⭐ 0 | 3 days ago |
+| ✨ [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 5.6 KB | ⭐ 1 | 3 days ago |
+| ✨ [aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab) | 5.1 KB | ⭐ 1 | 3 days ago |
 | ✨ [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 3.6 KB | ⭐ 1 | 1 week ago |
 
 </details>
@@ -222,7 +222,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [sprocketry](https://github.com/mchittineni/sprocketry) | 25.0 KB | ⭐ 0 | 2 days ago |
+| ✨ [sprocketry](https://github.com/mchittineni/sprocketry) | 25.0 KB | ⭐ 0 | 3 days ago |
 
 </details>
 
@@ -231,7 +231,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [sprocketry](https://github.com/mchittineni/sprocketry) | 19.3 KB | ⭐ 0 | 2 days ago |
+| ✨ [sprocketry](https://github.com/mchittineni/sprocketry) | 19.3 KB | ⭐ 0 | 3 days ago |
 
 </details>
 
@@ -240,7 +240,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 18.2 KB | ⭐ 2 | 19 hours ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 18.2 KB | ⭐ 2 | yesterday |
 
 </details>
 
@@ -249,7 +249,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [sprocketry](https://github.com/mchittineni/sprocketry) | 17.9 KB | ⭐ 0 | 2 days ago |
+| ✨ [sprocketry](https://github.com/mchittineni/sprocketry) | 17.9 KB | ⭐ 0 | 3 days ago |
 
 </details>
 
@@ -258,9 +258,9 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [sprocketry](https://github.com/mchittineni/sprocketry) | 7.0 KB | ⭐ 0 | 2 days ago |
+| ✨ [sprocketry](https://github.com/mchittineni/sprocketry) | 7.0 KB | ⭐ 0 | 3 days ago |
 | ✨ [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 2.4 KB | ⭐ 1 | 1 week ago |
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 775 B | ⭐ 2 | 19 hours ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 775 B | ⭐ 2 | yesterday |
 
 </details>
 
@@ -287,7 +287,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 3.0 KB | ⭐ 2 | 19 hours ago |
+| 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 3.0 KB | ⭐ 2 | yesterday |
 | ✨ [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 664 B | ⭐ 1 | 1 week ago |
 
 </details>
@@ -297,7 +297,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [homebrew-tap](https://github.com/mchittineni/homebrew-tap) | 1.2 KB | ⭐ 1 | 2 days ago |
+| ✨ [homebrew-tap](https://github.com/mchittineni/homebrew-tap) | 1.2 KB | ⭐ 1 | 3 days ago |
 
 </details>
 
@@ -306,7 +306,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [sprocketry](https://github.com/mchittineni/sprocketry) | 1016 B | ⭐ 0 | 2 days ago |
+| ✨ [sprocketry](https://github.com/mchittineni/sprocketry) | 1016 B | ⭐ 0 | 3 days ago |
 
 </details>
 
@@ -317,32 +317,32 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | # | Repository | ⭐ | 🍴 | 🐛 | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
 | 🥇 | 🔥 [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) | 52 | 21 | 0 | ✅ pass | yesterday |
-| 🥈 | 🔥 [ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide) | 28 | 4 | 0 | ✅ pass | yesterday |
-| 🥉 | ✨ [ultimate-platform-engineering-guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) | 6 | 1 | 0 | ✅ pass | 5 days ago |
-| 4 | 🔥 [mchittineni](https://github.com/mchittineni/mchittineni) | 4 | 1 | 0 | ✅ pass | just now |
-| 5 | 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 2 | 1 | 0 | ✅ pass | 19 hours ago |
-| 6 | 🔥 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 2 | 1 | 0 | ✅ pass | 20 hours ago |
+| 🥈 | 🔥 [ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide) | 28 | 4 | 0 | ✅ pass | 2 days ago |
+| 🥉 | ✨ [ultimate-platform-engineering-guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) | 6 | 1 | 0 | ✅ pass | 6 days ago |
+| 4 | 🔥 [mchittineni](https://github.com/mchittineni/mchittineni) | 4 | 1 | 0 | ✅ pass | 15 hours ago |
+| 5 | 🔥 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 2 | 1 | 0 | ✅ pass | yesterday |
+| 6 | 🔥 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 2 | 1 | 0 | ✅ pass | yesterday |
 | 7 | ✨ [india-village-finder](https://github.com/mchittineni/india-village-finder) | 2 | 1 | 0 | ✅ pass | 1 week ago |
 | 8 | ✨ [Terraform-Scripts](https://github.com/mchittineni/Terraform-Scripts) | 2 | 1 | 0 | · none | 1 week ago |
 | 9 | ✨ [ai-job-serve](https://github.com/mchittineni/ai-job-serve) | 2 | 0 | 0 | ✅ pass | 1 week ago |
 | 10 | ✨ [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 2 | 0 | 0 | ✅ pass | 1 week ago |
 | 11 | ✨ [eks-terraform](https://github.com/mchittineni/eks-terraform) | 2 | 1 | 0 | ✅ pass | 1 week ago |
 | 12 | ✨ [sports-monitor](https://github.com/mchittineni/sports-monitor) | 2 | 0 | 0 | ✅ pass | 1 week ago |
-| 13 | 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 1 | 0 | 0 | 🔄 running | 10 hours ago |
-| 14 | 🔥 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 1 | 0 | 3 | ✅ pass | 2 days ago |
-| 15 | 🔥 [homebrew-tap](https://github.com/mchittineni/homebrew-tap) | 1 | 0 | 0 | ✅ pass | 2 days ago |
-| 16 | 🔥 [aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab) | 1 | 0 | 0 | 🔄 running | 2 days ago |
-| 17 | 🔥 [certops](https://github.com/mchittineni/certops) | 1 | 0 | 0 | ✅ pass | 2 days ago |
-| 18 | 🔥 [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 1 | 2 | 0 | ✅ pass | 2 days ago |
+| 13 | 🔥 [repo-radar](https://github.com/mchittineni/repo-radar) | 1 | 0 | 0 | 🔄 running | 13 hours ago |
+| 14 | ✨ [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 1 | 0 | 3 | ✅ pass | 3 days ago |
+| 15 | ✨ [homebrew-tap](https://github.com/mchittineni/homebrew-tap) | 1 | 0 | 0 | ✅ pass | 3 days ago |
+| 16 | ✨ [aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab) | 1 | 0 | 0 | 🔄 running | 3 days ago |
+| 17 | ✨ [certops](https://github.com/mchittineni/certops) | 1 | 0 | 0 | ✅ pass | 3 days ago |
+| 18 | ✨ [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 1 | 2 | 0 | ✅ pass | 3 days ago |
 | 19 | ✨ [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 1 | 1 | 4 | ✅ pass | 1 week ago |
-| 20 | ✨ [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 1 | 0 | 0 | ✅ pass | 5 days ago |
+| 20 | ✨ [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 1 | 0 | 0 | ✅ pass | 6 days ago |
 | 21 | ✨ [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 1 | 1 | 0 | ✅ pass | 1 week ago |
 | 22 | ✨ [aks-terraform](https://github.com/mchittineni/aks-terraform) | 1 | 0 | 0 | ✅ pass | 1 week ago |
 | 23 | ✨ [blast-radius-check](https://github.com/mchittineni/blast-radius-check) | 1 | 1 | 0 | ✅ pass | 1 week ago |
 | 24 | ✨ [blast-radius-indexer](https://github.com/mchittineni/blast-radius-indexer) | 1 | 0 | 0 | ✅ pass | 1 week ago |
 | 25 | ✨ [gke-terraform](https://github.com/mchittineni/gke-terraform) | 1 | 0 | 0 | ✅ pass | 1 week ago |
-| 26 | 🔥 [bengaluru-traffic](https://github.com/mchittineni/bengaluru-traffic) | 0 | 0 | 1 | ✅ pass | yesterday |
-| 27 | 🔥 [sprocketry](https://github.com/mchittineni/sprocketry) | 0 | 0 | 2 | ✅ pass | 2 days ago |
+| 26 | 🔥 [bengaluru-traffic](https://github.com/mchittineni/bengaluru-traffic) | 0 | 0 | 1 | ✅ pass | 2 days ago |
+| 27 | ✨ [sprocketry](https://github.com/mchittineni/sprocketry) | 0 | 0 | 2 | ✅ pass | 3 days ago |
 | 28 | ✨ [community-tic-tac-toe](https://github.com/mchittineni/community-tic-tac-toe) | 0 | 0 | 0 | ✅ pass | 1 week ago |
 
 <sub>Click any repository below to expand commit info, languages, and topics.</sub>
@@ -403,7 +403,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [Merge pull request #6 from mchittineni/docs/readme-badges](https://github.com/mchittineni/ultimate-ai-engineering-guide/commit/d8a760e11a31bbe7843a690db601319f1a328144) |
 | **Commit date** | `2026-10-27` |
 | **Author** | `Manideep Chittineni` |
-| **Repo updated** | `2026-11-03` (yesterday) |
+| **Repo updated** | `2026-11-03` (2 days ago) |
 | **License** | `MIT License` |
 | **Languages** | 🐍 `Python` |
 | **Topics** | `agentic-ai` · `ai-engineering` · `ai-platform` · `ai-systems-architect` · `forward-deployed-engineer` · `generative-ai` |
@@ -436,7 +436,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [docs(readme): correct difficulty badge counts](https://github.com/mchittineni/ultimate-platform-engineering-guide/commit/9b9e6f5b429e26bb0bba4cb17ff118cd9af17eb5) |
 | **Commit date** | `2026-10-30` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-10-30` (5 days ago) |
+| **Repo updated** | `2026-10-30` (6 days ago) |
 | **License** | `MIT License` |
 | **Languages** | 🐍 `Python` |
 | **Topics** | `argocd` · `aws` · `azure` · `backstage` · `crossplane` · `developer-experience` |
@@ -469,7 +469,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/f729ee8712f9d8f6973239e060a9ecdc0768bc5c) |
 | **Commit date** | `2026-11-05` |
 | **Author** | `github-actions[bot]` |
-| **Repo updated** | `2026-11-05` (just now) |
+| **Repo updated** | `2026-11-05` (15 hours ago) |
 | **License** | `MIT License` |
 | **Languages** | _None detected_ |
 | **Topics** | _None_ |
@@ -502,7 +502,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [chore(main): release 3.0.1](https://github.com/mchittineni/iacsecbench/commit/afc8c2c3b740e1091f76c80b407f314e25903a0e) |
 | **Commit date** | `2026-10-27` |
 | **Author** | `github-actions[bot]` |
-| **Repo updated** | `2026-11-04` (19 hours ago) |
+| **Repo updated** | `2026-11-04` (yesterday) |
 | **License** | `Other` |
 | **Languages** | 🐍 `Python` · 🏗️ `HCL` · 🧠 `TeX` · 🧠 `Open Policy Agent` · 🔨 `Makefile` |
 | **Topics** | _None_ |
@@ -535,7 +535,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [build(deps-dev): bump the npm group with 4 updates](https://github.com/mchittineni/tf-arch-diagram-generator/commit/dbe012dd657bd8f35365bf812dfc791dfe120909) |
 | **Commit date** | `2026-11-01` |
 | **Author** | `dependabot[bot]` |
-| **Repo updated** | `2026-11-04` (20 hours ago) |
+| **Repo updated** | `2026-11-04` (yesterday) |
 | **License** | `MIT License` |
 | **Languages** | 🟨 `JavaScript` · 🎨 `CSS` · 🐍 `Python` · 🌐 `HTML` |
 | **Topics** | `architecture-diagram` · `aws` · `azure` · `cli` · `devops` · `diagram` |
@@ -762,10 +762,10 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | | |
 |---|---|
-| **Latest commit** | [fix(git-tracker): auto-updated project status with latest changes [skip ci]](https://github.com/mchittineni/repo-radar/commit/b1fcb8c5fa65f99ed07115ea335cb04e481fa045) |
-| **Commit date** | `2026-11-04` |
+| **Latest commit** | [fix(git-tracker): auto-updated project status with latest changes [skip ci]](https://github.com/mchittineni/repo-radar/commit/3ca0ac4f405440b9110b77305182c231c00ed46f) |
+| **Commit date** | `2026-11-05` |
 | **Author** | `github-actions[bot]` |
-| **Repo updated** | `2026-11-04` (10 hours ago) |
+| **Repo updated** | `2026-11-05` (13 hours ago) |
 | **License** | `MIT License` |
 | **Languages** | 🐍 `Python` · 🐚 `Shell` |
 | **Topics** | `automation` · `dashboard` · `developer-tools` · `devops-tools` · `github-actions` · `github-api` |
@@ -778,7 +778,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 <!-- repo:uk-river-flow -->
 <details>
 <summary>
-  🔥
+  ✨
   <strong><a href="https://github.com/mchittineni/uk-river-flow">uk-river-flow</a></strong>
   &nbsp;<sub><code>uk-river-flow</code></sub>
   &nbsp;·&nbsp; ⭐ 1
@@ -798,7 +798,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [build(deps-dev): bump the dev-tooling group across 1 directory with 2 updates](https://github.com/mchittineni/uk-river-flow/commit/526c7482a78229e9d39c14af8e38422332e2b7b5) |
 | **Commit date** | `2026-11-02` |
 | **Author** | `dependabot[bot]` |
-| **Repo updated** | `2026-11-02` (2 days ago) |
+| **Repo updated** | `2026-11-02` (3 days ago) |
 | **License** | `Other` |
 | **Languages** | 🟨 `JavaScript` · 🐍 `Python` · 🎨 `CSS` · 🌐 `HTML` |
 | **Topics** | `data-visualization` · `environment-agency` · `geojson` · `github-actions` · `hydrology` · `interactive-map` |
@@ -810,7 +810,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 <!-- repo:homebrew-tap -->
 <details>
 <summary>
-  🔥
+  ✨
   <strong><a href="https://github.com/mchittineni/homebrew-tap">homebrew-tap</a></strong>
   &nbsp;<sub><code>homebrew-tap</code></sub>
   &nbsp;·&nbsp; ⭐ 1
@@ -830,7 +830,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [tf-arch 1.4.3](https://github.com/mchittineni/homebrew-tap/commit/f45ac7b387580b670d2c9bad21d8e02cc2d81c2e) |
 | **Commit date** | `2026-11-02` |
 | **Author** | `github-actions[bot]` |
-| **Repo updated** | `2026-11-02` (2 days ago) |
+| **Repo updated** | `2026-11-02` (3 days ago) |
 | **License** | `MIT License` |
 | **Languages** | 💎 `Ruby` |
 | **Topics** | `architecture-diagram` · `aws` · `azure` · `gcp` · `homebrew` · `homebrew-formulae` |
@@ -842,7 +842,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 <!-- repo:aws-platform-engineering-lab -->
 <details>
 <summary>
-  🔥
+  ✨
   <strong><a href="https://github.com/mchittineni/aws-platform-engineering-lab">aws-platform-engineering-lab</a></strong>
   &nbsp;<sub><code>aws-platform-engineering-lab</code></sub>
   &nbsp;·&nbsp; ⭐ 1
@@ -862,7 +862,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [deps: update botocore requirement in /ansible (#82)](https://github.com/mchittineni/aws-platform-engineering-lab/commit/d4d145dc1935f27d79ce62dd0e466e2425ad3a6a) |
 | **Commit date** | `2026-11-02` |
 | **Author** | `dependabot[bot]` |
-| **Repo updated** | `2026-11-02` (2 days ago) |
+| **Repo updated** | `2026-11-02` (3 days ago) |
 | **License** | `MIT License` |
 | **Languages** | 🏗️ `HCL` · 🔨 `Makefile` |
 | **Topics** | _None_ |
@@ -874,7 +874,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 <!-- repo:certops -->
 <details>
 <summary>
-  🔥
+  ✨
   <strong><a href="https://github.com/mchittineni/certops">certops</a></strong>
   &nbsp;<sub><code>certops</code></sub>
   &nbsp;·&nbsp; ⭐ 1
@@ -894,7 +894,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [chore(deps): bump the dev-tooling group with 2 updates](https://github.com/mchittineni/certops/commit/9c4dc7f4e5a4cc93114cca0573513ce73f0ea3fe) |
 | **Commit date** | `2026-11-02` |
 | **Author** | `dependabot[bot]` |
-| **Repo updated** | `2026-11-02` (2 days ago) |
+| **Repo updated** | `2026-11-02` (3 days ago) |
 | **License** | `Other` |
 | **Languages** | 🟨 `JavaScript` · 🎨 `CSS` · 🌐 `HTML` |
 | **Topics** | `aws` · `aws-solutions-architect` · `azure` · `azure-administrator` · `certifications` · `cka` |
@@ -906,7 +906,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 <!-- repo:cloud-platform-skills -->
 <details>
 <summary>
-  🔥
+  ✨
   <strong><a href="https://github.com/mchittineni/cloud-platform-skills">Cloud & Platform Skills</a></strong>
   &nbsp;<sub><code>cloud-platform-skills</code></sub> &nbsp;·&nbsp; <code>Active build</code>
   &nbsp;·&nbsp; ⭐ 1
@@ -926,7 +926,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [docs(deps-dev): bump mkdocs-material](https://github.com/mchittineni/cloud-platform-skills/commit/355d42fcda8c1661b063e1b60469c2db8ac31624) |
 | **Commit date** | `2026-11-02` |
 | **Author** | `dependabot[bot]` |
-| **Repo updated** | `2026-11-02` (2 days ago) |
+| **Repo updated** | `2026-11-02` (3 days ago) |
 | **License** | `MIT License` |
 | **Languages** | 🐍 `Python` · 🔨 `Makefile` · 🐚 `Shell` |
 | **Topics** | `agent-skill` · `agent-skills` · `agentic-ai` · `ai` · `ai-agents` · `claude` |
@@ -991,7 +991,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [test: cover guides, csp, no-js fallback and dev server](https://github.com/mchittineni/fde-from-scratch/commit/d1bcd69c923c3b77dd04e2be4ce08e37f0156684) |
 | **Commit date** | `2026-10-30` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-10-30` (5 days ago) |
+| **Repo updated** | `2026-10-30` (6 days ago) |
 | **License** | `MIT License` |
 | **Languages** | 🟨 `JavaScript` · 🎨 `CSS` · 🌐 `HTML` |
 | **Topics** | `applied-ai` · `career-development` · `data-engineering` · `education` · `fde` · `field-engineering` |
@@ -1186,7 +1186,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [ci: pin actions to latest release SHAs](https://github.com/mchittineni/bengaluru-traffic/commit/f3260d9d5a4a671600c8fdc530c5866e99bb6139) |
 | **Commit date** | `2026-11-03` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-11-03` (yesterday) |
+| **Repo updated** | `2026-11-03` (2 days ago) |
 | **License** | `MIT License` |
 | **Languages** | 🐍 `Python` · 🟨 `JavaScript` · 🌐 `HTML` · 🏗️ `HCL` |
 | **Topics** | `aws-lambda` · `bengaluru` · `machine-learning` · `openstreetmap` · `python` · `terraform` |
@@ -1198,7 +1198,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 <!-- repo:sprocketry -->
 <details>
 <summary>
-  🔥
+  ✨
   <strong><a href="https://github.com/mchittineni/sprocketry">sprocketry</a></strong>
   &nbsp;<sub><code>sprocketry</code></sub>
   &nbsp;·&nbsp; ⭐ 0
@@ -1218,7 +1218,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [build(deps): bump the python group across 1 directory with 4 updates](https://github.com/mchittineni/sprocketry/commit/ba12a611f48af4fd729eb315771b66e3b4a89267) |
 | **Commit date** | `2026-10-30` |
 | **Author** | `dependabot[bot]` |
-| **Repo updated** | `2026-11-02` (2 days ago) |
+| **Repo updated** | `2026-11-02` (3 days ago) |
 | **License** | `MIT License` |
 | **Languages** | 🏗️ `HCL` · 🔷 `TypeScript` · ☕ `Java` · 🐚 `Shell` · 🦀 `Rust` |
 | **Topics** | `aks` · `argocd` · `azure` · `dapr` · `devops` · `kubernetes` |
