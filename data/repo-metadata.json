@@ -9,10 +9,10 @@
   },
   {
     "repo": "ultimate-ai-engineering-guide",
-    "stars": 28,
+    "stars": 29,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-11-03T07:08:49Z",
+    "lastUpdated": "2026-11-06T04:15:50Z",
     "lastCommit": "d8a760e11a31bbe7843a690db601319f1a328144"
   },
   {
@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-11-05T04:05:25Z",
-    "lastCommit": "f729ee8712f9d8f6973239e060a9ecdc0768bc5c"
+    "lastUpdated": "2026-11-06T04:02:12Z",
+    "lastCommit": "4250fc8e180806ceed01ed3a3f22c5f3bef435b7"
   },
   {
     "repo": "iacsecbench",
@@ -100,8 +100,8 @@
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-11-05T05:52:22Z",
-    "lastCommit": "3ca0ac4f405440b9110b77305182c231c00ed46f"
+    "lastUpdated": "2026-11-05T19:42:59Z",
+    "lastCommit": "b852aeb8b1f77840fa36824b1fe704760b091618"
   },
   {
     "repo": "uk-river-flow",
