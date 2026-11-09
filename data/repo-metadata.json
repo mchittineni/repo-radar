@@ -1,18 +1,18 @@
 [
   {
     "repo": "ultimate-devops-guide",
-    "stars": 53,
+    "stars": 54,
     "forks": 23,
     "issues": 0,
-    "lastUpdated": "2026-11-06T18:54:28Z",
+    "lastUpdated": "2026-11-09T13:09:12Z",
     "lastCommit": "53650c60050431dfe78ae2ef0b2630d6ebe7e4bd"
   },
   {
     "repo": "ultimate-ai-engineering-guide",
-    "stars": 29,
+    "stars": 30,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-11-06T04:15:50Z",
+    "lastUpdated": "2026-11-09T18:43:00Z",
     "lastCommit": "d8a760e11a31bbe7843a690db601319f1a328144"
   },
   {
@@ -28,8 +28,8 @@
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-11-09T03:31:55Z",
-    "lastCommit": "dc57d1724f6b064c633ac015a19eecb9168f7732"
+    "lastUpdated": "2026-11-09T21:43:16Z",
+    "lastCommit": "d13969f82777f285686042c058c9e4e74050b4d1"
   },
   {
     "repo": "india-village-finder",
@@ -54,6 +54,14 @@
     "issues": 0,
     "lastUpdated": "2026-11-04T09:21:43Z",
     "lastCommit": "dbe012dd657bd8f35365bf812dfc791dfe120909"
+  },
+  {
+    "repo": "fde-from-scratch",
+    "stars": 2,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-11-09T14:54:27Z",
+    "lastCommit": "d1bcd69c923c3b77dd04e2be4ce08e37f0156684"
   },
   {
     "repo": "Terraform-Scripts",
@@ -96,6 +104,14 @@
     "lastCommit": "e1fc8361de849ca690219b691ecd63e1a49a7fc0"
   },
   {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-11-09T05:29:00Z",
+    "lastCommit": "1f981f702734a9a6284c55b32a78f037e7249aae"
+  },
+  {
     "repo": "uk-river-flow",
     "stars": 1,
     "forks": 0,
@@ -110,14 +126,6 @@
     "issues": 1,
     "lastUpdated": "2026-11-02T10:46:23Z",
     "lastCommit": "9c4dc7f4e5a4cc93114cca0573513ce73f0ea3fe"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-11-08T17:46:56Z",
-    "lastCommit": "9c9c87eb4523649896b27be457ae858383a09128"
   },
   {
     "repo": "aws-platform-engineering-lab",
@@ -150,14 +158,6 @@
     "issues": 4,
     "lastUpdated": "2026-10-27T12:00:22Z",
     "lastCommit": "be347922a8309cd3beb23446effe4bef6114cc55"
-  },
-  {
-    "repo": "fde-from-scratch",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-30T13:48:03Z",
-    "lastCommit": "d1bcd69c923c3b77dd04e2be4ce08e37f0156684"
   },
   {
     "repo": "mutual-fund-analysis-tracker",
