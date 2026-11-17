@@ -29,7 +29,7 @@
     "forks": 1,
     "issues": 0,
     "lastUpdated": "2026-11-12T04:46:57Z",
-    "lastCommit": "ca5ccf6ffee10e4847e5b5ed6c59d53be2c71ed3"
+    "lastCommit": "42572056412231d9e2fdeb302693d8bf567e9ac7"
   },
   {
     "repo": "india-village-finder",
@@ -104,6 +104,14 @@
     "lastCommit": "e1fc8361de849ca690219b691ecd63e1a49a7fc0"
   },
   {
+    "repo": "repo-radar",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-11-12T07:30:27Z",
+    "lastCommit": "cdfc4e067cc0a71e375d244707e99181f49b239a"
+  },
+  {
     "repo": "aws-platform-engineering-lab",
     "stars": 1,
     "forks": 0,
@@ -126,14 +134,6 @@
     "issues": 0,
     "lastUpdated": "2026-11-02T10:46:11Z",
     "lastCommit": "da7804e7341c69d63ab6b7f9ffb0945c5811dedf"
-  },
-  {
-    "repo": "repo-radar",
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-11-12T07:30:27Z",
-    "lastCommit": "2fc1a2c741956e2fddedb3f077a8a5c1cd15b4b1"
   },
   {
     "repo": "uk-river-flow",

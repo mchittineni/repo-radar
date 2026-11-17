@@ -1,6 +1,6 @@
 {
   "owner": "mchittineni",
-  "generated_at": "2026-11-16T21:47:27Z",
+  "generated_at": "2026-11-17T07:14:29Z",
   "repositories": [
     "ultimate-devops-guide",
     "ultimate-ai-engineering-guide",
@@ -15,10 +15,10 @@
     "mchittineni-portfolio",
     "eks-terraform",
     "sports-monitor",
+    "repo-radar",
     "aws-platform-engineering-lab",
     "certops",
     "cloud-platform-skills",
-    "repo-radar",
     "uk-river-flow",
     "homebrew-tap",
     "edge-content-engine",
