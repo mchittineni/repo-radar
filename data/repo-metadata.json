@@ -1,10 +1,10 @@
 [
   {
     "repo": "ultimate-devops-guide",
-    "stars": 56,
+    "stars": 57,
     "forks": 24,
     "issues": 0,
-    "lastUpdated": "2026-11-16T06:41:51Z",
+    "lastUpdated": "2026-11-18T15:43:10Z",
     "lastCommit": "53650c60050431dfe78ae2ef0b2630d6ebe7e4bd"
   },
   {
@@ -58,7 +58,7 @@
   {
     "repo": "fde-from-scratch",
     "stars": 2,
-    "forks": 0,
+    "forks": 1,
     "issues": 0,
     "lastUpdated": "2026-11-09T14:54:27Z",
     "lastCommit": "d1bcd69c923c3b77dd04e2be4ce08e37f0156684"
@@ -109,7 +109,7 @@
     "forks": 0,
     "issues": 0,
     "lastUpdated": "2026-11-12T07:30:27Z",
-    "lastCommit": "78a0f343e142e8fa34f29c0a8167e2d5d580245b"
+    "lastCommit": "4c3a3dd2b03e7c9b40702da841778cb1d463beea"
   },
   {
     "repo": "aws-platform-engineering-lab",
