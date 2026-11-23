@@ -6,7 +6,7 @@
 
 Every repository, star, commit, and CI result — refreshed automatically by GitHub Actions. 🤖
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--22%2019%3A14%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23%2006%3A39%20UTC-blue?style=flat-square)
 ![Repositories](https://img.shields.io/badge/Repositories-28-6f42c1?style=flat-square)
 ![Stars](https://img.shields.io/badge/Stars-129-f1c40f?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-2ea44f?style=flat-square)
@@ -29,7 +29,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | 📦 Repos | ⭐ Stars | 🍴 Forks | 🐛 Open issues | 🧠 Languages | ✅ CI green | 🔥 Active now |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| **28** | **129** | **43** | **11** | **21** | **24/28** | **0** |
+| **28** | **129** | **43** | **14** | **21** | **23/28** | **0** |
 
 ## 🏆 Star leaderboard
 
@@ -45,10 +45,10 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 - ✨ **[ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide)** · 4 days ago · [ci: bump the github-actions group with 5 updates](https://github.com/mchittineni/ultimate-devops-guide/commit/53650c60050431dfe78ae2ef0b2630d6ebe7e4bd)
 - ✨ **[ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide)** · 6 days ago · [Merge pull request #6 from mchittineni/docs/readme-badges](https://github.com/mchittineni/ultimate-ai-engineering-guide/commit/d8a760e11a31bbe7843a690db601319f1a328144)
-- ✨ **[repo-radar](https://github.com/mchittineni/repo-radar)** · 1 week ago · [fix(git-tracker): auto-updated project status with latest...](https://github.com/mchittineni/repo-radar/commit/89b69daf39d288da8296668d554b903333b21cb7)
-- ✨ **[mchittineni](https://github.com/mchittineni/mchittineni)** · 1 week ago · [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/34ca39aad1af148f75afaedd88f2b809d305da6a)
+- ✨ **[repo-radar](https://github.com/mchittineni/repo-radar)** · 1 week ago · [fix(git-tracker): auto-updated project status with latest...](https://github.com/mchittineni/repo-radar/commit/278b175aca0484c02e6473345ae94ee5adc0dc0e)
+- ✨ **[mchittineni](https://github.com/mchittineni/mchittineni)** · 1 week ago · [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/439f10533335febdfd6d6ff0fcc0ef99aa1d89e6)
 - ✨ **[fde-from-scratch](https://github.com/mchittineni/fde-from-scratch)** · 1 week ago · [test: cover guides, csp, no-js fallback and dev server](https://github.com/mchittineni/fde-from-scratch/commit/d1bcd69c923c3b77dd04e2be4ce08e37f0156684)
-- ✨ **[aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab)** · 2 weeks ago · [ci: bump bridgecrewio/checkov-action (#97)](https://github.com/mchittineni/aws-platform-engineering-lab/commit/17bfdbfe87368a8f656d3422c3a9331713f38c00)
+- 🌱 **[aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab)** · 2 weeks ago · [ci: bump bridgecrewio/checkov-action (#97)](https://github.com/mchittineni/aws-platform-engineering-lab/commit/17bfdbfe87368a8f656d3422c3a9331713f38c00)
 
 ## 🧬 Language mix
 
@@ -100,7 +100,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| ✨ [aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab) | 254.3 KB | ⭐ 1 | 2 weeks ago |
+| 🌱 [aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab) | 254.3 KB | ⭐ 1 | 2 weeks ago |
 | 🌱 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 212.5 KB | ⭐ 2 | 2 weeks ago |
 | 🌱 [sprocketry](https://github.com/mchittineni/sprocketry) | 137.6 KB | ⭐ 0 | 2 weeks ago |
 | 🌱 [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 66.4 KB | ⭐ 2 | 3 weeks ago |
@@ -212,7 +212,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | 🌱 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 10.1 KB | ⭐ 2 | 2 weeks ago |
 | 🌱 [sprocketry](https://github.com/mchittineni/sprocketry) | 8.4 KB | ⭐ 0 | 2 weeks ago |
 | 🌱 [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 5.6 KB | ⭐ 1 | 2 weeks ago |
-| ✨ [aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab) | 5.1 KB | ⭐ 1 | 2 weeks ago |
+| 🌱 [aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab) | 5.1 KB | ⭐ 1 | 2 weeks ago |
 | 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 3.6 KB | ⭐ 1 | 3 weeks ago |
 
 </details>
@@ -329,11 +329,11 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | 11 | 🌱 [mchittineni-portfolio](https://github.com/mchittineni/mchittineni-portfolio) | 2 | 0 | 0 | ✅ pass | 3 weeks ago |
 | 12 | 🌱 [eks-terraform](https://github.com/mchittineni/eks-terraform) | 2 | 1 | 0 | ✅ pass | 3 weeks ago |
 | 13 | 🌱 [sports-monitor](https://github.com/mchittineni/sports-monitor) | 2 | 0 | 0 | ✅ pass | 3 weeks ago |
-| 14 | ✨ [repo-radar](https://github.com/mchittineni/repo-radar) | 1 | 0 | 0 | 🔄 running | 1 week ago |
-| 15 | ✨ [aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab) | 1 | 0 | 1 | 🔄 running | 2 weeks ago |
-| 16 | 🌱 [certops](https://github.com/mchittineni/certops) | 1 | 0 | 0 | ✅ pass | 2 weeks ago |
-| 17 | 🌱 [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 1 | 2 | 0 | ✅ pass | 2 weeks ago |
-| 18 | 🌱 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 1 | 0 | 4 | ✅ pass | 2 weeks ago |
+| 14 | 🌱 [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 1 | 2 | 2 | ✅ pass | 2 weeks ago |
+| 15 | 🌱 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 1 | 0 | 4 | ❌ fail | 2 weeks ago |
+| 16 | 🌱 [certops](https://github.com/mchittineni/certops) | 1 | 0 | 1 | ✅ pass | 2 weeks ago |
+| 17 | ✨ [repo-radar](https://github.com/mchittineni/repo-radar) | 1 | 0 | 0 | 🔄 running | 1 week ago |
+| 18 | 🌱 [aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab) | 1 | 0 | 1 | 🔄 running | 2 weeks ago |
 | 19 | 🌱 [homebrew-tap](https://github.com/mchittineni/homebrew-tap) | 1 | 0 | 0 | ❌ fail | 2 weeks ago |
 | 20 | 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 1 | 1 | 4 | ✅ pass | 3 weeks ago |
 | 21 | 🌱 [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 1 | 1 | 0 | ✅ pass | 3 weeks ago |
@@ -466,8 +466,8 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | | |
 |---|---|
-| **Latest commit** | [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/34ca39aad1af148f75afaedd88f2b809d305da6a) |
-| **Commit date** | `2026-11-22` |
+| **Latest commit** | [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/439f10533335febdfd6d6ff0fcc0ef99aa1d89e6) |
+| **Commit date** | `2026-11-23` |
 | **Author** | `github-actions[bot]` |
 | **Repo updated** | `2026-11-12` (1 week ago) |
 | **License** | `MIT License` |
@@ -774,103 +774,6 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 </details>
 
-<!-- repo:repo-radar -->
-<details>
-<summary>
-  ✨
-  <strong><a href="https://github.com/mchittineni/repo-radar">Repo Radar</a></strong>
-  &nbsp;<sub><code>repo-radar</code></sub> &nbsp;·&nbsp; <code>Active build</code>
-  &nbsp;·&nbsp; ⭐ 1
-  &nbsp;·&nbsp; 🍴 0
-  &nbsp;·&nbsp; CI 🔄 running
-  <br><sub>This tracker: discovers every repository the account owns and renders stars, CI status, commits, activity and language mix straight into README.md on a schedule.</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/mchittineni/repo-radar?style=flat-square)
-![Forks](https://img.shields.io/github/forks/mchittineni/repo-radar?style=flat-square)
-![Issues](https://img.shields.io/github/issues/mchittineni/repo-radar?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/mchittineni/repo-radar?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [fix(git-tracker): auto-updated project status with latest changes [skip ci]](https://github.com/mchittineni/repo-radar/commit/89b69daf39d288da8296668d554b903333b21cb7) |
-| **Commit date** | `2026-11-22` |
-| **Author** | `github-actions[bot]` |
-| **Repo updated** | `2026-11-12` (1 week ago) |
-| **License** | `MIT License` |
-| **Languages** | 🐍 `Python` · 🐚 `Shell` |
-| **Topics** | `automation` · `dashboard` · `developer-tools` · `devops-tools` · `github-actions` · `github-api` |
-| **Tech stack** | `Python` · `GitHub Actions` · `GitHub API` · `Markdown` |
-
-<a href="https://github.com/mchittineni/repo-radar">Open repository →</a>
-
-</details>
-
-<!-- repo:aws-platform-engineering-lab -->
-<details>
-<summary>
-  ✨
-  <strong><a href="https://github.com/mchittineni/aws-platform-engineering-lab">aws-platform-engineering-lab</a></strong>
-  &nbsp;<sub><code>aws-platform-engineering-lab</code></sub>
-  &nbsp;·&nbsp; ⭐ 1
-  &nbsp;·&nbsp; 🍴 0
-  &nbsp;·&nbsp; CI 🔄 running
-  <br><sub>A production-shaped AWS platform built entirely as code: EKS across three AZs, GitOps delivery, an enforced account security baseline, and…</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/mchittineni/aws-platform-engineering-lab?style=flat-square)
-![Forks](https://img.shields.io/github/forks/mchittineni/aws-platform-engineering-lab?style=flat-square)
-![Issues](https://img.shields.io/github/issues/mchittineni/aws-platform-engineering-lab?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/mchittineni/aws-platform-engineering-lab?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [ci: bump bridgecrewio/checkov-action (#97)](https://github.com/mchittineni/aws-platform-engineering-lab/commit/17bfdbfe87368a8f656d3422c3a9331713f38c00) |
-| **Commit date** | `2026-11-22` |
-| **Author** | `dependabot[bot]` |
-| **Repo updated** | `2026-11-08` (2 weeks ago) |
-| **License** | `MIT License` |
-| **Languages** | 🏗️ `HCL` · 🔨 `Makefile` |
-| **Topics** | _None_ |
-
-<a href="https://github.com/mchittineni/aws-platform-engineering-lab">Open repository →</a>
-
-</details>
-
-<!-- repo:certops -->
-<details>
-<summary>
-  🌱
-  <strong><a href="https://github.com/mchittineni/certops">certops</a></strong>
-  &nbsp;<sub><code>certops</code></sub>
-  &nbsp;·&nbsp; ⭐ 1
-  &nbsp;·&nbsp; 🍴 0
-  &nbsp;·&nbsp; CI ✅ pass
-  <br><sub>Certification practice for cloud, DevOps, Kubernetes, platform, FinOps, and security engineers. exam simulation, adaptive difficulty, and…</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/mchittineni/certops?style=flat-square)
-![Forks](https://img.shields.io/github/forks/mchittineni/certops?style=flat-square)
-![Issues](https://img.shields.io/github/issues/mchittineni/certops?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/mchittineni/certops?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [chore(deps): bump the dev-tooling group across 1 directory with 3 updates](https://github.com/mchittineni/certops/commit/eeaea96354b3508c1196fe5e2a21b8d9206116d3) |
-| **Commit date** | `2026-11-16` |
-| **Author** | `dependabot[bot]` |
-| **Repo updated** | `2026-11-02` (2 weeks ago) |
-| **License** | `Other` |
-| **Languages** | 🟨 `JavaScript` · 🎨 `CSS` · 🌐 `HTML` |
-| **Topics** | `aws` · `aws-solutions-architect` · `azure` · `azure-administrator` · `certifications` · `cka` |
-
-<a href="https://github.com/mchittineni/certops">Open repository →</a>
-
-</details>
-
 <!-- repo:cloud-platform-skills -->
 <details>
 <summary>
@@ -912,7 +815,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
   &nbsp;<sub><code>uk-river-flow</code></sub>
   &nbsp;·&nbsp; ⭐ 1
   &nbsp;·&nbsp; 🍴 0
-  &nbsp;·&nbsp; CI ✅ pass
+  &nbsp;·&nbsp; CI ❌ fail
   <br><sub>Interactive map of river discharge across the UK, built entirely from Environment Agency open data. No API keys, no accounts, no server…</sub>
 </summary>
 <br>
@@ -933,6 +836,103 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Topics** | `data-visualization` · `environment-agency` · `geojson` · `github-actions` · `hydrology` · `interactive-map` |
 
 <a href="https://github.com/mchittineni/uk-river-flow">Open repository →</a>
+
+</details>
+
+<!-- repo:certops -->
+<details>
+<summary>
+  🌱
+  <strong><a href="https://github.com/mchittineni/certops">certops</a></strong>
+  &nbsp;<sub><code>certops</code></sub>
+  &nbsp;·&nbsp; ⭐ 1
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI ✅ pass
+  <br><sub>Certification practice for cloud, DevOps, Kubernetes, platform, FinOps, and security engineers. exam simulation, adaptive difficulty, and…</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/mchittineni/certops?style=flat-square)
+![Forks](https://img.shields.io/github/forks/mchittineni/certops?style=flat-square)
+![Issues](https://img.shields.io/github/issues/mchittineni/certops?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/mchittineni/certops?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [chore(deps): bump the dev-tooling group across 1 directory with 3 updates](https://github.com/mchittineni/certops/commit/eeaea96354b3508c1196fe5e2a21b8d9206116d3) |
+| **Commit date** | `2026-11-16` |
+| **Author** | `dependabot[bot]` |
+| **Repo updated** | `2026-11-02` (2 weeks ago) |
+| **License** | `Other` |
+| **Languages** | 🟨 `JavaScript` · 🎨 `CSS` · 🌐 `HTML` |
+| **Topics** | `aws` · `aws-solutions-architect` · `azure` · `azure-administrator` · `certifications` · `cka` |
+
+<a href="https://github.com/mchittineni/certops">Open repository →</a>
+
+</details>
+
+<!-- repo:repo-radar -->
+<details>
+<summary>
+  ✨
+  <strong><a href="https://github.com/mchittineni/repo-radar">Repo Radar</a></strong>
+  &nbsp;<sub><code>repo-radar</code></sub> &nbsp;·&nbsp; <code>Active build</code>
+  &nbsp;·&nbsp; ⭐ 1
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI 🔄 running
+  <br><sub>This tracker: discovers every repository the account owns and renders stars, CI status, commits, activity and language mix straight into README.md on a schedule.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/mchittineni/repo-radar?style=flat-square)
+![Forks](https://img.shields.io/github/forks/mchittineni/repo-radar?style=flat-square)
+![Issues](https://img.shields.io/github/issues/mchittineni/repo-radar?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/mchittineni/repo-radar?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [fix(git-tracker): auto-updated project status with latest changes [skip ci]](https://github.com/mchittineni/repo-radar/commit/278b175aca0484c02e6473345ae94ee5adc0dc0e) |
+| **Commit date** | `2026-11-22` |
+| **Author** | `github-actions[bot]` |
+| **Repo updated** | `2026-11-12` (1 week ago) |
+| **License** | `MIT License` |
+| **Languages** | 🐍 `Python` · 🐚 `Shell` |
+| **Topics** | `automation` · `dashboard` · `developer-tools` · `devops-tools` · `github-actions` · `github-api` |
+| **Tech stack** | `Python` · `GitHub Actions` · `GitHub API` · `Markdown` |
+
+<a href="https://github.com/mchittineni/repo-radar">Open repository →</a>
+
+</details>
+
+<!-- repo:aws-platform-engineering-lab -->
+<details>
+<summary>
+  🌱
+  <strong><a href="https://github.com/mchittineni/aws-platform-engineering-lab">aws-platform-engineering-lab</a></strong>
+  &nbsp;<sub><code>aws-platform-engineering-lab</code></sub>
+  &nbsp;·&nbsp; ⭐ 1
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI 🔄 running
+  <br><sub>A production-shaped AWS platform built entirely as code: EKS across three AZs, GitOps delivery, an enforced account security baseline, and…</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/mchittineni/aws-platform-engineering-lab?style=flat-square)
+![Forks](https://img.shields.io/github/forks/mchittineni/aws-platform-engineering-lab?style=flat-square)
+![Issues](https://img.shields.io/github/issues/mchittineni/aws-platform-engineering-lab?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/mchittineni/aws-platform-engineering-lab?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [ci: bump bridgecrewio/checkov-action (#97)](https://github.com/mchittineni/aws-platform-engineering-lab/commit/17bfdbfe87368a8f656d3422c3a9331713f38c00) |
+| **Commit date** | `2026-11-22` |
+| **Author** | `dependabot[bot]` |
+| **Repo updated** | `2026-11-08` (2 weeks ago) |
+| **License** | `MIT License` |
+| **Languages** | 🏗️ `HCL` · 🔨 `Makefile` |
+| **Topics** | _None_ |
+
+<a href="https://github.com/mchittineni/aws-platform-engineering-lab">Open repository →</a>
 
 </details>
 
