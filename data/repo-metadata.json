@@ -32,6 +32,14 @@
     "lastCommit": "d50fede0faa00e1433a91d1f935a0203eeb34003"
   },
   {
+    "repo": "fde-from-scratch",
+    "stars": 3,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2026-11-26T16:07:34Z",
+    "lastCommit": "d1bcd69c923c3b77dd04e2be4ce08e37f0156684"
+  },
+  {
     "repo": "india-village-finder",
     "stars": 2,
     "forks": 1,
@@ -54,14 +62,6 @@
     "issues": 0,
     "lastUpdated": "2026-11-04T09:21:43Z",
     "lastCommit": "dbe012dd657bd8f35365bf812dfc791dfe120909"
-  },
-  {
-    "repo": "fde-from-scratch",
-    "stars": 2,
-    "forks": 1,
-    "issues": 0,
-    "lastUpdated": "2026-11-09T14:54:27Z",
-    "lastCommit": "d1bcd69c923c3b77dd04e2be4ce08e37f0156684"
   },
   {
     "repo": "Terraform-Scripts",
@@ -109,7 +109,7 @@
     "forks": 0,
     "issues": 0,
     "lastUpdated": "2026-11-12T07:30:27Z",
-    "lastCommit": "dc65c250913e19be1c8fdee435fc3356727b9a72"
+    "lastCommit": "c385f0970c3b2ccb91975d98d1ad5b9ff30cf812"
   },
   {
     "repo": "certops",
