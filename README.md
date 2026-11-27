@@ -6,7 +6,7 @@
 
 Every repository, star, commit, and CI result — refreshed automatically by GitHub Actions. 🤖
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27%2007%3A31%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27%2020%3A53%20UTC-blue?style=flat-square)
 ![Repositories](https://img.shields.io/badge/Repositories-28-6f42c1?style=flat-square)
 ![Stars](https://img.shields.io/badge/Stars-131-f1c40f?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-2ea44f?style=flat-square)
@@ -43,10 +43,10 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 ## ⏱️ Freshly pushed
 
-- 🔥 **[fde-from-scratch](https://github.com/mchittineni/fde-from-scratch)** · 15 hours ago · [test: cover guides, csp, no-js fallback and dev server](https://github.com/mchittineni/fde-from-scratch/commit/d1bcd69c923c3b77dd04e2be4ce08e37f0156684)
-- 🔥 **[ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide)** · yesterday · [Merge pull request #6 from mchittineni/docs/readme-badges](https://github.com/mchittineni/ultimate-ai-engineering-guide/commit/d8a760e11a31bbe7843a690db601319f1a328144)
-- ✨ **[ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide)** · 3 days ago · [docs(readme): describe globe layout](https://github.com/mchittineni/ultimate-devops-guide/commit/d6b82704de8a3d00edb714ea4638378a2e6d70ea)
-- 🌱 **[repo-radar](https://github.com/mchittineni/repo-radar)** · 2 weeks ago · [fix(git-tracker): auto-updated project status with latest...](https://github.com/mchittineni/repo-radar/commit/07efc33a0c3021824c4005f1f1bdcdbbc0e96e18)
+- 🔥 **[fde-from-scratch](https://github.com/mchittineni/fde-from-scratch)** · yesterday · [test: cover guides, csp, no-js fallback and dev server](https://github.com/mchittineni/fde-from-scratch/commit/d1bcd69c923c3b77dd04e2be4ce08e37f0156684)
+- 🔥 **[ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide)** · 2 days ago · [Merge pull request #6 from mchittineni/docs/readme-badges](https://github.com/mchittineni/ultimate-ai-engineering-guide/commit/d8a760e11a31bbe7843a690db601319f1a328144)
+- ✨ **[ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide)** · 4 days ago · [docs(readme): describe globe layout](https://github.com/mchittineni/ultimate-devops-guide/commit/d6b82704de8a3d00edb714ea4638378a2e6d70ea)
+- 🌱 **[repo-radar](https://github.com/mchittineni/repo-radar)** · 2 weeks ago · [fix(git-tracker): auto-updated project status with latest...](https://github.com/mchittineni/repo-radar/commit/398ec8da7cef34542cfaf5f0a34920e5f94faf9d)
 - 🌱 **[mchittineni](https://github.com/mchittineni/mchittineni)** · 2 weeks ago · [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/0af50d033a090464b8cc380cbc9c146aabccd7a2)
 - 🌱 **[aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab)** · 2 weeks ago · [ci: bump bridgecrewio/checkov-action (#97)](https://github.com/mchittineni/aws-platform-engineering-lab/commit/17bfdbfe87368a8f656d3422c3a9331713f38c00)
 
@@ -60,7 +60,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
 | 🌱 [certops](https://github.com/mchittineni/certops) | 47.5 MB | ⭐ 1 | 3 weeks ago |
-| 🔥 [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 424.7 KB | ⭐ 3 | 15 hours ago |
+| 🔥 [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 424.7 KB | ⭐ 3 | yesterday |
 | 🌱 [india-village-finder](https://github.com/mchittineni/india-village-finder) | 407.3 KB | ⭐ 2 | 1 month ago |
 | 🌱 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 382.3 KB | ⭐ 2 | 3 weeks ago |
 | 🌱 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 96.9 KB | ⭐ 1 | 3 weeks ago |
@@ -81,12 +81,12 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | 🌱 [mutual-fund-analysis-tracker](https://github.com/mchittineni/mutual-fund-analysis-tracker) | 385.7 KB | ⭐ 1 | 1 month ago |
 | 🌱 [india-village-finder](https://github.com/mchittineni/india-village-finder) | 211.3 KB | ⭐ 2 | 1 month ago |
 | 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 137.6 KB | ⭐ 1 | 1 month ago |
-| ✨ [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) | 123.7 KB | ⭐ 57 | 3 days ago |
+| ✨ [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) | 123.7 KB | ⭐ 57 | 4 days ago |
 | 🌱 [cloud-platform-skills](https://github.com/mchittineni/cloud-platform-skills) | 122.8 KB | ⭐ 1 | 3 weeks ago |
 | 🌱 [bengaluru-traffic](https://github.com/mchittineni/bengaluru-traffic) | 100.3 KB | ⭐ 0 | 3 weeks ago |
 | 🌱 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 87.4 KB | ⭐ 1 | 3 weeks ago |
-| 🌱 [ultimate-platform-engineering-guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) | 81.1 KB | ⭐ 6 | 3 weeks ago |
-| 🔥 [ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide) | 76.3 KB | ⭐ 33 | yesterday |
+| 🌱 [ultimate-platform-engineering-guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) | 81.1 KB | ⭐ 6 | 4 weeks ago |
+| 🔥 [ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide) | 76.3 KB | ⭐ 33 | 2 days ago |
 | 🌱 [ai-job-serve](https://github.com/mchittineni/ai-job-serve) | 71.1 KB | ⭐ 2 | 1 month ago |
 | 🌱 [repo-radar](https://github.com/mchittineni/repo-radar) | 52.0 KB | ⭐ 1 | 2 weeks ago |
 | 🌱 [community-tic-tac-toe](https://github.com/mchittineni/community-tic-tac-toe) | 17.4 KB | ⭐ 0 | 1 month ago |
@@ -137,7 +137,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | 🌱 [bengaluru-traffic](https://github.com/mchittineni/bengaluru-traffic) | 10.5 KB | ⭐ 0 | 3 weeks ago |
 | 🌱 [edge-content-engine](https://github.com/mchittineni/edge-content-engine) | 10.4 KB | ⭐ 1 | 1 month ago |
 | 🌱 [uk-river-flow](https://github.com/mchittineni/uk-river-flow) | 7.5 KB | ⭐ 1 | 3 weeks ago |
-| 🔥 [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 3.4 KB | ⭐ 3 | 15 hours ago |
+| 🔥 [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 3.4 KB | ⭐ 3 | yesterday |
 | 🌱 [certops](https://github.com/mchittineni/certops) | 1.8 KB | ⭐ 1 | 3 weeks ago |
 | 🌱 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 1.1 KB | ⭐ 2 | 3 weeks ago |
 
@@ -148,7 +148,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | Repository | Code | Stars | Updated |
 |------------|-----:|------:|---------|
-| 🔥 [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 69.1 KB | ⭐ 3 | 15 hours ago |
+| 🔥 [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 69.1 KB | ⭐ 3 | yesterday |
 | 🌱 [certops](https://github.com/mchittineni/certops) | 55.2 KB | ⭐ 1 | 3 weeks ago |
 | 🌱 [india-village-finder](https://github.com/mchittineni/india-village-finder) | 28.8 KB | ⭐ 2 | 1 month ago |
 | 🌱 [sprocketry](https://github.com/mchittineni/sprocketry) | 22.7 KB | ⭐ 0 | 3 weeks ago |
@@ -316,11 +316,11 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | # | Repository | ⭐ | 🍴 | 🐛 | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 🥇 | ✨ [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) | 57 | 25 | 0 | ✅ pass | 3 days ago |
-| 🥈 | 🔥 [ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide) | 33 | 6 | 0 | ✅ pass | yesterday |
-| 🥉 | 🌱 [ultimate-platform-engineering-guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) | 6 | 2 | 0 | ✅ pass | 3 weeks ago |
+| 🥇 | ✨ [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) | 57 | 25 | 0 | ✅ pass | 4 days ago |
+| 🥈 | 🔥 [ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide) | 33 | 6 | 0 | ✅ pass | 2 days ago |
+| 🥉 | 🌱 [ultimate-platform-engineering-guide](https://github.com/mchittineni/ultimate-platform-engineering-guide) | 6 | 2 | 0 | ✅ pass | 4 weeks ago |
 | 4 | 🌱 [mchittineni](https://github.com/mchittineni/mchittineni) | 4 | 1 | 0 | ✅ pass | 2 weeks ago |
-| 5 | 🔥 [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 3 | 1 | 0 | ❌ fail | 15 hours ago |
+| 5 | 🔥 [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 3 | 1 | 0 | ❌ fail | yesterday |
 | 6 | 🌱 [india-village-finder](https://github.com/mchittineni/india-village-finder) | 2 | 1 | 0 | ✅ pass | 1 month ago |
 | 7 | 🌱 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 2 | 1 | 0 | ✅ pass | 3 weeks ago |
 | 8 | 🌱 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 2 | 1 | 0 | ✅ pass | 3 weeks ago |
@@ -370,7 +370,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [docs(readme): describe globe layout](https://github.com/mchittineni/ultimate-devops-guide/commit/d6b82704de8a3d00edb714ea4638378a2e6d70ea) |
 | **Commit date** | `2026-11-23` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-11-23` (3 days ago) |
+| **Repo updated** | `2026-11-23` (4 days ago) |
 | **License** | `MIT License` |
 | **Languages** | 🐍 `Python` |
 | **Topics** | `aws` · `azure` · `cicd` · `cloud-engineering` · `devops` · `devops-interview-questions` |
@@ -403,7 +403,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [Merge pull request #6 from mchittineni/docs/readme-badges](https://github.com/mchittineni/ultimate-ai-engineering-guide/commit/d8a760e11a31bbe7843a690db601319f1a328144) |
 | **Commit date** | `2026-10-27` |
 | **Author** | `Manideep Chittineni` |
-| **Repo updated** | `2026-11-25` (yesterday) |
+| **Repo updated** | `2026-11-25` (2 days ago) |
 | **License** | `MIT License` |
 | **Languages** | 🐍 `Python` |
 | **Topics** | `agentic-ai` · `ai-engineering` · `ai-platform` · `ai-systems-architect` · `forward-deployed-engineer` · `generative-ai` |
@@ -436,7 +436,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [docs(readme): correct difficulty badge counts](https://github.com/mchittineni/ultimate-platform-engineering-guide/commit/9b9e6f5b429e26bb0bba4cb17ff118cd9af17eb5) |
 | **Commit date** | `2026-10-30` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-10-30` (3 weeks ago) |
+| **Repo updated** | `2026-10-30` (4 weeks ago) |
 | **License** | `MIT License` |
 | **Languages** | 🐍 `Python` |
 | **Topics** | `argocd` · `aws` · `azure` · `backstage` · `crossplane` · `developer-experience` |
@@ -502,7 +502,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | **Latest commit** | [test: cover guides, csp, no-js fallback and dev server](https://github.com/mchittineni/fde-from-scratch/commit/d1bcd69c923c3b77dd04e2be4ce08e37f0156684) |
 | **Commit date** | `2026-10-30` |
 | **Author** | `mchittineni` |
-| **Repo updated** | `2026-11-26` (15 hours ago) |
+| **Repo updated** | `2026-11-26` (yesterday) |
 | **License** | `MIT License` |
 | **Languages** | 🟨 `JavaScript` · 🎨 `CSS` · 🌐 `HTML` |
 | **Topics** | `applied-ai` · `career-development` · `data-engineering` · `education` · `fde` · `field-engineering` |
@@ -794,8 +794,8 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | | |
 |---|---|
-| **Latest commit** | [fix(git-tracker): auto-updated project status with latest changes [skip ci]](https://github.com/mchittineni/repo-radar/commit/07efc33a0c3021824c4005f1f1bdcdbbc0e96e18) |
-| **Commit date** | `2026-11-26` |
+| **Latest commit** | [fix(git-tracker): auto-updated project status with latest changes [skip ci]](https://github.com/mchittineni/repo-radar/commit/398ec8da7cef34542cfaf5f0a34920e5f94faf9d) |
+| **Commit date** | `2026-11-27` |
 | **Author** | `github-actions[bot]` |
 | **Repo updated** | `2026-11-12` (2 weeks ago) |
 | **License** | `MIT License` |
