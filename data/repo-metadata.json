@@ -2,7 +2,7 @@
   {
     "repo": "ultimate-devops-guide",
     "stars": 57,
-    "forks": 24,
+    "forks": 25,
     "issues": 0,
     "lastUpdated": "2026-11-23T12:16:00Z",
     "lastCommit": "d6b82704de8a3d00edb714ea4638378a2e6d70ea"
@@ -29,7 +29,7 @@
     "forks": 1,
     "issues": 0,
     "lastUpdated": "2026-11-12T04:46:57Z",
-    "lastCommit": "d50fede0faa00e1433a91d1f935a0203eeb34003"
+    "lastCommit": "0af50d033a090464b8cc380cbc9c146aabccd7a2"
   },
   {
     "repo": "fde-from-scratch",
@@ -109,7 +109,7 @@
     "forks": 0,
     "issues": 0,
     "lastUpdated": "2026-11-12T07:30:27Z",
-    "lastCommit": "c385f0970c3b2ccb91975d98d1ad5b9ff30cf812"
+    "lastCommit": "07efc33a0c3021824c4005f1f1bdcdbbc0e96e18"
   },
   {
     "repo": "certops",
