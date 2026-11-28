@@ -6,7 +6,7 @@
 
 Every repository, star, commit, and CI result — refreshed automatically by GitHub Actions. 🤖
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27%2020%3A53%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--28%2007%3A00%20UTC-blue?style=flat-square)
 ![Repositories](https://img.shields.io/badge/Repositories-28-6f42c1?style=flat-square)
 ![Stars](https://img.shields.io/badge/Stars-131-f1c40f?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-2ea44f?style=flat-square)
@@ -29,7 +29,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | 📦 Repos | ⭐ Stars | 🍴 Forks | 🐛 Open issues | 🧠 Languages | ✅ CI green | 🔥 Active now |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| **28** | **131** | **45** | **11** | **21** | **24/28** | **2** |
+| **28** | **131** | **45** | **11** | **21** | **23/28** | **2** |
 
 ## 🏆 Star leaderboard
 
@@ -46,8 +46,8 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 - 🔥 **[fde-from-scratch](https://github.com/mchittineni/fde-from-scratch)** · yesterday · [test: cover guides, csp, no-js fallback and dev server](https://github.com/mchittineni/fde-from-scratch/commit/d1bcd69c923c3b77dd04e2be4ce08e37f0156684)
 - 🔥 **[ultimate-ai-engineering-guide](https://github.com/mchittineni/ultimate-ai-engineering-guide)** · 2 days ago · [Merge pull request #6 from mchittineni/docs/readme-badges](https://github.com/mchittineni/ultimate-ai-engineering-guide/commit/d8a760e11a31bbe7843a690db601319f1a328144)
 - ✨ **[ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide)** · 4 days ago · [docs(readme): describe globe layout](https://github.com/mchittineni/ultimate-devops-guide/commit/d6b82704de8a3d00edb714ea4638378a2e6d70ea)
-- 🌱 **[repo-radar](https://github.com/mchittineni/repo-radar)** · 2 weeks ago · [fix(git-tracker): auto-updated project status with latest...](https://github.com/mchittineni/repo-radar/commit/398ec8da7cef34542cfaf5f0a34920e5f94faf9d)
-- 🌱 **[mchittineni](https://github.com/mchittineni/mchittineni)** · 2 weeks ago · [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/0af50d033a090464b8cc380cbc9c146aabccd7a2)
+- 🌱 **[repo-radar](https://github.com/mchittineni/repo-radar)** · 2 weeks ago · [fix(git-tracker): auto-updated project status with latest...](https://github.com/mchittineni/repo-radar/commit/29c6f29e06192c3e0ee5b238b91bb92b22d2a767)
+- 🌱 **[mchittineni](https://github.com/mchittineni/mchittineni)** · 2 weeks ago · [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/eadbdf68897e5e16bf17af77757b0599add89e83)
 - 🌱 **[aws-platform-engineering-lab](https://github.com/mchittineni/aws-platform-engineering-lab)** · 2 weeks ago · [ci: bump bridgecrewio/checkov-action (#97)](https://github.com/mchittineni/aws-platform-engineering-lab/commit/17bfdbfe87368a8f656d3422c3a9331713f38c00)
 
 ## 🧬 Language mix
@@ -322,7 +322,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 | 4 | 🌱 [mchittineni](https://github.com/mchittineni/mchittineni) | 4 | 1 | 0 | ✅ pass | 2 weeks ago |
 | 5 | 🔥 [fde-from-scratch](https://github.com/mchittineni/fde-from-scratch) | 3 | 1 | 0 | ❌ fail | yesterday |
 | 6 | 🌱 [india-village-finder](https://github.com/mchittineni/india-village-finder) | 2 | 1 | 0 | ✅ pass | 1 month ago |
-| 7 | 🌱 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 2 | 1 | 0 | ✅ pass | 3 weeks ago |
+| 7 | 🌱 [iacsecbench](https://github.com/mchittineni/iacsecbench) | 2 | 1 | 0 | ❌ fail | 3 weeks ago |
 | 8 | 🌱 [tf-arch-diagram-generator](https://github.com/mchittineni/tf-arch-diagram-generator) | 2 | 1 | 0 | ✅ pass | 3 weeks ago |
 | 9 | 🌱 [Terraform-Scripts](https://github.com/mchittineni/Terraform-Scripts) | 2 | 1 | 0 | · none | 1 month ago |
 | 10 | 🌱 [ai-job-serve](https://github.com/mchittineni/ai-job-serve) | 2 | 0 | 0 | ✅ pass | 1 month ago |
@@ -466,8 +466,8 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | | |
 |---|---|
-| **Latest commit** | [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/0af50d033a090464b8cc380cbc9c146aabccd7a2) |
-| **Commit date** | `2026-11-27` |
+| **Latest commit** | [chore(snake): refresh contribution animation [skip ci]](https://github.com/mchittineni/mchittineni/commit/eadbdf68897e5e16bf17af77757b0599add89e83) |
+| **Commit date** | `2026-11-28` |
 | **Author** | `github-actions[bot]` |
 | **Repo updated** | `2026-11-12` (2 weeks ago) |
 | **License** | `MIT License` |
@@ -552,7 +552,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
   &nbsp;<sub><code>iacsecbench</code></sub> &nbsp;·&nbsp; <code>Research</code>
   &nbsp;·&nbsp; ⭐ 2
   &nbsp;·&nbsp; 🍴 1
-  &nbsp;·&nbsp; CI ✅ pass
+  &nbsp;·&nbsp; CI ❌ fail
   <br><sub>An open framework and empirical benchmark for evaluating Infrastructure-as-Code security gates.</sub>
 </summary>
 <br>
@@ -794,7 +794,7 @@ Every repository, star, commit, and CI result — refreshed automatically by Git
 
 | | |
 |---|---|
-| **Latest commit** | [fix(git-tracker): auto-updated project status with latest changes [skip ci]](https://github.com/mchittineni/repo-radar/commit/398ec8da7cef34542cfaf5f0a34920e5f94faf9d) |
+| **Latest commit** | [fix(git-tracker): auto-updated project status with latest changes [skip ci]](https://github.com/mchittineni/repo-radar/commit/29c6f29e06192c3e0ee5b238b91bb92b22d2a767) |
 | **Commit date** | `2026-11-27` |
 | **Author** | `github-actions[bot]` |
 | **Repo updated** | `2026-11-12` (2 weeks ago) |
